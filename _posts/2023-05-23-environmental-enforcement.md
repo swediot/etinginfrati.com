@@ -1,7 +1,6 @@
 ---
 title: 'Environmental Enforcement in the EU: Insights from Administrative Cases in the US'
 date: 2023-05-23
-permalink: /posts/2013/05/blog1/
 tags:
 ---
 
