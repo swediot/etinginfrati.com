@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giulian Etingin-Frati"
 title_separator          : "-"
 name                     : &name "Giulian Etingin-Frati"
-description              : &description "Predoctoral Research Fellow at the Uiversity of Zurich"
+description              : &description "Predoctoral Research Fellow at the University of Zurich"
 url                      : https://etinginfrati.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swediot/etinginfrati.com"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=drAnBO4AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@LostinEcon"
