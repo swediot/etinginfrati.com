@@ -1,8 +1,4 @@
 currently_reading:
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
 - author: Barbara Kingsolver
   image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
   title: Demon Copperhead
@@ -20,6 +16,10 @@ currently_reading:
   title: The Heaven & Earth Grocery Store
   url: https://app.thestorygraph.com/books/b154ee3b-9f65-448b-8941-30fd0165b754
 recent_five_star:
+- author: Norman Ohler
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+  title: 'Blitzed: Drugs in Nazi Germany'
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
   title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
@@ -36,11 +36,11 @@ recent_five_star:
   image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
   title: House of Day, House of Night
   url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
-- author: Scott King
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
 recently_read:
+- author: Norman Ohler
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+  title: 'Blitzed: Drugs in Nazi Germany'
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
   title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
@@ -57,8 +57,4 @@ recently_read:
   image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
   title: Autumn
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-- author: Maylis de Kerangal
-  image: https://cdn.thestorygraph.com/gsxe4c5njgoamkarx796uqpm1tiq
-  title: Birth of a Bridge
-  url: https://app.thestorygraph.com/books/ec412347-c7b9-4cf9-9a68-54f977ef9d7c
-year_count: '160'
+year_count: '161'
