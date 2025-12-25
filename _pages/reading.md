@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 {% if site.data.books.year_count %}
-I read a lot, usually fiction but not always. Always happy to talk about books and get recommendations. So far, I have read {{ site.data.books.year_count }} books this year. For the complete list, see my StoryGraph [profile](https://app.thestorygraph.com/profile/swediot).
+I read a lot, usually fiction but not always. Always happy to talk about books and get recommendations. So far, I have read {{ site.data.books.year_count }} book{% if site.data.books.year_count != '1' %}s{% endif %} this year. For the complete list, see my StoryGraph [profile](https://app.thestorygraph.com/profile/swediot).
 {% endif %}
 
 ## Currently Reading
