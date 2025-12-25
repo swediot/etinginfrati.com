@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giulian Etingin-Frati"
 title_separator          : "-"
 name                     : &name "Giulian Etingin-Frati"
-description              : &description "Predoctoral Research Fellow at the University of Zurich"
+description              : &description "Doctoral researcher at KOF Swiss Economic Institute, ETH Zurich"
 url                      : https://etinginfrati.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swediot/etinginfrati.com"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giulian Etingin-Frati"
   avatar           : "profilepic.jpeg"
-  bio              : "Predoctoral Research Fellow at the University of Zurich"
+  bio              : "Doctoral researcher at KOF Swiss Economic Institute, ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
