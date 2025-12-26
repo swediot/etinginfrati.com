@@ -34,7 +34,7 @@
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
-  + .list__item .archive__item-title {
+  +.list__item .archive__item-title {
     margin-top: 0.5em;
   }
 }
@@ -43,9 +43,16 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
-  a + a {
+  a+a {
     opacity: 0.5;
   }
+}
+
+.archive__item-subtitle {
+  font-size: 0.85em;
+  color: lighten($text-color, 30%);
+  margin-top: -0.25em;
+  margin-bottom: 1em;
 }
 
 /* remove border*/
@@ -61,7 +68,7 @@
   margin-top: 0;
   font-size: $type-size-6;
 
-  & + p {
+  &+p {
     text-indent: 0;
   }
 }
@@ -69,20 +76,54 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+
   img {
     width: 100%;
   }
 }
 
-.archive__item:hover {
-  .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
+.archive__item {
+  position: relative;
+  background-color: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1em;
+  margin-bottom: 2em;
+  transition: all 0.2s ease-in-out;
 
   .archive__item-title {
-    text-decoration: underline;
+    margin-top: 0;
+  }
+
+  &:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+
+    .archive__item-title {
+      text-decoration: none;
+      color: $primary-color;
+    }
   }
 }
+
+.archive__item-teaser {
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+  }
+}
+
+// .archive__item:hover {
+//   .archive__item-teaser {
+//     box-shadow: 0 0 10px rgba(#000, 0.25);
+//   }
+// 
+//   .archive__item-title {
+//     text-decoration: underline;
+//   }
+// }
 
 
 /*
@@ -130,14 +171,17 @@
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
+
     .archive__item-teaser {
       max-height: 200px;
     }
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
+    margin-left: 0;
+    /* reset before mixin does its thing*/
+    margin-right: 0;
+    /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {

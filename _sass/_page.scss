@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +55,9 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -64,8 +66,8 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
@@ -101,7 +103,7 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -225,6 +227,36 @@
    Page meta
    ========================================================================== */
 
+.page__meta-container {
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid $border-color;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+
+  p {
+    display: inline-block;
+    margin: 0;
+    color: $gray;
+  }
+
+  .page__date,
+  .page__venue {
+    margin-right: 1em;
+  }
+
+  .page__byline {
+    display: block;
+    margin-top: 0.5em;
+  }
+}
+
+.page__byline {
+  display: block;
+  margin-top: 0.5em;
+}
+
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
@@ -300,6 +332,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,

@@ -2,9 +2,8 @@
 title: 'Would Electing More Women Make the U.S. Congress Less Polarized?'
 date: 2024-05-13
 tags:
+author: Giulian Etingin-Frati and Pamela Campa. Originally published by the <a href="https://freepolicybriefs.org/2024/05/13/electing-women-congress-less-polarized/">FREE Network</a>.
 ---
-
-By Giulian Etingin-Frati and Pamela Campa. Originally published by the [FREE Network](https://freepolicybriefs.org/2024/05/13/electing-women-congress-less-polarized/).
 
 With growing ideological polarization in the electorate and among U.S. Congress members, the view that electing more women would help solve partisan gridlocks has also grown especially popular. In this policy brief we review recent evidence on gender differences in cooperative behavior among legislators and argue that the prediction that a more female U.S. Congress would be less polarized does not find strong support in the data. While, in the past, Republican women have cooperated more with Democrats than their male colleagues we find evidence that this was due to higher ideological proximity between Republican women and Democrats rather than gender per se. Among Democrats, women actually appear to cooperate less with the opposite party than their male colleagues. Moreover, in recent years gender differences in ideology among Republicans have been narrowing, which also reduce gender differences in cooperation with the opposite party.
 
