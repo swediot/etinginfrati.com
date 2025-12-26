@@ -1,0 +1,4 @@
+{%- assign n = include.number | append: '' -%}
+{%- assign size = n | size -%}
+{%- if size <= 3 -%} {{ n }} {%- elsif size <=6 -%} {%- assign right=n | slice: -3, 3 -%} {%- assign left_size=size |
+    minus: 3 -%} {%- assign left=n | slice: 0, left_size -%} {{ left }},{{ right }} {%- else -%} {{ n }} {%- endif -%}
