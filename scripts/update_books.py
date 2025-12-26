@@ -58,19 +58,37 @@ def parse_book_pane(pane):
 
     return book if book.get('title') else None
 
-def get_year_stats(page, url):
+def get_profile_stats(page, url):
+    """Scrapes profile page for various stats."""
     soup = get_soup(page, url)
+    stats = {'year_count': '0', 'to_read_count': '0'}
     if not soup:
-        return None
+        return stats
     
+    # 1. Year Count ("THIS YEAR")
     for div in soup.find_all('div'):
-        if div.get_text(strip=True).upper() == "THIS YEAR":
+        text = div.get_text(strip=True).upper()
+        
+        if text == "THIS YEAR":
             parent = div.find_parent('div')
             if parent:
                 num_span = parent.select_one('.tabular-nums')
                 if num_span:
-                    return num_span.get_text(strip=True)
-    return "0"
+                    stats['year_count'] = num_span.get_text(strip=True)
+                    
+    # 2. To Read Count
+    # Look for: <a href="/to-read/swediot">To-Read Pile (1309)</a>
+    to_read_link = soup.select_one(f'a[href*="/to-read/{USERNAME.lower()}"]')
+    if to_read_link:
+        text = to_read_link.get_text(strip=True)
+        if '(' in text and ')' in text:
+            try:
+                count = text.split('(')[1].split(')')[0]
+                stats['to_read_count'] = count
+            except IndexError:
+                pass
+
+    return stats
 
 def get_books_from_url(page, url, limit=None):
     soup = get_soup(page, url)
@@ -123,9 +141,11 @@ def main():
             print("Scraping 'Recent 5 Star Reads'...")
             data['recent_five_star'] = get_books_from_url(page, f"{BASE_URL}/five_star_reads/{USERNAME}", limit=5)
             
-            # 4. Year Stats
-            print("Scraping 'Year Stats'...")
-            data['year_count'] = get_year_stats(page, f"{BASE_URL}/profile/{USERNAME}")
+            # 4. Profile Stats
+            print("Scraping 'Profile Stats'...")
+            stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
+            data['year_count'] = stats['year_count']
+            data['to_read_count'] = stats['to_read_count']
             
         finally:
             browser.close()
