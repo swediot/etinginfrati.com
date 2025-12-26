@@ -2,9 +2,8 @@
 title: 'Environmental Enforcement in the EU: Insights from Administrative Cases in the US'
 date: 2023-05-23
 tags:
+author: Giulian Etingin-Frati and Pamela Campa. Originally published by the <a href="https://freepolicybriefs.org/2023/05/23/environmental-enforcement-european-union/">FREE Network</a>.
 ---
-
-By Giulian Etingin-Frati and Pamela Campa. Originally published by the [FREE Network](https://freepolicybriefs.org/2023/05/23/environmental-enforcement-european-union/).
 
 In March 2023, the European Parliament’s legal affairs committee voted unanimously in favor of a proposed update to the EU Directive on environmental crimes (Directive 2008/99/EC). The update seeks to step up enforcement of environmental legislation across Members States through criminal law aimed at severely punishing very serious environmental offenses. We argue that, while laudable in its goal of strengthening enforcement of environmental regulation at the EU level, the current effort might be insufficient since moderately serious offenses might remain largely unpunished. To address this shortcoming, we propose harmonizing administrative law as well. We consider additional benefits from relying on administrative law in terms of flexibility of punishment design, based on the US experience of using environmentally beneficial projects performed in affected areas as a form of punishment in administrative environmental settlements. We discuss evidence on the merits and potential limitations of the US approach based on Campa and Muehlenbachs (2022) and conclude that such an approach is worth considering in the EU context.
 
