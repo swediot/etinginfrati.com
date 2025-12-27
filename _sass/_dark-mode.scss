@@ -114,6 +114,9 @@
     /* Footer */
     .page__footer {
         color: #bbb;
+        background-color: #1e1e1e;
+        /* Match body background or slightly different */
+        border-top-color: #444;
 
         a {
             color: #fff;
