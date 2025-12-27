@@ -1,0 +1,159 @@
+/* ==========================================================================
+   Dark Mode Preferences
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+    }
+
+    /* Headings */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #fff;
+    }
+
+    /* Links */
+    a {
+        color: lighten($link-color, 10%);
+
+        &:hover {
+            color: lighten($link-color, 20%);
+        }
+    }
+
+    /* Code Blocks */
+    tt,
+    code,
+    kbd,
+    samp,
+    pre {
+        background-color: #2d2d2d;
+        border-color: #444;
+    }
+
+    p>code,
+    a>code,
+    li>code,
+    figcaption>code,
+    td>code {
+        background-color: #2d2d2d;
+        border-color: #444;
+        color: #e0e0e0;
+        box-shadow: none;
+    }
+
+    /* Blockquotes */
+    blockquote {
+        color: #bbb;
+        border-left-color: $link-color;
+    }
+
+    /* Horizontal Rules */
+    hr {
+        border-top-color: #444;
+    }
+
+    /* Tables */
+    table {
+        border-bottom-color: #444;
+    }
+
+    th {
+        border-bottom-color: #444;
+    }
+
+    td {
+        border-bottom-color: #444;
+    }
+
+    tr,
+    td,
+    th {
+        border-color: #444;
+    }
+
+    /* Navigation / Header */
+    .greedy-nav {
+        background-color: #1e1e1e;
+
+        a {
+            color: #e0e0e0;
+
+            &:hover {
+                color: #fff;
+            }
+        }
+
+        .hidden-links {
+            background-color: #2d2d2d;
+            border-color: #444;
+
+            a {
+                &:hover {
+                    background-color: #3d3d3d;
+                    color: #fff;
+                }
+            }
+
+            &:before {
+                border-color: #444 transparent;
+            }
+
+            &:after {
+                border-color: #2d2d2d transparent;
+            }
+        }
+    }
+
+    /* Footer */
+    .page__footer {
+        color: #bbb;
+
+        a {
+            color: #fff;
+        }
+    }
+
+    /* Archive Items (Cards) */
+    .archive__item {
+        background-color: #2d2d2d;
+        border-color: #444;
+
+        &:hover {
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+        }
+    }
+
+    .archive__item-teaser {
+        background-color: #2d2d2d;
+    }
+
+    /* Sidebar */
+    .sidebar {
+        /* Ensure all text and icons in sidebar are light */
+        color: #e0e0e0;
+
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p,
+        li,
+        i,
+        .fa {
+            color: #e0e0e0;
+        }
+
+        /* Specific override for author URLs to ensure icons get colored */
+        .author__urls li i {
+            color: #e0e0e0;
+        }
+    }
+}
