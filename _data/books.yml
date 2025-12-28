@@ -1,4 +1,8 @@
 currently_reading:
+- author: Ottessa Moshfegh
+  image: https://cdn.thestorygraph.com/6kkcvyccs3qc73qbrt26n5ycmto0
+  title: My Year of Rest and Relaxation
+  url: https://app.thestorygraph.com/books/39ab9f2d-9dde-4cc2-8287-a01c6340a1f9
 - author: Barbara Kingsolver
   image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
   title: Demon Copperhead
@@ -57,5 +61,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/spqu1kebkdzuf1etpmr76sgm5p5o
   title: Milk Fed
   url: https://app.thestorygraph.com/books/0fb3e051-665b-47c5-9a54-5d1a77f90925
-to_read_count: '1311'
+to_read_count: '1310'
 year_count: '162'
