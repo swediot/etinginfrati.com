@@ -110,6 +110,39 @@ def get_books_from_url(page, url, limit=None):
                 break
     return books
 
+def get_rolling_year_books_count(page):
+    """Calculates books read in the current month + last 12 months."""
+    print("Calculating rolling year book count...")
+    total_count = 0
+    today = datetime.date.today()
+    
+    # Current month (0) + 12 previous months = 13 months total
+    for i in range(13):
+        year = today.year
+        month = today.month - i
+        
+        while month <= 0:
+            month += 12
+            year -= 1
+            
+        url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
+        soup = get_soup(page, url)
+        if soup:
+            count_node = soup.select_one('.search-results-count')
+            if count_node:
+                text = count_node.get_text(strip=True)
+                # Text example: "3 books" or "1 book"
+                try:
+                    count = int(text.split()[0])
+                    total_count += count
+                    print(f"  {year}-{month}: {count} books")
+                except (ValueError, IndexError):
+                    print(f"  {year}-{month}: Could not parse count from '{text}'")
+            else:
+                print(f"  {year}-{month}: No count element found. Assuming 0.")
+
+    return str(total_count)
+
 def main():
     try:
         from playwright.sync_api import sync_playwright
@@ -144,7 +177,9 @@ def main():
             # 4. Profile Stats
             print("Scraping 'Profile Stats'...")
             stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
-            data['year_count'] = stats['year_count']
+            
+            # 5. Rolling Year Count (Current month + last 12 months)
+            data['year_count'] = get_rolling_year_books_count(page)
             data['to_read_count'] = stats['to_read_count']
             
         finally:
