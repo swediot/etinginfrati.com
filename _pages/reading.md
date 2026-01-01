@@ -4,7 +4,7 @@ title: "Reading"
 author_profile: true
 ---
 
-I read a lot, usually fiction but not always. Always happy to talk about books and get recommendations. I have read {{ site.data.books.year_count }} book{% if site.data.books.year_count != '1' %}s{% endif %} this year and have {% include format_number.html number=site.data.books.to_read_count %} books in my [to-read pile](https://app.thestorygraph.com/to-read/swediot). For the complete list, see my StoryGraph [profile](https://app.thestorygraph.com/profile/swediot). I get most of my books from [Vastela Books](https://www.vastelabooks.com/) in Zurich.
+I read a lot, usually fiction but not always. Always happy to talk about books and get recommendations. I have read {{ site.data.books.year_count }} book{% if site.data.books.year_count != '1' %}s{% endif %} in the last year year and have {% include format_number.html number=site.data.books.to_read_count %} books in my [to-read pile](https://app.thestorygraph.com/to-read/swediot). For the complete list, see my StoryGraph [profile](https://app.thestorygraph.com/profile/swediot). I get most of my books from [Vastela Books](https://www.vastelabooks.com/) in Zurich.
 
 ## Currently Reading
 
