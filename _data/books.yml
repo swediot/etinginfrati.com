@@ -3,10 +3,6 @@ currently_reading:
   image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
   title: Norwegian Wood
   url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
-- author: Barbara Kingsolver
-  image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
-  title: Demon Copperhead
-  url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +29,10 @@ recent_five_star:
   title: House of Day, House of Night
   url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
 recently_read:
+- author: Barbara Kingsolver
+  image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
+  title: Demon Copperhead
+  url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
 - author: Sally Rooney
   image: https://cdn.thestorygraph.com/3andys22ic0kg3oxudarvkxy3y1b
   title: Conversations with Friends
@@ -49,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
   title: 'Blitzed: Drugs in Nazi Germany'
   url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
 to_read_count: '1310'
-year_count: '164'
+year_count: '165'
