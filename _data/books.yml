@@ -8,6 +8,10 @@ currently_reading:
   title: The Heaven & Earth Grocery Store
   url: https://app.thestorygraph.com/books/b154ee3b-9f65-448b-8941-30fd0165b754
 recent_five_star:
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 - author: Norman Ohler
   image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
   title: 'Blitzed: Drugs in Nazi Germany'
@@ -24,11 +28,11 @@ recent_five_star:
   image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-- author: Olga Tokarczuk
-  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
-  title: House of Day, House of Night
-  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
 recently_read:
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 - author: Barbara Kingsolver
   image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
   title: Demon Copperhead
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/k4hi3eye9jbi881czaxcwdqegcvw
   title: The Safekeep
   url: https://app.thestorygraph.com/books/3e16c6c9-2e16-4da5-bbb7-c5a22212b5b2
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-to_read_count: '1310'
-year_count: '165'
+to_read_count: '1312'
+year_count: '166'
