@@ -1,4 +1,8 @@
 currently_reading:
+- author: Dolki Min
+  image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
+  title: Walking Practice
+  url: https://app.thestorygraph.com/books/6009fa69-6b13-425d-b61c-ba9d3148903b
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -45,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/3andys22ic0kg3oxudarvkxy3y1b
   title: Conversations with Friends
   url: https://app.thestorygraph.com/books/9761376e-7d2f-4777-a81d-9827ca6c5ada
-to_read_count: '1315'
+to_read_count: '1314'
 year_count: '168'
