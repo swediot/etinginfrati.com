@@ -1,12 +1,4 @@
 currently_reading:
-- author: Constantin Vayenas
-  image: https://cdn.thestorygraph.com/q10t8ggyp3x3lgan18oc0y6teq5v
-  title: 'Der, Die, Das: The Secrets of German Gender'
-  url: https://app.thestorygraph.com/books/11fa12ea-3845-4114-af89-426df4231f4d
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
-  title: Norwegian Wood
-  url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +25,14 @@ recent_five_star:
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
+  title: Norwegian Wood
+  url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
+- author: Constantin Vayenas
+  image: https://cdn.thestorygraph.com/q10t8ggyp3x3lgan18oc0y6teq5v
+  title: 'Der, Die, Das: The Secrets of German Gender'
+  url: https://app.thestorygraph.com/books/11fa12ea-3845-4114-af89-426df4231f4d
 - author: Edmund de Waal
   image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
   title: Letters to Camondo
@@ -45,13 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/3andys22ic0kg3oxudarvkxy3y1b
   title: Conversations with Friends
   url: https://app.thestorygraph.com/books/9761376e-7d2f-4777-a81d-9827ca6c5ada
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/6kkcvyccs3qc73qbrt26n5ycmto0
-  title: My Year of Rest and Relaxation
-  url: https://app.thestorygraph.com/books/39ab9f2d-9dde-4cc2-8287-a01c6340a1f9
-- author: Yael van der Wouden
-  image: https://cdn.thestorygraph.com/k4hi3eye9jbi881czaxcwdqegcvw
-  title: The Safekeep
-  url: https://app.thestorygraph.com/books/3e16c6c9-2e16-4da5-bbb7-c5a22212b5b2
-to_read_count: '1314'
-year_count: '166'
+to_read_count: '1315'
+year_count: '168'
