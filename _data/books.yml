@@ -1,4 +1,8 @@
 currently_reading:
+- author: Vladimir Nabokov
+  image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
+  title: Transparent Things
+  url: https://app.thestorygraph.com/books/9becbe00-0b04-49b7-995c-8ae40e38e09a
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -45,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
   title: Demon Copperhead
   url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
-to_read_count: '1313'
+to_read_count: '1331'
 year_count: '169'
