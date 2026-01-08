@@ -1,8 +1,4 @@
 currently_reading:
-- author: Dolki Min
-  image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
-  title: Walking Practice
-  url: https://app.thestorygraph.com/books/6009fa69-6b13-425d-b61c-ba9d3148903b
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -29,6 +25,10 @@ recent_five_star:
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Dolki Min
+  image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
+  title: Walking Practice
+  url: https://app.thestorygraph.com/books/6009fa69-6b13-425d-b61c-ba9d3148903b
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
   title: Norwegian Wood
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
   title: Demon Copperhead
   url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
-- author: Sally Rooney
-  image: https://cdn.thestorygraph.com/3andys22ic0kg3oxudarvkxy3y1b
-  title: Conversations with Friends
-  url: https://app.thestorygraph.com/books/9761376e-7d2f-4777-a81d-9827ca6c5ada
-to_read_count: '1314'
-year_count: '168'
+to_read_count: '1313'
+year_count: '169'
