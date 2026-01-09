@@ -1,8 +1,4 @@
 currently_reading:
-- author: Vladimir Nabokov
-  image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
-  title: Transparent Things
-  url: https://app.thestorygraph.com/books/9becbe00-0b04-49b7-995c-8ae40e38e09a
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -29,6 +25,10 @@ recent_five_star:
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Vladimir Nabokov
+  image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
+  title: Transparent Things
+  url: https://app.thestorygraph.com/books/9becbe00-0b04-49b7-995c-8ae40e38e09a
 - author: Dolki Min
   image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
   title: Walking Practice
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-- author: Barbara Kingsolver
-  image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
-  title: Demon Copperhead
-  url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
 to_read_count: '1331'
-year_count: '169'
+year_count: '170'
