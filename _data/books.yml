@@ -1,8 +1,4 @@
 currently_reading:
-- author: Andrey Platonov
-  image: https://cdn.thestorygraph.com/kgu8x68v6ml5l1mo1hq7obwpnimg
-  title: Happy Moscow
-  url: https://app.thestorygraph.com/books/416705a0-ac83-4974-a03b-5a7450b820c4
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -49,5 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-to_read_count: '1331'
+to_read_count: '1333'
 year_count: '170'
