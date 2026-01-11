@@ -1,4 +1,8 @@
 currently_reading:
+- author: Solvej Balle
+  image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
+  title: On the Calculation of Volume I
+  url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -45,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-to_read_count: '1333'
+to_read_count: '1332'
 year_count: '170'
