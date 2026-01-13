@@ -1,12 +1,12 @@
 currently_reading:
+- author: Amorina Kingdon
+  image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
+  title: 'Sing Like Fish: How Sound Rules Life Under Water'
+  url: https://app.thestorygraph.com/books/9318ee78-241f-495e-bd97-ac164958b174
 - author: Banu Mushtaq
   image: https://cdn.thestorygraph.com/b7twl7bcyzi278654zuuwl0pvuur
   title: Heart Lamp
   url: https://app.thestorygraph.com/books/d1a726c0-17d5-44c6-9fd6-a3cf90803a31
-- author: Solvej Balle
-  image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
-  title: On the Calculation of Volume I
-  url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +33,10 @@ recent_five_star:
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Solvej Balle
+  image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
+  title: On the Calculation of Volume I
+  url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
 - author: Vladimir Nabokov
   image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
   title: Transparent Things
@@ -49,9 +53,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/q10t8ggyp3x3lgan18oc0y6teq5v
   title: 'Der, Die, Das: The Secrets of German Gender'
   url: https://app.thestorygraph.com/books/11fa12ea-3845-4114-af89-426df4231f4d
-- author: Edmund de Waal
-  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
-  title: Letters to Camondo
-  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-to_read_count: '1331'
-year_count: '170'
+to_read_count: '1334'
+year_count: '171'
