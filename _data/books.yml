@@ -3,10 +3,6 @@ currently_reading:
   image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
   title: 'Sing Like Fish: How Sound Rules Life Under Water'
   url: https://app.thestorygraph.com/books/9318ee78-241f-495e-bd97-ac164958b174
-- author: Banu Mushtaq
-  image: https://cdn.thestorygraph.com/b7twl7bcyzi278654zuuwl0pvuur
-  title: Heart Lamp
-  url: https://app.thestorygraph.com/books/d1a726c0-17d5-44c6-9fd6-a3cf90803a31
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +29,10 @@ recent_five_star:
   title: Tomorrow, and Tomorrow, and Tomorrow
   url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Banu Mushtaq
+  image: https://cdn.thestorygraph.com/b7twl7bcyzi278654zuuwl0pvuur
+  title: Heart Lamp
+  url: https://app.thestorygraph.com/books/d1a726c0-17d5-44c6-9fd6-a3cf90803a31
 - author: Solvej Balle
   image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
   title: On the Calculation of Volume I
@@ -49,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
   title: Norwegian Wood
   url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
-- author: Constantin Vayenas
-  image: https://cdn.thestorygraph.com/q10t8ggyp3x3lgan18oc0y6teq5v
-  title: 'Der, Die, Das: The Secrets of German Gender'
-  url: https://app.thestorygraph.com/books/11fa12ea-3845-4114-af89-426df4231f4d
 to_read_count: '1334'
-year_count: '171'
+year_count: '172'
