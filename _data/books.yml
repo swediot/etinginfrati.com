@@ -1,4 +1,8 @@
 currently_reading:
+- author: Anne Enright
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+  title: The Wren, The Wren
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 - author: Amorina Kingdon
   image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
   title: 'Sing Like Fish: How Sound Rules Life Under Water'
@@ -49,5 +53,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
   title: Norwegian Wood
   url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
-to_read_count: '1334'
+to_read_count: '1333'
 year_count: '172'
