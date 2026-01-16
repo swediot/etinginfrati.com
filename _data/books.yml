@@ -1,8 +1,4 @@
 currently_reading:
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 - author: Amorina Kingdon
   image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
   title: 'Sing Like Fish: How Sound Rules Life Under Water'
@@ -12,6 +8,10 @@ currently_reading:
   title: The Heaven & Earth Grocery Store
   url: https://app.thestorygraph.com/books/b154ee3b-9f65-448b-8941-30fd0165b754
 recent_five_star:
+- author: Anne Enright
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+  title: The Wren, The Wren
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 - author: Edmund de Waal
   image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
   title: Letters to Camondo
@@ -28,11 +28,11 @@ recent_five_star:
   image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
   title: Autumn
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-- author: Gabrielle Zevin
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-  title: Tomorrow, and Tomorrow, and Tomorrow
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
+- author: Anne Enright
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+  title: The Wren, The Wren
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 - author: Banu Mushtaq
   image: https://cdn.thestorygraph.com/b7twl7bcyzi278654zuuwl0pvuur
   title: Heart Lamp
@@ -49,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
   title: Walking Practice
   url: https://app.thestorygraph.com/books/6009fa69-6b13-425d-b61c-ba9d3148903b
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/zbtgl6iq5qo67chvsvm5shh0dawu
-  title: Norwegian Wood
-  url: https://app.thestorygraph.com/books/de555e5d-be7e-498a-b7f3-c953f3edb2fd
 to_read_count: '1333'
-year_count: '172'
+year_count: '173'
