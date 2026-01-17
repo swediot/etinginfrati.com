@@ -1,8 +1,12 @@
 currently_reading:
-- author: Amorina Kingdon
-  image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
-  title: 'Sing Like Fish: How Sound Rules Life Under Water'
-  url: https://app.thestorygraph.com/books/9318ee78-241f-495e-bd97-ac164958b174
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/q9qz4igg6i7kzro7290oomxkan6c
+  title: 'Birthday Stories: Selected and Introduced by Haruki Murakami'
+  url: https://app.thestorygraph.com/books/70d70d01-295f-45f2-a244-0acd237551ca
+- author: Sarah Bernstein
+  image: https://cdn.thestorygraph.com/c8y6lke284f6rgfs5key77wc6oe6
+  title: Study for Obedience
+  url: https://app.thestorygraph.com/books/df794c6f-ef66-4283-8df4-04d87a2eb399
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -29,6 +33,10 @@ recent_five_star:
   title: Autumn
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
 recently_read:
+- author: Amorina Kingdon
+  image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
+  title: 'Sing Like Fish: How Sound Rules Life Under Water'
+  url: https://app.thestorygraph.com/books/9318ee78-241f-495e-bd97-ac164958b174
 - author: Anne Enright
   image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
   title: The Wren, The Wren
@@ -45,9 +53,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
   title: Transparent Things
   url: https://app.thestorygraph.com/books/9becbe00-0b04-49b7-995c-8ae40e38e09a
-- author: Dolki Min
-  image: https://cdn.thestorygraph.com/f79zfbm94epr7fh19wp97i5bk5bj
-  title: Walking Practice
-  url: https://app.thestorygraph.com/books/6009fa69-6b13-425d-b61c-ba9d3148903b
 to_read_count: '1333'
-year_count: '173'
+year_count: '174'
