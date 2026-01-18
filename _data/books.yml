@@ -1,12 +1,8 @@
 currently_reading:
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/q9qz4igg6i7kzro7290oomxkan6c
-  title: 'Birthday Stories: Selected and Introduced by Haruki Murakami'
-  url: https://app.thestorygraph.com/books/70d70d01-295f-45f2-a244-0acd237551ca
-- author: Sarah Bernstein
-  image: https://cdn.thestorygraph.com/c8y6lke284f6rgfs5key77wc6oe6
-  title: Study for Obedience
-  url: https://app.thestorygraph.com/books/df794c6f-ef66-4283-8df4-04d87a2eb399
+- author: Mary Beard
+  image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
+  title: 'SPQR: A History of Ancient Rome'
+  url: https://app.thestorygraph.com/books/07b78e4b-6cc9-4b2f-9727-c0f7e8b3f8f1
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +29,10 @@ recent_five_star:
   title: Autumn
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
 recently_read:
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/q9qz4igg6i7kzro7290oomxkan6c
+  title: 'Birthday Stories: Selected and Introduced by Haruki Murakami'
+  url: https://app.thestorygraph.com/books/70d70d01-295f-45f2-a244-0acd237551ca
 - author: Amorina Kingdon
   image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
   title: 'Sing Like Fish: How Sound Rules Life Under Water'
@@ -49,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
   title: On the Calculation of Volume I
   url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
-- author: Vladimir Nabokov
-  image: https://cdn.thestorygraph.com/x5w9f5241b2t4q5gewjvuqtsjrhp
-  title: Transparent Things
-  url: https://app.thestorygraph.com/books/9becbe00-0b04-49b7-995c-8ae40e38e09a
-to_read_count: '1333'
-year_count: '174'
+to_read_count: '1332'
+year_count: '175'
