@@ -1,4 +1,8 @@
 currently_reading:
+- author: Ivan Turgenev
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+  title: Fathers and Sons
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
 - author: Mary Beard
   image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
   title: 'SPQR: A History of Ancient Rome'
@@ -49,5 +53,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
   title: On the Calculation of Volume I
   url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
-to_read_count: '1332'
+to_read_count: '1331'
 year_count: '175'
