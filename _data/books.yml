@@ -3,10 +3,6 @@ currently_reading:
   image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
   title: Fathers and Sons
   url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-- author: Mary Beard
-  image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
-  title: 'SPQR: A History of Ancient Rome'
-  url: https://app.thestorygraph.com/books/07b78e4b-6cc9-4b2f-9727-c0f7e8b3f8f1
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -33,6 +29,10 @@ recent_five_star:
   title: Autumn
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
 recently_read:
+- author: Mary Beard
+  image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
+  title: 'SPQR: A History of Ancient Rome'
+  url: https://app.thestorygraph.com/books/07b78e4b-6cc9-4b2f-9727-c0f7e8b3f8f1
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/q9qz4igg6i7kzro7290oomxkan6c
   title: 'Birthday Stories: Selected and Introduced by Haruki Murakami'
@@ -49,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/b7twl7bcyzi278654zuuwl0pvuur
   title: Heart Lamp
   url: https://app.thestorygraph.com/books/d1a726c0-17d5-44c6-9fd6-a3cf90803a31
-- author: Solvej Balle
-  image: https://cdn.thestorygraph.com/pvhkn4n1asm48yt2d1ela5vezxkt
-  title: On the Calculation of Volume I
-  url: https://app.thestorygraph.com/books/527858bf-900d-45f4-b3eb-c158b7602411
 to_read_count: '1332'
-year_count: '175'
+year_count: '176'
