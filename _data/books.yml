@@ -1,4 +1,8 @@
 currently_reading:
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
 - author: James McBride
   image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
   title: The Heaven & Earth Grocery Store
@@ -45,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
   title: The Wren, The Wren
   url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-to_read_count: '1332'
+to_read_count: '1333'
 year_count: '177'
