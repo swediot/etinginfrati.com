@@ -3,10 +3,6 @@ currently_reading:
   image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
   title: Five Little Indians
   url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-- author: James McBride
-  image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
-  title: The Heaven & Earth Grocery Store
-  url: https://app.thestorygraph.com/books/b154ee3b-9f65-448b-8941-30fd0165b754
 recent_five_star:
 - author: Ivan Turgenev
   image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
@@ -29,6 +25,10 @@ recent_five_star:
   title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
   url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
 recently_read:
+- author: James McBride
+  image: https://cdn.thestorygraph.com/mow5u7v3c7qd671lcvy9kmkksrfj
+  title: The Heaven & Earth Grocery Store
+  url: https://app.thestorygraph.com/books/2e6e766f-04ed-44bd-97f4-f395ff1947dd
 - author: Ivan Turgenev
   image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
   title: Fathers and Sons
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/eg20hpkjgkiht7o15so9u4j2nh6z
   title: 'Sing Like Fish: How Sound Rules Life Under Water'
   url: https://app.thestorygraph.com/books/9318ee78-241f-495e-bd97-ac164958b174
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 to_read_count: '1333'
-year_count: '177'
+year_count: '178'
