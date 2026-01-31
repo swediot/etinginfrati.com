@@ -10,13 +10,22 @@ USERNAME = "swediot"
 BASE_URL = "https://app.thestorygraph.com"
 OUTPUT_FILE = "_data/books.yml"
 
-def get_soup(page, url):
+def get_soup(page, url, wait_for_selector=None):
     print(f"Fetching {url}...")
     try:
         # Increase timeout just in case
         page.goto(url, timeout=60000)
         # Wait for some content to ensure not just a loading spinner
         page.wait_for_load_state('domcontentloaded')
+        
+        if wait_for_selector:
+             try:
+                page.wait_for_selector(wait_for_selector, timeout=5000)
+             except Exception:
+                # Optional: log warning if verbose
+                # print(f"  Warning: Timeout waiting for selector '{wait_for_selector}'")
+                pass
+
         content = page.content()
         return BeautifulSoup(content, 'html.parser')
     except Exception as e:
@@ -28,16 +37,28 @@ def parse_book_pane(pane):
     book = {}
     
     # Title & URL
-    book_links = pane.select('a[href^="/books/"]')
-    for link in book_links:
-        text = link.get_text(strip=True)
+    # Valid title links start with /books/ and are NOT editions links
+    # Selector: .book-pane a[href^='/books/']:not([href*='/editions'])
+    book_link = pane.select_one("a[href^='/books/']:not([href*='/editions'])")
+    
+    if book_link:
+        text = book_link.get_text(strip=True)
         if text:
             book['title'] = text
-            book['url'] = BASE_URL + link['href']
-            break
+            book['url'] = BASE_URL + book_link['href']
+
+    # Fallback to any book link if specific one not found (robustness)
+    if 'title' not in book:
+         book_links = pane.select('a[href^="/books/"]')
+         for link in book_links:
+            text = link.get_text(strip=True)
+            if text:
+                book['title'] = text
+                book['url'] = BASE_URL + link['href']
+                break
             
-    if 'title' not in book and book_links:
-        book['url'] = BASE_URL + book_links[0]['href']
+    if 'title' not in book and book_link:
+         book['url'] = BASE_URL + book_link['href']
         
     # Author
     author_node = pane.select_one('a[href^="/authors/"]')
@@ -126,7 +147,10 @@ def get_rolling_year_books_count(page):
             year -= 1
             
         url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
-        soup = get_soup(page, url)
+        
+        # Wait for the count element to ensure dynamic content is loaded
+        soup = get_soup(page, url, wait_for_selector='.search-results-count')
+        
         if soup:
             count_node = soup.select_one('.search-results-count')
             if count_node:
@@ -140,6 +164,8 @@ def get_rolling_year_books_count(page):
                     print(f"  {year}-{month}: Could not parse count from '{text}'")
             else:
                 print(f"  {year}-{month}: No count element found. Assuming 0.")
+
+    return str(total_count)
 
     return str(total_count)
 
@@ -184,6 +210,32 @@ def main():
             
         finally:
             browser.close()
+            
+    # Validate data before saving
+    errors = []
+    
+    # 1. To Read Count
+    if data.get('to_read_count', '0') == '0':
+        errors.append("Error: To Read count is 0")
+        
+    # 2. Year Count
+    if data.get('year_count', '0') == '0':
+        errors.append("Error: Year count is 0")
+        
+    # 3. Recently Read
+    if not data.get('recently_read'):
+        errors.append("Error: Recently read list is empty")
+        
+    # 4. Recent 5 Star
+    if not data.get('recent_five_star'):
+        errors.append("Error: Recent 5 Star list is empty")
+
+    if errors:
+        print("\nValidation Failed:")
+        for error in errors:
+            print(f"  - {error}")
+        print("\nExiting without saving.")
+        sys.exit(1)
     
     # Save to _data/books.yml
     print(f"Saving to {OUTPUT_FILE}...")
