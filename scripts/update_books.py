@@ -148,9 +148,22 @@ def get_rolling_year_books_count(page):
             
         url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
         
-        # Wait for the count element to ensure dynamic content is loaded
-        soup = get_soup(page, url, wait_for_selector='.search-results-count')
-        
+        # Retry logic for flaky connections/bot detection
+        max_retries = 3
+        for attempt in range(max_retries):
+            # Wait for the count element to ensure dynamic content is loaded
+            # Attempt to wait, but catch error if not found to allow debugging
+            try:
+                 page.wait_for_selector('.search-results-count', timeout=5000 + (attempt * 2000))
+                 soup = get_soup(page, url)
+                 if soup and soup.select_one('.search-results-count'):
+                     # Found it!
+                     break
+            except Exception:
+                 if attempt < max_retries - 1:
+                     print(f"  Warning: Timeout on {url}. Retrying ({attempt + 1}/{max_retries})...")
+                     page.reload()
+    
         if soup:
             count_node = soup.select_one('.search-results-count')
             if count_node:
