@@ -1,9 +1,25 @@
-currently_reading:
-- author: Ali Smith
-  image: https://cdn.thestorygraph.com/yuub9zz2gksrmckrza57vcs9alop
-  title: Winter
-  url: https://app.thestorygraph.com/books/867f32ca-66b7-4eb6-b65c-4700541f8b73
+currently_reading: []
 recent_five_star: []
-recently_read: []
+recently_read:
+- author: John Green
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+  title: Everything is Tuberculosis
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: James McBride
+  image: https://cdn.thestorygraph.com/mow5u7v3c7qd671lcvy9kmkksrfj
+  title: The Heaven & Earth Grocery Store
+  url: https://app.thestorygraph.com/books/2e6e766f-04ed-44bd-97f4-f395ff1947dd
+- author: Ivan Turgenev
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+  title: Fathers and Sons
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+- author: Mary Beard
+  image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
+  title: 'SPQR: A History of Ancient Rome'
+  url: https://app.thestorygraph.com/books/07b78e4b-6cc9-4b2f-9727-c0f7e8b3f8f1
 to_read_count: '0'
 year_count: '0'
