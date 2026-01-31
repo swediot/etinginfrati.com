@@ -4,6 +4,8 @@ import yaml
 import os
 import datetime
 import sys
+import time
+import random
 
 # Configuration
 USERNAME = "swediot"
@@ -146,23 +148,65 @@ def get_rolling_year_books_count(page):
             month += 12
             year -= 1
             
+        if i > 0:
+             # Add delay between month requests to act more like a human
+             time.sleep(random.uniform(1.0, 3.0))
+
         url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
         
         # Retry logic for flaky connections/bot detection
         max_retries = 3
+        soup = None
         for attempt in range(max_retries):
             # Wait for the count element to ensure dynamic content is loaded
-            # Attempt to wait, but catch error if not found to allow debugging
             try:
-                 page.wait_for_selector('.search-results-count', timeout=5000 + (attempt * 2000))
-                 soup = get_soup(page, url)
+                 # Check for soft block (redirect to profile)
+                 # Note: page.goto is called inside get_soup, so we might need to handle it differently
+                 # We will call page.goto explicitly here to check title before get_soup
+                 page.goto(url, timeout=60000)
+                 page.wait_for_load_state('domcontentloaded')
+                 
+                 current_title = page.title()
+                 if "?" in url and current_title == f"{USERNAME} | The StoryGraph":
+                      print(f"  Warning: Soft block detected (redirected to profile). Waiting longer...")
+                      time.sleep(10 + (attempt * 5))
+                      # Try to reset by going to the main books page first
+                      page.goto(f"{BASE_URL}/books-read/{USERNAME}")
+                      time.sleep(2)
+                      page.goto(url)
+
+                 # Cloudflare challenges can take 5-10 seconds or more.
+                 # Increase base timeout to 20s to be safe.
+                 page.wait_for_selector('.search-results-count', timeout=20000 + (attempt * 5000))
+                 
+                 content = page.content()
+                 soup = BeautifulSoup(content, 'html.parser')
+                 
                  if soup and soup.select_one('.search-results-count'):
                      # Found it!
                      break
-            except Exception:
+            except Exception as e:
                  if attempt < max_retries - 1:
                      print(f"  Warning: Timeout on {url}. Retrying ({attempt + 1}/{max_retries})...")
+                     try:
+                        print(f"  Page Title: {page.title()}")
+                     except:
+                        pass
+                     # Exponential backoff with jitter
+                     sleep_time = (2 ** attempt) + random.uniform(0, 1)
+                     time.sleep(sleep_time)
                      page.reload()
+                 else:
+                     # Final attempt failed
+                     print(f"  Error: Failed to find element after {max_retries} attempts.")
+                     try:
+                         print(f"  Final Page Title: {page.title()}")
+                         # Save screenshot for debugging
+                         screenshot_path = f"debug_fail_{year}_{month}.png"
+                         page.screenshot(path=screenshot_path)
+                         print(f"  Saved screenshot to {screenshot_path}")
+                     except:
+                         pass
     
         if soup:
             count_node = soup.select_one('.search-results-count')
@@ -193,31 +237,35 @@ def main():
     
     print("Launching headless browser...")
     with sync_playwright() as p:
-        # Launch browser
-        browser = p.chromium.launch(headless=True)
+        # Launch browser with stealth args
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"]
+        )
         context = browser.new_context(
             user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         )
         page = context.new_page()
 
         try:
-            # 1. Currently Reading
+            # 1. Profile Stats (Get this out of the way first)
+            print("Scraping 'Profile Stats'...")
+            stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
+
+            # 2. Currently Reading
             print("Scraping 'Currently Reading'...")
             data['currently_reading'] = get_books_from_url(page, f"{BASE_URL}/currently-reading/{USERNAME}")
-            
-            # 2. Recently Read (Last 5)
-            print("Scraping 'Recently Read'...")
-            data['recently_read'] = get_books_from_url(page, f"{BASE_URL}/books-read/{USERNAME}", limit=5)
             
             # 3. Recent 5 Star Reads (Last 5)
             print("Scraping 'Recent 5 Star Reads'...")
             data['recent_five_star'] = get_books_from_url(page, f"{BASE_URL}/five_star_reads/{USERNAME}", limit=5)
-            
-            # 4. Profile Stats
-            print("Scraping 'Profile Stats'...")
-            stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
+
+            # 4. Recently Read (Last 5) - This puts us on the books-read page context
+            print("Scraping 'Recently Read'...")
+            data['recently_read'] = get_books_from_url(page, f"{BASE_URL}/books-read/{USERNAME}", limit=5)
             
             # 5. Rolling Year Count (Current month + last 12 months)
+            # We are already on books-read from step 4, so this flow is more natural
             data['year_count'] = get_rolling_year_books_count(page)
             data['to_read_count'] = stats['to_read_count']
             
