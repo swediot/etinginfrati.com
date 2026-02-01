@@ -1,6 +1,6 @@
 ---
 title: "Gender Differences in Cooperation in the U.S. Congress? An Extension of Gagliarducci and Paserman (2022)"
-collection: publications
+collection: research
 excerpt: 
 date: 11/2025
 venue: Economic Inquiry

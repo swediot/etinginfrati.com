@@ -12,15 +12,15 @@ I'm an early career researcher in labour econonics with a focus on non-wage amen
 
 <div style="margin-top: 40px;"></div>
 
-## Recent publications
+## Recent research
 
 <ul>
-  {% assign sorted_papers = site.publications | sort: 'date' | reverse %}
+  {% assign sorted_papers = site.research | sort: 'date' | reverse %}
   {% for paper in sorted_papers limit:2 %}
     <li><a href="{{ paper.url }}">{{ paper.title }}</a><br><i>{{ paper.venue }} {{ paper.date | date: "%Y" }}</i></li>
   {% endfor %}
 </ul> 
-<p style="text-align: right;"><a href="/publications/">All papers &rarr;</a></p> 
+<p style="text-align: right;"><a href="/research/">All papers &rarr;</a></p> 
 
 ## Recent blog posts
 
