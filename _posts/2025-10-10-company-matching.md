@@ -154,3 +154,6 @@ LLM APIs can be slow, expensive, and prone to timeouts. Processing thousands of 
 
 ## Conclusion
 By layering exact matching, vector-based fuzzy matching, full-text search, and Large Language Model verification, I achieve a result that is both high-volume and high-accuracy. This approach allows me to process datasets that were previously too messy or too large to handle manually, ensuring reliable data for downstream economic analysis.
+
+## Code
+All code can be accessed [here][(https://github.com/swediot/firmmatchr).
