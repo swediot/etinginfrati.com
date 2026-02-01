@@ -243,8 +243,16 @@ def main():
             args=["--disable-blink-features=AutomationControlled"]
         )
         context = browser.new_context(
-            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36'
         )
+        
+        # Apply stealth
+        try:
+            from playwright_stealth import stealth_sync
+            stealth_sync(context)
+        except ImportError:
+            print("Warning: playwright-stealth not found. Skipping stealth mode.")
+
         page = context.new_page()
 
         try:
