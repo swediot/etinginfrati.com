@@ -1,65 +1,49 @@
 currently_reading:
-- author: Sally Rooney
-  image: https://cdn.thestorygraph.com/3andys22ic0kg3oxudarvkxy3y1b
-  title: Conversations with Friends
-  url: https://app.thestorygraph.com/books/9761376e-7d2f-4777-a81d-9827ca6c5ada
-- author: Barbara Kingsolver
-  image: https://cdn.thestorygraph.com/0f6ar262zk1fzfoxwtg92nl7swxd
-  title: Demon Copperhead
-  url: https://app.thestorygraph.com/books/25ecb0d7-6c0e-4c86-9153-90ea52ab93ed
-- author: Jerry Brotton
-  image: https://cdn.thestorygraph.com/pdx2ank0mwkcxtwutz0g096grldd
-  title: A History of the World in 12 Maps
-  url: https://app.thestorygraph.com/books/1339667e-af99-4127-9d62-d22cae14b71c
-- author: Stanisław Lem
-  image: https://cdn.thestorygraph.com/qlkdx3igrnu8jgwssy8j1pkz7obb
-  title: 'The Cyberiad: Fables for the Cybernetic Age'
-  url: https://app.thestorygraph.com/books/f893a3e4-dc78-4584-bd43-e8cebbe1e17e
-- author: James McBride
-  image: https://cdn.thestorygraph.com/0odrzpsys6uqpl20poaleyxlyrir
-  title: The Heaven & Earth Grocery Store
-  url: https://app.thestorygraph.com/books/b154ee3b-9f65-448b-8941-30fd0165b754
-recent_five_star:
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
 - author: Ali Smith
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-  title: Autumn
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-- author: Gabrielle Zevin
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-  title: Tomorrow, and Tomorrow, and Tomorrow
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-- author: Olga Tokarczuk
-  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
-  title: House of Day, House of Night
-  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
+  image: https://cdn.thestorygraph.com/yuub9zz2gksrmckrza57vcs9alop
+  title: Winter
+  url: https://app.thestorygraph.com/books/867f32ca-66b7-4eb6-b65c-4700541f8b73
+recent_five_star:
+- author: John Green
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+  title: Everything is Tuberculosis
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: Ivan Turgenev
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+  title: Fathers and Sons
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+- author: Anne Enright
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+  title: The Wren, The Wren
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 recently_read:
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/6kkcvyccs3qc73qbrt26n5ycmto0
-  title: My Year of Rest and Relaxation
-  url: https://app.thestorygraph.com/books/39ab9f2d-9dde-4cc2-8287-a01c6340a1f9
-- author: Yael van der Wouden
-  image: https://cdn.thestorygraph.com/k4hi3eye9jbi881czaxcwdqegcvw
-  title: The Safekeep
-  url: https://app.thestorygraph.com/books/3e16c6c9-2e16-4da5-bbb7-c5a22212b5b2
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-- author: Mikiso Hane
-  image: https://cdn.thestorygraph.com/ybmbhdw3m75a13rh7ptu8kw18if3
-  title: 'Japan: A Short History'
-  url: https://app.thestorygraph.com/books/f5120d55-f522-4a63-8ced-5c7ffcd12496
-to_read_count: '1309'
-year_count: '163'
+- author: John Green
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+  title: Everything is Tuberculosis
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: James McBride
+  image: https://cdn.thestorygraph.com/mow5u7v3c7qd671lcvy9kmkksrfj
+  title: The Heaven & Earth Grocery Store
+  url: https://app.thestorygraph.com/books/2e6e766f-04ed-44bd-97f4-f395ff1947dd
+- author: Ivan Turgenev
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+  title: Fathers and Sons
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+- author: Mary Beard
+  image: https://cdn.thestorygraph.com/x2ili73egg8qusbkko8lzxd5q0vq
+  title: 'SPQR: A History of Ancient Rome'
+  url: https://app.thestorygraph.com/books/07b78e4b-6cc9-4b2f-9727-c0f7e8b3f8f1
+to_read_count: '1336'
+year_count: '180'

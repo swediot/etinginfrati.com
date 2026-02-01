@@ -34,7 +34,7 @@
     {% if post.collection == 'teaching' %}
     <p class="archive__item-subtitle">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" |
       date: "%Y" }} </p>
-    {% elsif post.collection == 'publications' %}
+    {% elsif post.collection == 'research' %}
     <p class="archive__item-subtitle"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
     <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time

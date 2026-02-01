@@ -1,6 +1,6 @@
 ---
 title: "Mass Reproducibility and Replicability: A New Hope"
-collection: publications
+collection: research
 excerpt: 
 date: 10/2024
 venue: I4R Discussion Paper Series
