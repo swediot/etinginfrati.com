@@ -86,3 +86,6 @@ Finally, for inputs with slight typos (e.g., "Goetingen" instead of "Goettingen"
 ## Conclusion
 
 By combining aggressive regex cleaning with a hierarchical lookup (City $\rightarrow$ LAU $\rightarrow$ NUTS), this pipeline solves the granularity problem without expensive AI verification. 
+
+## Code
+All code can be accessed [here](https://github.com/swediot/placematchr).
