@@ -150,7 +150,9 @@ def get_rolling_year_books_count(page):
             
         if i > 0:
              # Add delay between month requests to act more like a human
-             time.sleep(random.uniform(1.0, 3.0))
+             delay = random.uniform(45.0, 75.0)
+             print(f"  Waiting {delay:.1f} seconds to avoid bot detection...")
+             time.sleep(delay)
 
         url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
         
@@ -256,25 +258,37 @@ def main():
         page = context.new_page()
 
         try:
+            def random_delay():
+                delay = random.uniform(10.0, 30.0)
+                print(f"Waiting {delay:.1f} seconds before next page...")
+                time.sleep(delay)
+                
             # 1. Profile Stats (Get this out of the way first)
             print("Scraping 'Profile Stats'...")
             stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
+
+            random_delay()
 
             # 2. Currently Reading
             print("Scraping 'Currently Reading'...")
             data['currently_reading'] = get_books_from_url(page, f"{BASE_URL}/currently-reading/{USERNAME}")
             
+            random_delay()
+
             # 3. Recent 5 Star Reads (Last 5)
             print("Scraping 'Recent 5 Star Reads'...")
             data['recent_five_star'] = get_books_from_url(page, f"{BASE_URL}/five_star_reads/{USERNAME}", limit=5)
+
+            random_delay()
 
             # 4. Recently Read (Last 5) - This puts us on the books-read page context
             print("Scraping 'Recently Read'...")
             data['recently_read'] = get_books_from_url(page, f"{BASE_URL}/books-read/{USERNAME}", limit=5)
             
-            # 5. Rolling Year Count (Current month + last 12 months)
-            # We are already on books-read from step 4, so this flow is more natural
-            data['year_count'] = get_rolling_year_books_count(page)
+            random_delay()
+
+            # 5. Year Count from profile stats
+            data['year_count'] = stats['year_count']
             data['to_read_count'] = stats['to_read_count']
             
         finally:
