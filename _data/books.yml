@@ -1,8 +1,4 @@
-currently_reading:
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/ks4kmtom4bxl17z4i17wm9t318q8
-  title: Eileen
-  url: https://app.thestorygraph.com/books/58be6d70-f82b-4826-8c3d-65a424da96d8
+currently_reading: []
 recent_five_star:
 - author: John Green
   image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
@@ -25,6 +21,10 @@ recent_five_star:
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 recently_read:
+- author: Ottessa Moshfegh
+  image: https://cdn.thestorygraph.com/ks4kmtom4bxl17z4i17wm9t318q8
+  title: Eileen
+  url: https://app.thestorygraph.com/books/58be6d70-f82b-4826-8c3d-65a424da96d8
 - author: Sam Selvon
   image: https://cdn.thestorygraph.com/8urruvyjt3ao7nd0di99kj5lz3p0
   title: The Lonely Londoners
@@ -41,9 +41,4 @@ recently_read:
   image: https://cdn.thestorygraph.com/yuub9zz2gksrmckrza57vcs9alop
   title: Winter
   url: https://app.thestorygraph.com/books/867f32ca-66b7-4eb6-b65c-4700541f8b73
-- author: John Green
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-  title: Everything is Tuberculosis
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-to_read_count: '1342'
-year_count: '3'
+to_read_count: '1343'
