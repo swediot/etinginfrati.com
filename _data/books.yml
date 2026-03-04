@@ -1,8 +1,8 @@
 currently_reading:
-- author: David Sedaris
-  image: https://cdn.thestorygraph.com/uw3rqan9koxe07mkc1qu8e4mnyh2
-  title: Calypso
-  url: https://app.thestorygraph.com/books/1ab259b6-648c-45d0-823b-a0d0e3256ee9
+- author: Gisèle Pelicot
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+  title: Et la joie de vivre
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
   title: Blind Willow, Sleeping Woman
@@ -29,6 +29,14 @@ recent_five_star:
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 recently_read:
+- author: David Sedaris
+  image: https://cdn.thestorygraph.com/uw3rqan9koxe07mkc1qu8e4mnyh2
+  title: Calypso
+  url: https://app.thestorygraph.com/books/1ab259b6-648c-45d0-823b-a0d0e3256ee9
+- author: Solvej Balle
+  image: https://cdn.thestorygraph.com/7cakynv53k8zl4zq6appu79h8q7y
+  title: On the Calculation of Volume III
+  url: https://app.thestorygraph.com/books/e23cf86a-263c-4217-9ca0-2bc1451cecdb
 - author: Sherwin B. Nuland
   image: https://cdn.thestorygraph.com/n6kuwboaylagmnmlr52plq1llqxj
   title: 'How We Die: Reflections of Life''s Final Chapter, New Edition'
@@ -41,12 +49,4 @@ recently_read:
   image: https://cdn.thestorygraph.com/8urruvyjt3ao7nd0di99kj5lz3p0
   title: The Lonely Londoners
   url: https://app.thestorygraph.com/books/8234c8ff-19c9-4891-88c5-45fa4d307375
-- author: Solvej Balle
-  image: https://cdn.thestorygraph.com/qoxrgm17v3phg5fccphg0eplk1r5
-  title: On the Calculation of Volume II
-  url: https://app.thestorygraph.com/books/8c537ec4-c190-456f-93a2-bfbfea6f13a9
-- author: Banana Yoshimoto
-  image: https://cdn.thestorygraph.com/nljuf194rkqtinyphc2y1zwsvp19
-  title: Kitchen
-  url: https://app.thestorygraph.com/books/c8dea5df-e63a-40d6-891d-915fb569ca73
-to_read_count: '1343'
+to_read_count: '1347'
