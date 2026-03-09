@@ -1,4 +1,8 @@
 currently_reading:
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
 - author: Gisèle Pelicot
   image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
   title: Et la joie de vivre
@@ -49,5 +53,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/8urruvyjt3ao7nd0di99kj5lz3p0
   title: The Lonely Londoners
   url: https://app.thestorygraph.com/books/8234c8ff-19c9-4891-88c5-45fa4d307375
-to_read_count: '1347'
+to_read_count: '1349'
 year_count: '25'
