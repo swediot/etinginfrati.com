@@ -4,6 +4,7 @@ collection: research
 excerpt: 
 date: 11/2025
 venue: Economic Inquiry
+category: publication
 paperurl: /files/2025 - GP Replication.pdf
 ---
 

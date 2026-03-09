@@ -1,0 +1,32 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+<h1 class="page__title">Publications</h1>
+<div class="research-section">
+{% for post in site.research reversed %}
+  {% if post.category == 'publication' %}
+    {% include archive-single.html %}
+    <div class="research-separator"></div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<h1 class="page__title">Working Papers</h1>
+<div class="research-section">
+{% for post in site.research reversed %}
+  {% if post.category == 'working_paper' %}
+    {% include archive-single.html %}
+    <div class="research-separator"></div>
+  {% endif %}
+{% endfor %}
+</div>

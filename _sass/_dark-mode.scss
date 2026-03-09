@@ -123,14 +123,9 @@
         }
     }
 
-    /* Archive Items (Cards) */
-    .archive__item {
-        background-color: #2d2d2d;
-        border-color: #444;
-
-        &:hover {
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
-        }
+    /* Archive Items */
+    .research-separator {
+        background-color: #444;
     }
 
     .archive__item-teaser {

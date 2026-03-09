@@ -4,6 +4,7 @@ collection: research
 excerpt: 
 date: 01/2025
 venue: I4R Discussion Paper Series
+category: working_paper
 paperurl: /files/2025 - I4R Metapaper.pdf
 ---
 

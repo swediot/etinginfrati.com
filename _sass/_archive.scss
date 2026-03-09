@@ -84,26 +84,26 @@
 
 .archive__item {
   position: relative;
-  background-color: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  padding: 1em;
-  margin-bottom: 2em;
-  transition: all 0.2s ease-in-out;
+  margin-bottom: 1.5em;
 
   .archive__item-title {
     margin-top: 0;
   }
+}
 
-  &:hover {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-    transform: translateY(-2px);
+.research-separator {
+  width: 50%;
+  height: 1px;
+  margin: 0.5em 0 1.5em 0;
+  background-color: $border-color;
+}
 
-    .archive__item-title {
-      text-decoration: none;
-      color: $primary-color;
-    }
-  }
+.research-section .research-separator:last-child {
+  display: none;
+}
+
+.research-section + .page__title {
+  margin-top: 1.5em;
 }
 
 .archive__item-teaser {
