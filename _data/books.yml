@@ -1,4 +1,13 @@
 currently_reading:
+- author: David Szalay
+  image: https://cdn.thestorygraph.com/w6nlmn348rofhqbelacv9y9zozsx
+  title: Flesh
+  url: https://app.thestorygraph.com/books/16f7db14-8790-41ad-9e35-3d612015956b
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
+  title: Blind Willow, Sleeping Woman
+  url: https://app.thestorygraph.com/books/e767c00f-22a9-4cd9-85ff-9e1c11a4fda1
+recent_five_star:
 - author: Ayşegül Savaş
   image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
   title: Long Distance
@@ -7,11 +16,6 @@ currently_reading:
   image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
   title: Et la joie de vivre
   url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
-  title: Blind Willow, Sleeping Woman
-  url: https://app.thestorygraph.com/books/e767c00f-22a9-4cd9-85ff-9e1c11a4fda1
-recent_five_star:
 - author: John Green
   image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
   title: Everything is Tuberculosis
@@ -24,15 +28,15 @@ recent_five_star:
   image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
   title: Fathers and Sons
   url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-- author: Edmund de Waal
-  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
-  title: Letters to Camondo
-  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
 recently_read:
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+- author: Gisèle Pelicot
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+  title: Et la joie de vivre
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
 - author: David Sedaris
   image: https://cdn.thestorygraph.com/uw3rqan9koxe07mkc1qu8e4mnyh2
   title: Calypso
@@ -45,13 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/n6kuwboaylagmnmlr52plq1llqxj
   title: 'How We Die: Reflections of Life''s Final Chapter, New Edition'
   url: https://app.thestorygraph.com/books/e23f5d3a-da42-4470-9342-fe7622400e4e
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/ks4kmtom4bxl17z4i17wm9t318q8
-  title: Eileen
-  url: https://app.thestorygraph.com/books/58be6d70-f82b-4826-8c3d-65a424da96d8
-- author: Sam Selvon
-  image: https://cdn.thestorygraph.com/8urruvyjt3ao7nd0di99kj5lz3p0
-  title: The Lonely Londoners
-  url: https://app.thestorygraph.com/books/8234c8ff-19c9-4891-88c5-45fa4d307375
-to_read_count: '1349'
-year_count: '25'
+to_read_count: '1351'
+year_count: '27'
