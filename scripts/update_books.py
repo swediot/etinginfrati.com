@@ -34,56 +34,8 @@ def get_soup(page, url, wait_for_selector=None):
         print(f"Error fetching {url}: {e}")
         return None
 
-def parse_book_pane(pane):
-    """Extracts book info from a standard StoryGraph book pane."""
-    book = {}
-    
-    # Title & URL
-    # Valid title links start with /books/ and are NOT editions links
-    # Selector: .book-pane a[href^='/books/']:not([href*='/editions'])
-    book_link = pane.select_one("a[href^='/books/']:not([href*='/editions'])")
-    
-    if book_link:
-        text = book_link.get_text(strip=True)
-        if text:
-            book['title'] = text
-            book['url'] = BASE_URL + book_link['href']
-
-    # Fallback to any book link if specific one not found (robustness)
-    if 'title' not in book:
-         book_links = pane.select('a[href^="/books/"]')
-         for link in book_links:
-            text = link.get_text(strip=True)
-            if text:
-                book['title'] = text
-                book['url'] = BASE_URL + link['href']
-                break
-            
-    if 'title' not in book and book_link:
-         book['url'] = BASE_URL + book_link['href']
-        
-    # Author
-    author_node = pane.select_one('a[href^="/authors/"]')
-    if author_node:
-        book['author'] = author_node.get_text(strip=True)
-        
-    # Image
-    img_node = pane.select_one('.book-cover img')
-    if not img_node:
-        img_node = pane.select_one('img')
-        
-    if img_node:
-        book['image'] = img_node.get('src')
-        if not book.get('title') and img_node.get('alt'):
-             parts = img_node['alt'].split(" by ")
-             if len(parts) >= 1:
-                 book['title'] = parts[0]
-
-    return book if book.get('title') else None
-
-def get_profile_stats(page, url):
-    """Scrapes profile page for various stats."""
-    soup = get_soup(page, url)
+def get_profile_stats_from_soup(soup):
+    """Extracts stats from already fetched profile soup."""
     stats = {'year_count': '0', 'to_read_count': '0'}
     if not soup:
         return stats
@@ -113,120 +65,49 @@ def get_profile_stats(page, url):
 
     return stats
 
-def get_books_from_url(page, url, limit=None):
-    soup = get_soup(page, url)
+def get_books_from_profile_section(soup, section_path, limit=None):
     books = []
-    if not soup:
-        return books
-        
-    panes = soup.select('.book-pane')
-    if not panes:
-        panes = soup.select('.read-books-row')
-
-    seen_urls = set()
-    for pane in panes:
-        book = parse_book_pane(pane)
-        if book and book.get('url') not in seen_urls:
-            books.append(book)
-            seen_urls.add(book['url'])
-            if limit and len(books) >= limit:
-                break
-    return books
-
-def get_rolling_year_books_count(page):
-    """Calculates books read in the current month + last 12 months."""
-    print("Calculating rolling year book count...")
-    total_count = 0
-    today = datetime.date.today()
+    seen = set()
     
-    # Current month (0) + 12 previous months = 13 months total
-    for i in range(13):
-        year = today.year
-        month = today.month - i
-        
-        while month <= 0:
-            month += 12
-            year -= 1
+    links = soup.select(f'a[href*="{section_path}"]')
+    
+    for link in links:
+        container = link.find_parent(lambda tag: tag.name == 'div' and tag.get('class') and any(c in tag.get('class') for c in ['col-span-2', 'mt-7', 'mt-1']))
+        if not container:
+            parent = link.find_parent('div')
+            if parent:
+                parent = parent.find_parent('div')
+            container = parent
             
-        if i > 0:
-             # Add delay between month requests to act more like a human
-             delay = random.uniform(45.0, 75.0)
-             print(f"  Waiting {delay:.1f} seconds to avoid bot detection...")
-             time.sleep(delay)
-
-        url = f"{BASE_URL}/books-read/{USERNAME}?year={year}&month={month}"
-        
-        # Retry logic for flaky connections/bot detection
-        max_retries = 3
-        soup = None
-        for attempt in range(max_retries):
-            # Wait for the count element to ensure dynamic content is loaded
-            try:
-                 # Check for soft block (redirect to profile)
-                 # Note: page.goto is called inside get_soup, so we might need to handle it differently
-                 # We will call page.goto explicitly here to check title before get_soup
-                 page.goto(url, timeout=60000)
-                 page.wait_for_load_state('domcontentloaded')
-                 
-                 current_title = page.title()
-                 if "?" in url and current_title == f"{USERNAME} | The StoryGraph":
-                      print(f"  Warning: Soft block detected (redirected to profile). Waiting longer...")
-                      time.sleep(10 + (attempt * 5))
-                      # Try to reset by going to the main books page first
-                      page.goto(f"{BASE_URL}/books-read/{USERNAME}")
-                      time.sleep(2)
-                      page.goto(url)
-
-                 # Cloudflare challenges can take 5-10 seconds or more.
-                 # Increase base timeout to 20s to be safe.
-                 page.wait_for_selector('.search-results-count', timeout=20000 + (attempt * 5000))
-                 
-                 content = page.content()
-                 soup = BeautifulSoup(content, 'html.parser')
-                 
-                 if soup and soup.select_one('.search-results-count'):
-                     # Found it!
-                     break
-            except Exception as e:
-                 if attempt < max_retries - 1:
-                     print(f"  Warning: Timeout on {url}. Retrying ({attempt + 1}/{max_retries})...")
-                     try:
-                        print(f"  Page Title: {page.title()}")
-                     except:
-                        pass
-                     # Exponential backoff with jitter
-                     sleep_time = (2 ** attempt) + random.uniform(0, 1)
-                     time.sleep(sleep_time)
-                     page.reload()
-                 else:
-                     # Final attempt failed
-                     print(f"  Error: Failed to find element after {max_retries} attempts.")
-                     try:
-                         print(f"  Final Page Title: {page.title()}")
-                         # Save screenshot for debugging
-                         screenshot_path = f"debug_fail_{year}_{month}.png"
-                         page.screenshot(path=screenshot_path)
-                         print(f"  Saved screenshot to {screenshot_path}")
-                     except:
-                         pass
-    
-        if soup:
-            count_node = soup.select_one('.search-results-count')
-            if count_node:
-                text = count_node.get_text(strip=True)
-                # Text example: "3 books" or "1 book"
-                try:
-                    count = int(text.split()[0])
-                    total_count += count
-                    print(f"  {year}-{month}: {count} books")
-                except (ValueError, IndexError):
-                    print(f"  {year}-{month}: Could not parse count from '{text}'")
-            else:
-                print(f"  {year}-{month}: No count element found. Assuming 0.")
-
-    return str(total_count)
-
-    return str(total_count)
+        if not container: continue
+            
+        book_links = container.select('.book-page-link')
+        for bl in book_links:
+            url = bl.get('href')
+            if url and url.startswith('/'):
+                url = "https://app.thestorygraph.com" + url
+                
+            if url in seen: continue
+            seen.add(url)
+            
+            img = bl.select_one('img')
+            if not img: continue
+            
+            alt = img.get('alt', '')
+            parts = alt.split(' by ')
+            title = parts[0].strip()
+            author = parts[1].strip() if len(parts) > 1 else ''
+            
+            books.append({
+                'title': title,
+                'author': author,
+                'url': url,
+                'image': img.get('src')
+            })
+            
+    if limit:
+        books = books[:limit]
+    return books
 
 def main():
     try:
@@ -250,46 +131,48 @@ def main():
         
         # Apply stealth
         try:
-            from playwright_stealth import stealth_sync
-            stealth_sync(context)
+            import playwright_stealth
+            if hasattr(playwright_stealth, 'Stealth'):
+                # Handle v2.x breaking changes
+                stealth = playwright_stealth.Stealth()
+                if hasattr(stealth, 'apply_stealth_sync'):
+                    stealth.apply_stealth_sync(context)
+                else:
+                    stealth_sync = getattr(playwright_stealth, 'stealth_sync', None)
+                    if stealth_sync:
+                        stealth_sync(context)
+            else:
+                # Fallback to v1.x
+                playwright_stealth.stealth_sync(context)
         except ImportError:
             print("Warning: playwright-stealth not found. Skipping stealth mode.")
 
         page = context.new_page()
 
         try:
-            def random_delay():
-                delay = random.uniform(10.0, 30.0)
-                print(f"Waiting {delay:.1f} seconds before next page...")
-                time.sleep(delay)
+            print("Scraping Profile Page...")
+            soup = get_soup(page, f"{BASE_URL}/profile/{USERNAME}")
+            if not soup:
+                print("Failed to get profile page.")
+                sys.exit(1)
                 
-            # 1. Profile Stats (Get this out of the way first)
-            print("Scraping 'Profile Stats'...")
-            stats = get_profile_stats(page, f"{BASE_URL}/profile/{USERNAME}")
-
-            random_delay()
-
-            # 2. Currently Reading
-            print("Scraping 'Currently Reading'...")
-            data['currently_reading'] = get_books_from_url(page, f"{BASE_URL}/currently-reading/{USERNAME}")
-            
-            random_delay()
-
-            # 3. Recent 5 Star Reads (Last 5)
-            print("Scraping 'Recent 5 Star Reads'...")
-            data['recent_five_star'] = get_books_from_url(page, f"{BASE_URL}/five_star_reads/{USERNAME}", limit=5)
-
-            random_delay()
-
-            # 4. Recently Read (Last 5) - This puts us on the books-read page context
-            print("Scraping 'Recently Read'...")
-            data['recently_read'] = get_books_from_url(page, f"{BASE_URL}/books-read/{USERNAME}", limit=5)
-            
-            random_delay()
-
-            # 5. Year Count from profile stats
+            # 1. Profile Stats
+            print("Extracting 'Profile Stats'...")
+            stats = get_profile_stats_from_soup(soup)
             data['year_count'] = stats['year_count']
             data['to_read_count'] = stats['to_read_count']
+
+            # 2. Currently Reading
+            print("Extracting 'Currently Reading'...")
+            data['currently_reading'] = get_books_from_profile_section(soup, f"/currently-reading/")
+            
+            # 3. Recent 5 Star Reads (Last 5)
+            print("Extracting 'Recent 5 Star Reads'...")
+            data['recent_five_star'] = get_books_from_profile_section(soup, f"/five_star_reads/", limit=5)
+
+            # 4. Recently Read (Last 5)
+            print("Extracting 'Recently Read'...")
+            data['recently_read'] = get_books_from_profile_section(soup, f"/books-read/", limit=5)
             
         finally:
             browser.close()
@@ -298,12 +181,12 @@ def main():
     errors = []
     
     # 1. To Read Count
-    if data.get('to_read_count', '0') == '0':
-        errors.append("Error: To Read count is 0")
+    if data.get('to_read_count', '0') == '0' or not data.get('to_read_count'):
+        errors.append("Error: To Read count is 0 or missing")
         
     # 2. Year Count
-    if data.get('year_count', '0') == '0':
-        errors.append("Error: Year count is 0")
+    if data.get('year_count', '0') == '0' or not data.get('year_count'):
+        errors.append("Error: Year count is 0 or missing")
         
     # 3. Recently Read
     if not data.get('recently_read'):
