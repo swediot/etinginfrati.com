@@ -36,7 +36,11 @@ I read a lot, usually fiction but not always. Always happy to talk about books a
   {% endfor %}
 </div>
 
-## Recent Five Star Reads
+<div style="text-align: right;">
+  <a href="https://app.thestorygraph.com/books-read/swediot" class="btn btn--info">More recently read &rarr;</a>
+</div>
+
+## Five Star Reads
 
 <div class="book-grid">
   {% for book in site.data.books.recent_five_star %}
@@ -48,6 +52,10 @@ I read a lot, usually fiction but not always. Always happy to talk about books a
       <em>{{ book.author }}</em></p>
     </div>
   {% endfor %}
+</div>
+
+<div style="text-align: right;">
+  <a href="https://app.thestorygraph.com/five_star_reads/swediot" class="btn btn--info">More five star reads &rarr;</a>
 </div>
 
 <style>
