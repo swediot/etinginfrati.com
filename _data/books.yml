@@ -3,31 +3,27 @@ currently_reading:
   image: https://cdn.thestorygraph.com/t0um88fravmgkba6buwy4ohdh3kv
   title: Gunk
   url: https://app.thestorygraph.com/books/a92186f2-14a9-44d8-8c20-030c0a35c5f7
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
-  title: Blind Willow, Sleeping Woman
-  url: https://app.thestorygraph.com/books/e767c00f-22a9-4cd9-85ff-9e1c11a4fda1
 recent_five_star:
-- author: Ayşegül Savaş
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-  title: Long Distance
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: Gisèle Pelicot
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-  title: Et la joie de vivre
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-- author: John Green
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-  title: Everything is Tuberculosis
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-- author: Michelle Good
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-  title: Five Little Indians
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-- author: Ivan Turgenev
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-  title: Fathers and Sons
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+- author: Madeline Miller
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+  title: The Song of Achilles
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+  title: Saint X
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+- author: Yaa Gyasi
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+  title: Transcendent Kingdom
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+- author: Ryszard Kapuściński
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+  title: Another Day of Life
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
 recently_read:
 - author: Benjamin Wood
   image: https://cdn.thestorygraph.com/5b5r3nczbfhnoxjytf78519gh3uj
