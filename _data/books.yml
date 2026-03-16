@@ -1,8 +1,8 @@
 currently_reading:
-- author: David Szalay
-  image: https://cdn.thestorygraph.com/w6nlmn348rofhqbelacv9y9zozsx
-  title: Flesh
-  url: https://app.thestorygraph.com/books/16f7db14-8790-41ad-9e35-3d612015956b
+- author: Saba Sams
+  image: https://cdn.thestorygraph.com/t0um88fravmgkba6buwy4ohdh3kv
+  title: Gunk
+  url: https://app.thestorygraph.com/books/a92186f2-14a9-44d8-8c20-030c0a35c5f7
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
   title: Blind Willow, Sleeping Woman
@@ -29,6 +29,18 @@ recent_five_star:
   title: Fathers and Sons
   url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
 recently_read:
+- author: Benjamin Wood
+  image: https://cdn.thestorygraph.com/5b5r3nczbfhnoxjytf78519gh3uj
+  title: Seascraper
+  url: https://app.thestorygraph.com/books/f6bdbf8a-2de0-4e47-9e13-92ce905e9b3e
+- author: Ali Smith
+  image: https://cdn.thestorygraph.com/qpx114oid9jf4t6r9y22kdd9jlio
+  title: Spring
+  url: https://app.thestorygraph.com/books/82591bee-363d-4765-adc8-616b4afb4890
+- author: David Szalay
+  image: https://cdn.thestorygraph.com/w6nlmn348rofhqbelacv9y9zozsx
+  title: Flesh
+  url: https://app.thestorygraph.com/books/16f7db14-8790-41ad-9e35-3d612015956b
 - author: Ayşegül Savaş
   image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
   title: Long Distance
@@ -37,17 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
   title: Et la joie de vivre
   url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-- author: David Sedaris
-  image: https://cdn.thestorygraph.com/uw3rqan9koxe07mkc1qu8e4mnyh2
-  title: Calypso
-  url: https://app.thestorygraph.com/books/1ab259b6-648c-45d0-823b-a0d0e3256ee9
-- author: Solvej Balle
-  image: https://cdn.thestorygraph.com/7cakynv53k8zl4zq6appu79h8q7y
-  title: On the Calculation of Volume III
-  url: https://app.thestorygraph.com/books/e23cf86a-263c-4217-9ca0-2bc1451cecdb
-- author: Sherwin B. Nuland
-  image: https://cdn.thestorygraph.com/n6kuwboaylagmnmlr52plq1llqxj
-  title: 'How We Die: Reflections of Life''s Final Chapter, New Edition'
-  url: https://app.thestorygraph.com/books/e23f5d3a-da42-4470-9342-fe7622400e4e
-to_read_count: '1351'
-year_count: '27'
+to_read_count: '1348'
+year_count: '30'
