@@ -1,29 +1,33 @@
 currently_reading:
+- author: Harriet Rix
+  image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
+  title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
+  url: https://app.thestorygraph.com/books/c898f35e-5798-4526-9c8f-37266838debb
 - author: Bryan Washington
   image: https://cdn.thestorygraph.com/hun4twv4q1uwts8kwah0t6p72kpc
   title: Palaver
   url: https://app.thestorygraph.com/books/a31bd016-6ca8-4ad1-a1b5-358296b2cbc5
 recent_five_star:
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-- author: Nicolas Lunabba
-  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
-  title: Will You Care If I Die?
-  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-  title: Elsewhere
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-- author: Nadine Gordimer
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-  title: Six Feet of the Country
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: May-Brit Akerholt, Jon Fosse
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+  title: Trilogy
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Charlie Mackesy
+  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
+  title: The Boy, the Mole, the Fox and the Horse
+  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+- author: Pajtim Statovci
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
+  title: Bolla
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+- author: Claire Keegan
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+  title: So Late in the Day
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
 recently_read:
 - author: Saba Sams
   image: https://cdn.thestorygraph.com/t0um88fravmgkba6buwy4ohdh3kv
@@ -45,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
   title: Long Distance
   url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-to_read_count: '1349'
+to_read_count: '1353'
 year_count: '31'
