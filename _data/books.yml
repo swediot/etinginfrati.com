@@ -3,32 +3,32 @@ currently_reading:
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
   title: The Road
   url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-- author: Harriet Rix
-  image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
-  title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
-  url: https://app.thestorygraph.com/books/c898f35e-5798-4526-9c8f-37266838debb
 recent_five_star:
-- author: Scott King
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
 - author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+  title: The Strange Library
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
 - author: Anne Enright
   image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
   title: The Wren, The Wren
   url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-- author: Charlie Mackesy
-  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
-  title: The Boy, the Mole, the Fox and the Horse
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+- author: Helen DeWitt
+  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+  title: The English Understand Wool
+  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
+- author: Gisèle Pelicot
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+  title: Et la joie de vivre
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
 recently_read:
+- author: Harriet Rix
+  image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
+  title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
+  url: https://app.thestorygraph.com/books/c898f35e-5798-4526-9c8f-37266838debb
 - author: Bryan Washington
   image: https://cdn.thestorygraph.com/hun4twv4q1uwts8kwah0t6p72kpc
   title: Palaver
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/qpx114oid9jf4t6r9y22kdd9jlio
   title: Spring
   url: https://app.thestorygraph.com/books/82591bee-363d-4765-adc8-616b4afb4890
-- author: David Szalay
-  image: https://cdn.thestorygraph.com/w6nlmn348rofhqbelacv9y9zozsx
-  title: Flesh
-  url: https://app.thestorygraph.com/books/16f7db14-8790-41ad-9e35-3d612015956b
 to_read_count: '1352'
-year_count: '32'
+year_count: '33'
