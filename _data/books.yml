@@ -1,30 +1,35 @@
 currently_reading:
+- author: Ia Genberg
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+  title: The Details
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+recent_five_star:
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: Nicolas Lunabba
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
+  title: Will You Care If I Die?
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+- author: Nadine Gordimer
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+  title: Six Feet of the Country
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Saou Ichikawa
+  image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
+  title: Hunchback
+  url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
+recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
   title: The Road
   url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-recent_five_star:
-- author: Ayşegül Savaş
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-  title: Long Distance
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
-  title: The Strange Library
-  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-- author: Helen DeWitt
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
-  title: The English Understand Wool
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-- author: Gisèle Pelicot
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-  title: Et la joie de vivre
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-recently_read:
 - author: Harriet Rix
   image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
   title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
@@ -41,9 +46,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/5b5r3nczbfhnoxjytf78519gh3uj
   title: Seascraper
   url: https://app.thestorygraph.com/books/f6bdbf8a-2de0-4e47-9e13-92ce905e9b3e
-- author: Ali Smith
-  image: https://cdn.thestorygraph.com/qpx114oid9jf4t6r9y22kdd9jlio
-  title: Spring
-  url: https://app.thestorygraph.com/books/82591bee-363d-4765-adc8-616b4afb4890
-to_read_count: '1352'
-year_count: '33'
+to_read_count: '1355'
+year_count: '34'
