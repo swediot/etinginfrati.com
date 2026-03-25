@@ -4,26 +4,27 @@ currently_reading:
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recent_five_star:
-- author: Alejandro Zambra
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-  title: My Documents
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-- author: Christopher Isherwood
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-  title: A Single Man
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-- author: Carys Davies
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-  title: Clear
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-- author: Tove Ditlevsen
-  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
-  title: 'The Trouble with Happiness: and Other Stories'
-  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
-- author: J.M. Coetzee
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-  title: Disgrace
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+  title: Saint X
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+- author: Madeline Miller
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+  title: The Song of Achilles
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: Maylis de Kerangal
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+  title: Eastbound
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+- author: Anne Enright
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+  title: The Wren, The Wren
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
 recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
