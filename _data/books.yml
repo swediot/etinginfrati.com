@@ -1,30 +1,33 @@
 currently_reading:
+- author: Bsrat Mezghebe
+  image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
+  title: I Hope You Find What You're Looking For
+  url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
 - author: Ia Genberg
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recent_five_star:
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-  title: Saint X
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-- author: Madeline Miller
-  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
-  title: The Song of Achilles
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-- author: Robin Wall Kimmerer
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
-  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-- author: Maylis de Kerangal
-  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
-  title: Eastbound
-  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
+- author: Helen DeWitt
+  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+  title: The English Understand Wool
+  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
+- author: Yōko Ogawa
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
+  title: Hotel Iris
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+- author: Claire Keegan
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+  title: So Late in the Day
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
+- author: Percival Everett
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+  title: James
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
 recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
