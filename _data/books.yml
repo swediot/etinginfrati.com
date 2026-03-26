@@ -8,26 +8,27 @@ currently_reading:
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recent_five_star:
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-  title: The Pearl
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-- author: Madeline Miller
-  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
-  title: The Song of Achilles
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
-  title: After the Quake
-  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-  title: How to Get Filthy Rich in Rising Asia
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-- author: Ali Smith
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-  title: Autumn
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
+- author: Sally Rooney
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
+  title: Intermezzo
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+- author: Melissa Broder
+  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
+  title: The Pisces
+  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+  title: Saint X
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
 recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
