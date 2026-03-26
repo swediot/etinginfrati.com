@@ -8,26 +8,26 @@ currently_reading:
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recent_five_star:
-- author: Helen DeWitt
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
-  title: The English Understand Wool
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-- author: Yōko Ogawa
-  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
-  title: Hotel Iris
-  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
-- author: Ayşegül Savaş
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-  title: Long Distance
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: Claire Keegan
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-  title: So Late in the Day
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+  title: The Pearl
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+- author: Madeline Miller
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+  title: The Song of Achilles
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
+  title: After the Quake
+  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
+- author: Mohsin Hamid
+  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
+  title: How to Get Filthy Rich in Rising Asia
+  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
+- author: Ali Smith
+  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
+  title: Autumn
+  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
 recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
