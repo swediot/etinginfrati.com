@@ -8,26 +8,27 @@ currently_reading:
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recent_five_star:
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-  title: The Pearl
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
 - author: Sandra Newman
   image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
   title: Julia
   url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-- author: Maylis de Kerangal
-  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
-  title: Eastbound
-  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
-- author: Kate Folk
-  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
-  title: Sky Daddy
-  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+  title: The Pearl
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+- author: J.M. Coetzee
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+  title: Disgrace
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+- author: Tanya Tagaq
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+  title: Split Tooth
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
 recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
