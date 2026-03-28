@@ -3,33 +3,32 @@ currently_reading:
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
+recent_five_star:
+- author: Maylis de Kerangal
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+  title: Eastbound
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+  title: Elsewhere
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+- author: Kazuo Ishiguro
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+  title: 'Nocturnes: Five Stories of Music and Nightfall'
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+- author: J.M. Coetzee
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+  title: 'Boyhood: Scenes from Provincial Life'
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+recently_read:
 - author: Ia Genberg
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-recent_five_star:
-- author: Robin Wall Kimmerer
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
-  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-- author: Sandra Newman
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-  title: Julia
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-  title: The Pearl
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-- author: J.M. Coetzee
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-  title: Disgrace
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-- author: Tanya Tagaq
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-  title: Split Tooth
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-recently_read:
 - author: Cormac McCarthy
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
   title: The Road
@@ -46,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/t0um88fravmgkba6buwy4ohdh3kv
   title: Gunk
   url: https://app.thestorygraph.com/books/a92186f2-14a9-44d8-8c20-030c0a35c5f7
-- author: Benjamin Wood
-  image: https://cdn.thestorygraph.com/5b5r3nczbfhnoxjytf78519gh3uj
-  title: Seascraper
-  url: https://app.thestorygraph.com/books/f6bdbf8a-2de0-4e47-9e13-92ce905e9b3e
 to_read_count: '1356'
-year_count: '34'
+year_count: '35'
