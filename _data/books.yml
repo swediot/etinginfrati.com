@@ -1,29 +1,33 @@
 currently_reading:
+- author: R.F. Kuang
+  image: https://cdn.thestorygraph.com/sfs35j4v2y88qrk4hv2hsldi5zxa
+  title: Yellowface
+  url: https://app.thestorygraph.com/books/2d7248cb-2d7a-4d3e-a45a-d1b995aeaaf8
 - author: Bsrat Mezghebe
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
 recent_five_star:
-- author: Claire Keegan
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-  title: So Late in the Day
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-- author: Matthew Desmond
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-  title: 'Evicted: Poverty and Profit in the American City'
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-  title: The Wind-Up Bird Chronicle
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+- author: Madeline Miller
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+  title: The Song of Achilles
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+- author: Helen DeWitt
+  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+  title: The English Understand Wool
+  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+- author: May-Brit Akerholt, Jon Fosse
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+  title: Trilogy
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+- author: Ia Genberg
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+  title: The Details
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recently_read:
 - author: Ia Genberg
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
