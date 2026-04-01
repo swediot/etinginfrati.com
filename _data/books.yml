@@ -8,26 +8,27 @@ currently_reading:
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
 recent_five_star:
-- author: Ia Genberg
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-  title: The Details
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-- author: Carys Davies
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-  title: Clear
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-- author: May-Brit Akerholt, Jon Fosse
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-  title: Trilogy
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-- author: Yaa Gyasi
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-  title: Transcendent Kingdom
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-- author: Michelle Good
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-  title: Five Little Indians
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+  title: The Pearl
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+- author: Tove Ditlevsen
+  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+  title: 'The Trouble with Happiness: and Other Stories'
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Kazuo Ishiguro
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+  title: 'Nocturnes: Five Stories of Music and Nightfall'
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
 recently_read:
 - author: Ia Genberg
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
