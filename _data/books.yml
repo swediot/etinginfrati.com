@@ -1,29 +1,33 @@
 currently_reading:
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
+  title: The Moon Is Down
+  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 - author: Bsrat Mezghebe
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
 recent_five_star:
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-  title: The Wind-Up Bird Chronicle
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+- author: Madeline Miller
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+  title: The Song of Achilles
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
 - author: Sandra Newman
   image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
   title: Julia
   url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Maylis de Kerangal
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+  title: Eastbound
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
 - author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-  title: How to Get Filthy Rich in Rising Asia
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-- author: Alejandro Zambra
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-  title: My Documents
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+  title: The Strange Library
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+- author: Kate Folk
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+  title: Sky Daddy
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
 recently_read:
 - author: R.F. Kuang
   image: https://cdn.thestorygraph.com/sfs35j4v2y88qrk4hv2hsldi5zxa
