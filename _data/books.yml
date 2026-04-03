@@ -1,34 +1,38 @@
 currently_reading:
+- author: Melissa Broder
+  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
+  title: Death Valley
+  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
 - author: John Steinbeck
   image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
   title: The Moon Is Down
   url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
+recent_five_star:
+- author: Carys Davies
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+  title: Clear
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+- author: Ocean Vuong
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+  title: The Emperor of Gladness
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+- author: Nadine Gordimer
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+  title: Six Feet of the Country
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Sally Rooney
+  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
+  title: Normal People
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
+- author: Gabrielle Zevin
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+  title: Tomorrow, and Tomorrow, and Tomorrow
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+recently_read:
 - author: Bsrat Mezghebe
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
-recent_five_star:
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-  title: Saint X
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-- author: Claire Keegan
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-  title: So Late in the Day
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-- author: Scott King
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-recently_read:
 - author: R.F. Kuang
   image: https://cdn.thestorygraph.com/sfs35j4v2y88qrk4hv2hsldi5zxa
   title: Yellowface
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
   title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
   url: https://app.thestorygraph.com/books/c898f35e-5798-4526-9c8f-37266838debb
-- author: Bryan Washington
-  image: https://cdn.thestorygraph.com/hun4twv4q1uwts8kwah0t6p72kpc
-  title: Palaver
-  url: https://app.thestorygraph.com/books/a31bd016-6ca8-4ad1-a1b5-358296b2cbc5
-to_read_count: '1356'
-year_count: '36'
+to_read_count: '1355'
+year_count: '37'
