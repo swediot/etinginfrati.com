@@ -13,6 +13,7 @@
 
   @include breakpoint($large) {
     display: flex;
+    flex-wrap: wrap;
     align-items: flex-start;
     gap: 1.5em;
   }
@@ -430,10 +431,10 @@
   padding-top: 1em;
   border-top: 1px solid $border-color;
   @include clearfix();
-  float: left;
+  width: 100%;
 
   @include breakpoint($large) {
-    @include pre(2.5 of 12);
+    padding-left: calc(20% + 1.5em);
   }
 
   a {
