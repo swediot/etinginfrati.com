@@ -3,6 +3,7 @@ title: 'Writing an Economics Paper with Claude: An Experiment in AI-Generated Re
 date: 2026-04-03
 tags:
 author: Giulian Etingin-Frati
+summary: "We submitted a paper on culture and overwork in Switzerland to the Journal for AI Generated Papers, written almost entirely with Claude and Gemini. This post explains what JAIGP is, how we used AI throughout the research process, and what we learned."
 ---
 
 ![Diagram of AI-assisted research process](/files/image-rostigraben.png)

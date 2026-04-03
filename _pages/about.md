@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an early career researcher in labour econonics with a focus on non-wage amenities and compensation inequality. My interest also include trade and gender economics. I aim to shed light on these interconnected fields, providing valuable insights into their real-world impact. Feel free to contact me at [giulian@etinginfrati.com](mailto:giulian@etinginfrati.com).
+I'm an early career researcher in labour economics with a focus on non-wage amenities and compensation inequality. My interests also include trade and gender economics. I aim to shed light on these interconnected fields, providing valuable insights into their real-world impacts. Feel free to contact me at [giulian@etinginfrati.com](mailto:giulian@etinginfrati.com).
 
 <div style="margin-top: 40px;"></div>
 

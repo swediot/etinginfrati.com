@@ -40,6 +40,10 @@
     <p class="archive__item-excerpt archive__item-excerpt--projects">{{ post.excerpt }}</p>
     {% endif %}
 
+    {% if post.summary %}
+    <p class="archive__item-excerpt archive__item-excerpt--projects">{{ post.summary }}</p>
+    {% endif %}
+
 
   </article>
 </div>

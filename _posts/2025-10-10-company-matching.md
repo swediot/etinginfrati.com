@@ -2,7 +2,8 @@
 title: 'Bridging the Gap: A Multi-Stage Approach for Company Name Matching'
 date: 2025-10-10
 tags:
-author: Giulian Etingin-Frati 
+author: Giulian Etingin-Frati
+summary: "Matching user-generated company names to official registries is harder than it looks. This post walks through a multi-stage pipeline that layers exact matching, fuzzy matching, full-text search, and LLM verification to achieve high-accuracy results."
 ---
 
 ![Diagram of matching process](/files/image-company-matching.png)

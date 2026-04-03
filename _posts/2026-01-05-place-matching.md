@@ -2,7 +2,8 @@
 title: 'Pinpointing the Place: Mapping Messy User Locations to Official NUTS Regions'
 date: 2026-01-05
 tags:
-author: Giulian Etingin-Frati 
+author: Giulian Etingin-Frati
+summary: "User-generated location data is messy — neighborhoods, ambiguous city names, and foreign cities all need handling. This post describes a pipeline that maps these inputs to official NUTS 3 regions using aggressive normalization and hierarchical lookups."
 ---
 
 ![Diagram of matching process](/files/image-place-matching.png)
