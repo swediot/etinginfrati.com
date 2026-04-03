@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
@@ -183,6 +183,9 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    font-size: 0.9em;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -213,6 +216,9 @@
 
         a {
           margin-left: 0;
+          text-transform: none;
+          font-size: 1em;
+          letter-spacing: -0.01em;
         }
       }
 
@@ -231,8 +237,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 2px;
+        background: $primary-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -257,17 +263,18 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    background: $background-color;
+    box-shadow: 0 4px 20px rgba(#000, 0.08);
 
     a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      text-transform: none;
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: mix(#fff, $primary-color, 90%);
       }
     }
 
@@ -292,7 +299,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: $background-color transparent;
       display: block;
       z-index: 1;
     }

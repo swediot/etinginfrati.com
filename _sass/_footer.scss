@@ -14,14 +14,14 @@
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 4.5em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background-color: transparent;
+  border-top: 1px solid rgba(#2B4A6F, 0.1);
 
   footer {
     @include clearfix;
@@ -30,9 +30,10 @@
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
+    text-align: center;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: 1040px;
     }
   }
 

@@ -10,16 +10,15 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    flex: 1;
+    min-width: 0;
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: none;
 
     &:hover {
-      text-decoration: underline;
-
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
@@ -30,9 +29,9 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
+  font-size: $type-size-3;
   color: mix(#fff, $gray, 25%);
-  border-bottom: 1px solid $border-color;
+  border-bottom: none;
 
   +.list__item .archive__item-title {
     margin-top: 0.5em;
@@ -41,7 +40,8 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
+  letter-spacing: -0.01em;
 
   a+a {
     opacity: 0.5;
@@ -50,7 +50,7 @@
 
 .archive__item-subtitle {
   font-size: 0.85em;
-  color: lighten($text-color, 30%);
+  color: #9A938D;
   margin-top: -0.25em;
   margin-bottom: 1em;
 }
@@ -92,10 +92,10 @@
 }
 
 .research-separator {
-  width: 50%;
+  width: 100%;
   height: 1px;
-  margin: 0.5em 0 1.5em 0;
-  background-color: $border-color;
+  margin: 1.5em 0 2em 0;
+  background-color: rgba(#2B4A6F, 0.1);
 }
 
 .research-section .research-separator:last-child {

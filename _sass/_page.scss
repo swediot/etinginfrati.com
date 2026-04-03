@@ -5,22 +5,28 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 3em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($large) {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5em;
+  }
+
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1040px;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
   }
 
   .page__inner-wrap {
@@ -36,7 +42,9 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  margin-bottom: 0.4em;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
 
   &+.page__meta {
     margin-top: -0.5em;
@@ -50,9 +58,15 @@
 
 .page__content {
 
+  iframe {
+    max-width: 100%;
+    display: block;
+  }
+
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid rgba(#2B4A6F, 0.1);
+    margin-top: 1.5em;
   }
 
   p,
@@ -75,10 +89,11 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($link-color, 0.3);
 
     &:hover {
-      text-decoration: underline;
+      border-bottom-color: $link-color;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -233,7 +248,7 @@
   padding-bottom: 0.5em;
   border-bottom: 1px solid $border-color;
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   p {
     display: inline-block;

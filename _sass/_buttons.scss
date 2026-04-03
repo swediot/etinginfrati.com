@@ -10,11 +10,12 @@
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.5em 1em;
+  padding: 0.6em 1.4em;
   color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
-  font-weight: bold;
+  font-weight: 600;
+  letter-spacing: 0.02em;
   text-align: center;
   text-decoration: none;
   background-color: $primary-color;
@@ -23,7 +24,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(#000, $primary-color, 15%);
   }
 
   .icon {

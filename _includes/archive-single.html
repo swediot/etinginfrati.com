@@ -37,17 +37,9 @@
     {% elsif post.collection == 'research' %}
     <p class="archive__item-subtitle"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'projects' %}
-    <p class="archive__item-excerpt">{{ post.excerpt }}</p>
-    {% elsif post.date %}
-    <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time
-        datetime="{{ post.date | default: " 1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" |
-        date: "%B %d, %Y" }}</time></p>
+    <p class="archive__item-excerpt archive__item-excerpt--projects">{{ post.excerpt }}</p>
     {% endif %}
 
-    {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" class="btn btn--primary btn--small"><i class="fa fa-download" aria-hidden="true"></i>
-      Download PDF</a>
-    {% endif %}
 
   </article>
 </div>

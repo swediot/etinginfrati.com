@@ -8,7 +8,9 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
+  border: 1px solid rgba(#2B4A6F, 0.12);
+  border-radius: $border-radius;
+  overflow: hidden;
 
   & + table {
     margin-top: 1em;
@@ -16,8 +18,8 @@ table {
 }
 
 thead {
-  background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  background-color: rgba(#2B4A6F, 0.04);
+  border-bottom: 1px solid rgba(#2B4A6F, 0.12);
 }
 
 th {

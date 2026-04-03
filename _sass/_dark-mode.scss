@@ -4,11 +4,15 @@
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1e1e1e;
-        color: #e0e0e0;
+        background-color: #141C24;
+        color: #D6DEE8;
         display: flex;
         flex-direction: column;
         min-height: 100vh;
+    }
+
+    html {
+        background-color: #141C24;
     }
 
     #main {
@@ -22,15 +26,15 @@
     h4,
     h5,
     h6 {
-        color: #fff;
+        color: #E8EDF5;
     }
 
     /* Links */
     a {
-        color: lighten($link-color, 10%);
+        color: #7BA3CC;
 
         &:hover {
-            color: lighten($link-color, 20%);
+            color: lighten(#7BA3CC, 15%);
         }
     }
 
@@ -40,8 +44,8 @@
     kbd,
     samp,
     pre {
-        background-color: #2d2d2d;
-        border-color: #444;
+        background-color: #1C2530;
+        border-color: #2E3D4F;
     }
 
     p>code,
@@ -49,100 +53,141 @@
     li>code,
     figcaption>code,
     td>code {
-        background-color: #2d2d2d;
-        border-color: #444;
-        color: #e0e0e0;
+        background-color: #1C2530;
+        border-color: #2E3D4F;
+        color: #D6DEE8;
         box-shadow: none;
     }
 
     /* Blockquotes */
     blockquote {
-        color: #bbb;
-        border-left-color: $link-color;
+        color: #A8B0BF;
+        border-left-color: #7BA3CC;
     }
 
     /* Horizontal Rules */
     hr {
-        border-top-color: #444;
+        border-top-color: #2E3D4F;
     }
 
     /* Tables */
     table {
-        border-bottom-color: #444;
+        border-color: #2E3D4F;
     }
 
     th {
-        border-bottom-color: #444;
+        border-color: #2E3D4F;
     }
 
     td {
-        border-bottom-color: #444;
+        border-color: #2E3D4F;
     }
 
     tr,
     td,
     th {
-        border-color: #444;
+        border-color: #2E3D4F;
+    }
+
+    thead {
+        background-color: rgba(#7BA3CC, 0.08);
+    }
+
+    /* Selection */
+    ::selection {
+        background: rgba(#7BA3CC, 0.3);
+    }
+
+    ::-moz-selection {
+        background: rgba(#7BA3CC, 0.3);
     }
 
     /* Navigation / Header */
+    .masthead {
+        background: rgba(#141C24, 0.85);
+        border-bottom-color: #2E3D4F;
+    }
+
     .greedy-nav {
-        background-color: #1e1e1e;
+        background-color: transparent;
 
         a {
-            color: #e0e0e0;
+            color: #D6DEE8;
 
             &:hover {
-                color: #fff;
+                color: #7BA3CC;
             }
         }
 
+        .visible-links a:before {
+            background: #7BA3CC;
+        }
+
         .hidden-links {
-            background-color: #2d2d2d;
-            border-color: #444;
+            background-color: #1C2530;
+            border-color: #2E3D4F;
 
             a {
                 &:hover {
-                    background-color: #3d3d3d;
-                    color: #fff;
+                    background-color: #283342;
+                    color: #E8EDF5;
                 }
             }
 
             &:before {
-                border-color: #444 transparent;
+                border-color: #2E3D4F transparent;
             }
 
             &:after {
-                border-color: #2d2d2d transparent;
+                border-color: #1C2530 transparent;
             }
         }
     }
 
     /* Footer */
     .page__footer {
-        color: #bbb;
-        background-color: #1e1e1e;
-        /* Match body background or slightly different */
-        border-top-color: #444;
+        color: #A8B0BF;
+        background-color: transparent;
+        border-top-color: #2E3D4F;
 
         a {
-            color: #fff;
+            color: #D6DEE8;
         }
     }
 
     /* Archive Items */
     .research-separator {
-        background-color: #444;
+        background-color: #2E3D4F;
     }
 
     .archive__item-teaser {
-        background-color: #2d2d2d;
+        background-color: #1C2530;
+    }
+
+    /* Page content borders */
+    .page__content h2 {
+        border-bottom-color: #2E3D4F;
+    }
+
+    .page__content a {
+        border-bottom-color: rgba(#7BA3CC, 0.3);
+
+        &:hover {
+            border-bottom-color: #7BA3CC;
+        }
+    }
+
+    .archive a {
+        border-bottom-color: rgba(#7BA3CC, 0.3);
+
+        &:hover {
+            border-bottom-color: #7BA3CC;
+        }
     }
 
     /* Sidebar */
     .sidebar {
-        /* Ensure all text and icons in sidebar are light */
-        color: #e0e0e0;
+        color: #D6DEE8;
 
         h2,
         h3,
@@ -153,12 +198,96 @@
         li,
         i,
         .fa {
-            color: #e0e0e0;
+            color: #D6DEE8;
         }
 
-        /* Specific override for author URLs to ensure icons get colored */
         .author__urls li i {
-            color: #e0e0e0;
+            color: #D6DEE8;
         }
+    }
+
+    div.author__avatar img {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    /* Buttons */
+    .btn {
+        background-color: #7BA3CC;
+        color: #141C24 !important;
+
+        &:hover {
+            background-color: lighten(#7BA3CC, 10%);
+        }
+    }
+
+    /* Citations */
+    .page__citation {
+        background: rgba(#7BA3CC, 0.08);
+        border-left-color: #7BA3CC;
+    }
+
+    /* Book items */
+    .book-item img {
+        box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+
+        &:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        }
+    }
+
+    /* Wells */
+    .well {
+        background-color: rgba(#7BA3CC, 0.06);
+        border-color: #2E3D4F;
+    }
+
+    /* Navicon (hamburger) */
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+        background: #D6DEE8;
+    }
+
+    /* Author URLs dropdown (mobile) */
+    .author__urls {
+        background: #1C2530;
+        border-color: #2E3D4F;
+        box-shadow: 0 0 10px rgba(0,0,0,0.4);
+
+        &:after {
+            border-color: #1C2530 transparent;
+        }
+
+        &:before {
+            border-color: #2E3D4F transparent;
+        }
+    }
+
+    /* Pagination */
+    .pagination li a {
+        border-color: #2E3D4F;
+        color: #A8B0BF;
+    }
+
+    /* TOC */
+    .toc {
+        background-color: #1C2530;
+        border-color: #2E3D4F;
+    }
+
+    /* Forms / Comments */
+    .page__comments-form {
+        background: #1C2530;
+    }
+
+    /* Notices */
+    .notice,
+    .notice--primary,
+    .notice--info,
+    .notice--warning,
+    .notice--success,
+    .notice--danger {
+        background-color: #1C2530;
+        color: #D6DEE8;
     }
 }
