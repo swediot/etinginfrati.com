@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Version 2: Dark square with light initials, clean sans-serif -->
+  <rect x="2" y="2" width="60" height="60" rx="4" fill="#1a1a2e"/>
+  <text x="32" y="39" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="300" letter-spacing="4" fill="#e8e8e8">GEF</text>
+</svg>
