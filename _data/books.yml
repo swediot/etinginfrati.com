@@ -3,32 +3,32 @@ currently_reading:
   image: https://cdn.thestorygraph.com/bo6e8y7w6uudbvv5qwi7ektwvwgd
   title: 'La Femme sans tête: Enquête sur une affaire classée'
   url: https://app.thestorygraph.com/books/eb19ba5f-f3b3-4ca1-9198-f647bed28b2d
+recent_five_star:
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+- author: Matthew Desmond
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+  title: 'Evicted: Poverty and Profit in the American City'
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+  title: The Wind-Up Bird Chronicle
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+- author: Nadine Gordimer
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+  title: Six Feet of the Country
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Nicolas Lunabba
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
+  title: Will You Care If I Die?
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+recently_read:
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
   title: Death Valley
   url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
-recent_five_star:
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-  title: Elsewhere
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-- author: Scott King
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-- author: Sandra Newman
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-  title: Julia
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-- author: Sally Rooney
-  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
-  title: Intermezzo
-  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
-- author: John Green
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-  title: Everything is Tuberculosis
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-recently_read:
 - author: Bsrat Mezghebe
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
   title: The Road
   url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-- author: Harriet Rix
-  image: https://cdn.thestorygraph.com/9uudphru6sxym2urnhuyxmr8l0tq
-  title: 'The Genius of Trees: How They Mastered the Elements and Shaped the World'
-  url: https://app.thestorygraph.com/books/c898f35e-5798-4526-9c8f-37266838debb
 to_read_count: '1355'
-year_count: '37'
+year_count: '38'
