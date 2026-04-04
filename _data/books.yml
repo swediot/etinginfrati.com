@@ -1,33 +1,33 @@
 currently_reading:
+- author: Antoine Albertini
+  image: https://cdn.thestorygraph.com/bo6e8y7w6uudbvv5qwi7ektwvwgd
+  title: 'La Femme sans tête: Enquête sur une affaire classée'
+  url: https://app.thestorygraph.com/books/eb19ba5f-f3b3-4ca1-9198-f647bed28b2d
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
   title: Death Valley
   url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
-  title: The Moon Is Down
-  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 recent_five_star:
-- author: Carys Davies
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-  title: Clear
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-- author: Ocean Vuong
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-  title: The Emperor of Gladness
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-- author: Nadine Gordimer
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-  title: Six Feet of the Country
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+  title: Elsewhere
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+- author: Scott King
+  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
+  title: Anish & Antony Take Afghanistan
+  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
 - author: Sally Rooney
-  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
-  title: Normal People
-  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
-- author: Gabrielle Zevin
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-  title: Tomorrow, and Tomorrow, and Tomorrow
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
+  title: Intermezzo
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+- author: John Green
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+  title: Everything is Tuberculosis
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
 recently_read:
 - author: Bsrat Mezghebe
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
