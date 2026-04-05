@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2816 1536" width="2816" height="1536">
+  <defs>
+    <style>
+      .bg { fill: #F5F0EB; }
+      .primary { fill: #4A7C9B; }
+      .primary-stroke { stroke: #4A7C9B; fill: none; stroke-width: 3; }
+      .accent { fill: #D4654A; }
+      .dark { fill: #2B4A6F; }
+      .light { fill: #B8D4E3; }
+      .outline { stroke: #2B4A6F; fill: none; stroke-width: 3.5; }
+      .outline-thick { stroke: #2B4A6F; fill: none; stroke-width: 5; }
+      .text-label { font-family: 'Georgia', serif; fill: #2B4A6F; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="2816" height="1536" rx="0"/>
+
+  <!-- ============================================ -->
+  <!-- LEFT SIDE: Laptop -->
+  <!-- ============================================ -->
+
+  <g transform="translate(390, 620)">
+    <!-- Laptop screen -->
+    <rect x="-160" y="-200" width="320" height="230" rx="10" fill="#B8D4E3" stroke="#2B4A6F" stroke-width="4"/>
+    <!-- Screen content lines -->
+    <rect x="-125" y="-170" width="160" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-150" width="200" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-130" width="120" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-110" width="180" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-90" width="90" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-70" width="160" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <rect x="-125" y="-50" width="140" height="6" rx="3" fill="#4A7C9B" opacity="0.5"/>
+    <!-- Cursor blink -->
+    <rect x="-125" y="-28" width="4" height="18" fill="#D4654A" opacity="0.8"/>
+    <!-- Laptop base/keyboard -->
+    <path d="M-180,35 L-160,30 L160,30 L180,35 L180,50 Q180,58 172,58 L-172,58 Q-180,58 -180,50 Z" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="3.5"/>
+    <!-- Keyboard keys hint -->
+    <rect x="-120" y="38" width="240" height="12" rx="3" fill="#2B4A6F" opacity="0.15"/>
+    <!-- Hinge -->
+    <rect x="-160" y="28" width="320" height="6" rx="2" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2"/>
+  </g>
+
+
+  <!-- ============================================ -->
+  <!-- FLOW ARROW: Human to Gears -->
+  <!-- ============================================ -->
+
+  <!-- Arrow 1: from laptop to gears -->
+  <line x1="600" y1="580" x2="950" y2="520" stroke="#4A7C9B" stroke-width="5" stroke-dasharray="18,10"/>
+  <polygon points="945,505 990,518 950,535" fill="#4A7C9B"/>
+
+
+  <!-- ============================================ -->
+  <!-- MIDDLE: AI Gears mechanism -->
+  <!-- ============================================ -->
+
+  <!-- Large gear -->
+  <g transform="translate(1200, 500)">
+    <circle cx="0" cy="0" r="155" fill="#B8D4E3" stroke="#2B4A6F" stroke-width="4"/>
+    <circle cx="0" cy="0" r="125" fill="#B8D4E3" stroke="#2B4A6F" stroke-width="2.5"/>
+    <!-- Gear teeth - large -->
+    <rect x="-18" y="-185" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5"/>
+    <rect x="-18" y="145" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5"/>
+    <rect x="145" y="-18" width="40" height="36" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5"/>
+    <rect x="-185" y="-18" width="40" height="36" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5"/>
+    <!-- Diagonal teeth -->
+    <rect x="92" y="-148" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5" transform="rotate(45, 110, -128)"/>
+    <rect x="-128" y="-148" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5" transform="rotate(-45, -110, -128)"/>
+    <rect x="92" y="108" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5" transform="rotate(-45, 110, 128)"/>
+    <rect x="-128" y="108" width="36" height="40" rx="4" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2.5" transform="rotate(45, -110, 128)"/>
+    <!-- Center hole -->
+    <circle cx="0" cy="0" r="40" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="3"/>
+    <!-- AI sparkle in center -->
+    <path d="M0,-25 L6,-8 L25,0 L6,8 L0,25 L-6,8 L-25,0 L-6,-8 Z" fill="#D4654A" stroke="#2B4A6F" stroke-width="2"/>
+  </g>
+
+  <!-- Medium gear (top-right, interlocking) -->
+  <g transform="translate(1370, 360)">
+    <circle cx="0" cy="0" r="100" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="3.5" opacity="0.85"/>
+    <circle cx="0" cy="0" r="78" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2" opacity="0.85"/>
+    <!-- Gear teeth -->
+    <rect x="-14" y="-125" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="-14" y="93" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="93" y="-14" width="32" height="28" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="-125" y="-14" width="32" height="28" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2"/>
+    <!-- Diagonal teeth -->
+    <rect x="55" y="-100" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2" transform="rotate(45, 69, -84)"/>
+    <rect x="-83" y="-100" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2" transform="rotate(-45, -69, -84)"/>
+    <rect x="55" y="68" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2" transform="rotate(-45, 69, 84)"/>
+    <rect x="-83" y="68" width="28" height="32" rx="3" fill="#2B4A6F" stroke="#2B4A6F" stroke-width="2" transform="rotate(45, -69, 84)"/>
+    <!-- Center -->
+    <circle cx="0" cy="0" r="26" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="2.5"/>
+    <!-- Small sparkle -->
+    <path d="M0,-15 L4,-5 L15,0 L4,5 L0,15 L-4,5 L-15,0 L-4,-5 Z" fill="#D4654A" stroke="#2B4A6F" stroke-width="1.5"/>
+  </g>
+
+  <!-- Small gear (bottom-right, interlocking) -->
+  <g transform="translate(1380, 660)">
+    <circle cx="0" cy="0" r="75" fill="#B8D4E3" stroke="#2B4A6F" stroke-width="3"/>
+    <circle cx="0" cy="0" r="58" fill="#B8D4E3" stroke="#2B4A6F" stroke-width="2"/>
+    <!-- Gear teeth -->
+    <rect x="-11" y="-95" width="22" height="26" rx="3" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="-11" y="69" width="22" height="26" rx="3" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="69" y="-11" width="26" height="22" rx="3" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2"/>
+    <rect x="-95" y="-11" width="26" height="22" rx="3" fill="#4A7C9B" stroke="#2B4A6F" stroke-width="2"/>
+    <!-- Center -->
+    <circle cx="0" cy="0" r="20" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="2.5"/>
+  </g>
+
+  <!-- (no label under gears) -->
+
+
+  <!-- ============================================ -->
+  <!-- FLOW ARROW: Gears to Output -->
+  <!-- ============================================ -->
+
+  <line x1="1500" y1="520" x2="1820" y2="520" stroke="#4A7C9B" stroke-width="5" stroke-dasharray="18,10"/>
+  <polygon points="1820,505 1860,520 1820,535" fill="#4A7C9B"/>
+
+
+  <!-- ============================================ -->
+  <!-- RIGHT SIDE: Switzerland map with Röstigraben -->
+  <!-- ============================================ -->
+
+  <!-- Switzerland outline (realistic shape, centered) -->
+  <g transform="translate(2200, 500) scale(1.8)">
+    <!-- Switzerland country outline -->
+    <path d="M-175,-75 L-155,-90 L-120,-95 L-95,-100 L-60,-95 L-30,-100 L0,-95
+             L30,-100 L60,-90 L90,-95 L110,-80 L135,-70 L155,-55 L165,-35
+             L175,-15 L170,5 L160,25 L140,40 L120,55 L100,70 L75,80
+             L50,85 L25,90 L0,85 L-25,80 L-50,75 L-75,65 L-95,55
+             L-115,40 L-135,25 L-150,10 L-165,-10 L-175,-30 L-180,-55 Z"
+          fill="#B8D4E3" stroke="#2B4A6F" stroke-width="2.5" stroke-linejoin="round"/>
+
+    <!-- Lake Geneva (Lac Léman) -->
+    <ellipse cx="-130" cy="30" rx="30" ry="10" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="1" opacity="0.7" transform="rotate(-15, -130, 30)"/>
+
+    <!-- Lake Zurich -->
+    <ellipse cx="80" cy="-20" rx="18" ry="6" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="1" opacity="0.7" transform="rotate(-30, 80, -20)"/>
+
+    <!-- Lake Neuchâtel -->
+    <ellipse cx="-55" cy="-10" rx="15" ry="5" fill="#F5F0EB" stroke="#2B4A6F" stroke-width="1" opacity="0.7" transform="rotate(-20, -55, -10)"/>
+
+    <!-- Röstigraben line - runs roughly north-south through Bern/Fribourg/Valais -->
+    <path d="M-35,-100 Q-40,-70 -45,-40 Q-50,-10 -45,20 Q-40,50 -30,85"
+          fill="none" stroke="#D4654A" stroke-width="4" stroke-dasharray="10,6" stroke-linecap="round"/>
+
+    <!-- FR label (west of Röstigraben) -->
+    <text x="-100" y="5" class="text-label" font-size="32" font-weight="bold" text-anchor="middle" fill="#2B4A6F">FR</text>
+
+    <!-- DE label (east of Röstigraben) -->
+    <text x="60" y="5" class="text-label" font-size="32" font-weight="bold" text-anchor="middle" fill="#2B4A6F">DE</text>
+
+    <!-- Key cities as small dots -->
+    <!-- Geneva -->
+    <circle cx="-155" cy="35" r="4" fill="#2B4A6F"/>
+    <!-- Lausanne -->
+    <circle cx="-110" cy="20" r="4" fill="#2B4A6F"/>
+    <!-- Bern -->
+    <circle cx="-15" cy="-15" r="5" fill="#2B4A6F"/>
+    <!-- Zurich -->
+    <circle cx="75" cy="-40" r="5" fill="#2B4A6F"/>
+    <!-- Basel -->
+    <circle cx="10" cy="-90" r="4" fill="#2B4A6F"/>
+  </g>
+
+
+  <!-- ============================================ -->
+  <!-- Decorative: subtle grid dots in background -->
+  <!-- ============================================ -->
+  <g opacity="0.07">
+    <pattern id="dots" x="0" y="0" width="80" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="40" cy="40" r="2.5" fill="#2B4A6F"/>
+    </pattern>
+    <rect width="2816" height="1536" fill="url(#dots)"/>
+  </g>
+
+  <!-- Bottom label strip -->
+  <rect x="0" y="1440" width="2816" height="96" fill="#4A7C9B" opacity="0.08"/>
+  <text x="1408" y="1500" class="text-label" font-size="36" text-anchor="middle" fill="#2B4A6F" opacity="0.45" font-style="italic">Human Prompt  &#x2192;  AI Processing  &#x2192;  Research Output</text>
+
+</svg>
