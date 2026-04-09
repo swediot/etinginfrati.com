@@ -8,27 +8,26 @@ currently_reading:
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
 recent_five_star:
-- author: Ali Smith
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-  title: Autumn
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-- author: Robin Wall Kimmerer
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
-  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-- author: Kate Folk
-  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
-  title: Sky Daddy
-  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
-- author: Ocean Vuong
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-  title: The Emperor of Gladness
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-- author: Michelle Good
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-  title: Five Little Indians
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: Percival Everett
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+  title: James
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+- author: Tove Ditlevsen
+  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+  title: 'The Trouble with Happiness: and Other Stories'
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+- author: Charlie Mackesy
+  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
+  title: The Boy, the Mole, the Fox and the Horse
+  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+- author: Alejandro Zambra
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
+  title: My Documents
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
 recently_read:
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
