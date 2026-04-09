@@ -8,26 +8,27 @@ currently_reading:
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
 recent_five_star:
-- author: Gisèle Pelicot
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-  title: Et la joie de vivre
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-  title: Saint X
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-- author: Christopher Isherwood
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-  title: A Single Man
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-- author: Cormac McCarthy
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
-  title: The Road
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-- author: Nadine Gordimer
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-  title: Six Feet of the Country
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Ali Smith
+  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
+  title: Autumn
+  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: Kate Folk
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+  title: Sky Daddy
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+- author: Ocean Vuong
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+  title: The Emperor of Gladness
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
 recently_read:
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
