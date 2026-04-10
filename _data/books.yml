@@ -1,34 +1,38 @@
 currently_reading:
+- author: Omar El Akkad
+  image: https://cdn.thestorygraph.com/qayxe8rp3ddapo1ybx8t20x27zx7
+  title: One Day, Everyone Will Have Always Been Against This
+  url: https://app.thestorygraph.com/books/39dcff30-bbb0-460b-8752-21a2d36d2fdd
 - author: Lea Ypi
   image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
   title: 'Indignity: A Life Reimagined'
   url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
+recent_five_star:
+- author: Matthew Desmond
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+  title: 'Evicted: Poverty and Profit in the American City'
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+- author: John Green
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+  title: Everything is Tuberculosis
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+- author: Sally Rooney
+  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
+  title: Normal People
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
+- author: Kazuo Ishiguro
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+  title: 'Nocturnes: Five Stories of Music and Nightfall'
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+- author: Norman Ohler
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+  title: 'Blitzed: Drugs in Nazi Germany'
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+recently_read:
 - author: Ottessa Moshfegh
   image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
-recent_five_star:
-- author: Ayşegül Savaş
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-  title: Long Distance
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: May-Brit Akerholt, Jon Fosse
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-  title: Trilogy
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-  title: How to Get Filthy Rich in Rising Asia
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-- author: Yaa Gyasi
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-  title: Transcendent Kingdom
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-- author: Gabrielle Zevin
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-  title: Tomorrow, and Tomorrow, and Tomorrow
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-recently_read:
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
   title: Death Valley
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-- author: Cormac McCarthy
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
-  title: The Road
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
 to_read_count: '1355'
-year_count: '38'
+year_count: '39'
