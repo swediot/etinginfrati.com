@@ -8,26 +8,26 @@ currently_reading:
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
 recent_five_star:
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-- author: Tove Ditlevsen
-  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
-  title: 'The Trouble with Happiness: and Other Stories'
-  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
-- author: Charlie Mackesy
-  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
-  title: The Boy, the Mole, the Fox and the Horse
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
 - author: Ayşegül Savaş
   image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
   title: Long Distance
   url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: Alejandro Zambra
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-  title: My Documents
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+- author: May-Brit Akerholt, Jon Fosse
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+  title: Trilogy
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+- author: Mohsin Hamid
+  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
+  title: How to Get Filthy Rich in Rising Asia
+  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
+- author: Yaa Gyasi
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+  title: Transcendent Kingdom
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+- author: Gabrielle Zevin
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+  title: Tomorrow, and Tomorrow, and Tomorrow
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
 - author: Melissa Broder
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
@@ -49,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
   title: The Road
   url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-to_read_count: '1354'
+to_read_count: '1355'
 year_count: '38'
