@@ -8,26 +8,26 @@ currently_reading:
   title: 'Indignity: A Life Reimagined'
   url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
 recent_five_star:
-- author: Matthew Desmond
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-  title: 'Evicted: Poverty and Profit in the American City'
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-- author: John Green
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-  title: Everything is Tuberculosis
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-- author: Sally Rooney
-  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
-  title: Normal People
-  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
-- author: Kazuo Ishiguro
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
-  title: 'Nocturnes: Five Stories of Music and Nightfall'
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+- author: Carys Davies
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+  title: Clear
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+- author: Yōko Ogawa
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
+  title: Hotel Iris
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+- author: Nicolas Lunabba
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
+  title: Will You Care If I Die?
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+- author: J.M. Coetzee
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+  title: Disgrace
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
 recently_read:
 - author: Ottessa Moshfegh
   image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
@@ -49,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
   title: The Details
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-to_read_count: '1355'
+to_read_count: '1356'
 year_count: '39'
