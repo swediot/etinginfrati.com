@@ -1,33 +1,33 @@
 currently_reading:
-- author: Marina Lewycka
-  image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
-  title: A Short History of Tractors in Ukrainian
-  url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
+- author: Susan Abulhawa
+  image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
+  title: Against the Loveless World
+  url: https://app.thestorygraph.com/books/18bf6579-a03a-4445-acda-58eba1429fd6
 - author: Lea Ypi
   image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
   title: 'Indignity: A Life Reimagined'
   url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
 recent_five_star:
-- author: Gabrielle Zevin
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-  title: Tomorrow, and Tomorrow, and Tomorrow
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-- author: Matthew Desmond
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-  title: 'Evicted: Poverty and Profit in the American City'
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-- author: Scott King
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-- author: Cormac McCarthy
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
-  title: The Road
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+- author: Ivan Turgenev
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+  title: Fathers and Sons
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+- author: Ayşegül Savaş
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+  title: Long Distance
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+- author: Ocean Vuong
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+  title: The Emperor of Gladness
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+- author: Gisèle Pelicot
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+  title: Et la joie de vivre
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+  title: The Wind-Up Bird Chronicle
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
 recently_read:
 - author: Omar El Akkad
   image: https://cdn.thestorygraph.com/qayxe8rp3ddapo1ybx8t20x27zx7
@@ -49,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/sfs35j4v2y88qrk4hv2hsldi5zxa
   title: Yellowface
   url: https://app.thestorygraph.com/books/2d7248cb-2d7a-4d3e-a45a-d1b995aeaaf8
-to_read_count: '1356'
+to_read_count: '1355'
 year_count: '40'
