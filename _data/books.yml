@@ -3,32 +3,32 @@ currently_reading:
   image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
   title: Against the Loveless World
   url: https://app.thestorygraph.com/books/18bf6579-a03a-4445-acda-58eba1429fd6
+recent_five_star:
+- author: Young-Ha Kim
+  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+  title: 'Diary of a Murderer: And Other Stories'
+  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: May-Brit Akerholt, Jon Fosse
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+  title: Trilogy
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+- author: Yōko Ogawa
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
+  title: Hotel Iris
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+recently_read:
 - author: Lea Ypi
   image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
   title: 'Indignity: A Life Reimagined'
   url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-recent_five_star:
-- author: Ivan Turgenev
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-  title: Fathers and Sons
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-- author: Ayşegül Savaş
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-  title: Long Distance
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-- author: Ocean Vuong
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-  title: The Emperor of Gladness
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-- author: Gisèle Pelicot
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-  title: Et la joie de vivre
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-  title: The Wind-Up Bird Chronicle
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-recently_read:
 - author: Omar El Akkad
   image: https://cdn.thestorygraph.com/qayxe8rp3ddapo1ybx8t20x27zx7
   title: One Day, Everyone Will Have Always Been Against This
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
   title: I Hope You Find What You're Looking For
   url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
-- author: R.F. Kuang
-  image: https://cdn.thestorygraph.com/sfs35j4v2y88qrk4hv2hsldi5zxa
-  title: Yellowface
-  url: https://app.thestorygraph.com/books/2d7248cb-2d7a-4d3e-a45a-d1b995aeaaf8
 to_read_count: '1355'
-year_count: '40'
+year_count: '41'
