@@ -1,34 +1,34 @@
 currently_reading:
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
-  title: The Moon Is Down
-  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 - author: Laila Lalami
   image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
 recent_five_star:
-- author: May-Brit Akerholt, Jon Fosse
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-  title: Trilogy
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-- author: Pajtim Statovci
-  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-  title: Bolla
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-- author: Sandra Newman
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-  title: Julia
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Ryszard Kapuściński
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+  title: Another Day of Life
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+- author: Yaa Gyasi
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+  title: Transcendent Kingdom
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
+  title: After the Quake
+  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
 - author: Haruki Murakami
   image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
   title: The Strange Library
   url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
-- author: Young-Ha Kim
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-  title: 'Diary of a Murderer: And Other Stories'
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
+- author: Nadine Gordimer
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+  title: Six Feet of the Country
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
 recently_read:
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
+  title: The Moon Is Down
+  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 - author: Susan Abulhawa
   image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
   title: Against the Loveless World
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
-- author: Melissa Broder
-  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
-  title: Death Valley
-  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
 to_read_count: '1361'
-year_count: '42'
+year_count: '43'
