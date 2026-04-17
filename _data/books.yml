@@ -1,34 +1,38 @@
 currently_reading:
+- author: John Steinbeck
+  image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
+  title: The Moon Is Down
+  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 - author: Laila Lalami
   image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
-- author: Susan Abulhawa
-  image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
-  title: Against the Loveless World
-  url: https://app.thestorygraph.com/books/18bf6579-a03a-4445-acda-58eba1429fd6
 recent_five_star:
 - author: May-Brit Akerholt, Jon Fosse
   image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
   title: Trilogy
   url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-  title: Saint X
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-- author: Anne Enright
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-  title: The Wren, The Wren
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
-  title: The Last White Man
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-- author: Yaa Gyasi
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-  title: Transcendent Kingdom
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+- author: Pajtim Statovci
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
+  title: Bolla
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+  title: The Strange Library
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+- author: Young-Ha Kim
+  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+  title: 'Diary of a Murderer: And Other Stories'
+  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
 recently_read:
+- author: Susan Abulhawa
+  image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
+  title: Against the Loveless World
+  url: https://app.thestorygraph.com/books/18bf6579-a03a-4445-acda-58eba1429fd6
 - author: Lea Ypi
   image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
   title: 'Indignity: A Life Reimagined'
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
   title: Death Valley
   url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
-- author: Bsrat Mezghebe
-  image: https://cdn.thestorygraph.com/0i4dquimzb6lzoci08muwcdp47bt
-  title: I Hope You Find What You're Looking For
-  url: https://app.thestorygraph.com/books/3dcb1d38-226e-4a47-8aff-99bab2749142
 to_read_count: '1361'
-year_count: '41'
+year_count: '42'
