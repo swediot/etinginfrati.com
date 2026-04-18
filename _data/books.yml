@@ -4,26 +4,26 @@ currently_reading:
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
 recent_five_star:
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-- author: Yaa Gyasi
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-  title: Transcendent Kingdom
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
-  title: After the Quake
-  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
-  title: The Strange Library
-  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
-- author: Nadine Gordimer
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-  title: Six Feet of the Country
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+  title: Saint X
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+- author: Tanya Tagaq
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+  title: Split Tooth
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+- author: Ocean Vuong
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+  title: The Emperor of Gladness
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+- author: Percival Everett
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+  title: James
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+- author: Sally Rooney
+  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
+  title: Normal People
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
 recently_read:
 - author: John Steinbeck
   image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
@@ -45,5 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
   title: Homesick for Another World
   url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
-to_read_count: '1361'
+to_read_count: '1362'
 year_count: '43'
