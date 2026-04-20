@@ -1,34 +1,39 @@
 currently_reading:
+- author: Jon Fosse
+  image: https://cdn.thestorygraph.com/t3dje92m59hacl71235zekpinw22
+  title: Vaim
+  url: https://app.thestorygraph.com/books/10d50777-0077-40ea-b722-8516742de16c
 - author: Marina Lewycka
   image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
   title: A Short History of Tractors in Ukrainian
   url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
+recent_five_star:
+- author: Claire Keegan
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+  title: So Late in the Day
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
+- author: Tove Ditlevsen
+  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+  title: 'The Trouble with Happiness: and Other Stories'
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+- author: May-Brit Akerholt, Jon Fosse
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+  title: Trilogy
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+- author: Robin Wall Kimmerer
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+  title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+- author: Gabrielle Zevin
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+  title: Tomorrow, and Tomorrow, and Tomorrow
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+recently_read:
 - author: Laila Lalami
   image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
-recent_five_star:
-- author: Nicolas Lunabba
-  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
-  title: Will You Care If I Die?
-  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
-  title: The Strange Library
-  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
-- author: Christopher Isherwood
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-  title: A Single Man
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-- author: Ia Genberg
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-  title: The Details
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-recently_read:
 - author: Solvej Balle
   image: https://cdn.thestorygraph.com/p9eldmh7awqqf90svae5hht5gwy7
   title: On the Calculation of Volume IV
@@ -45,9 +50,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
   title: 'Indignity: A Life Reimagined'
   url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-- author: Omar El Akkad
-  image: https://cdn.thestorygraph.com/qayxe8rp3ddapo1ybx8t20x27zx7
-  title: One Day, Everyone Will Have Always Been Against This
-  url: https://app.thestorygraph.com/books/39dcff30-bbb0-460b-8752-21a2d36d2fdd
 to_read_count: '1361'
-year_count: '44'
+year_count: '45'
