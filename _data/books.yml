@@ -1,34 +1,38 @@
 currently_reading:
-- author: Solvej Balle
-  image: https://cdn.thestorygraph.com/p9eldmh7awqqf90svae5hht5gwy7
-  title: On the Calculation of Volume IV
-  url: https://app.thestorygraph.com/books/88b1bf1e-34ce-4de1-8aa6-8c0d063db37f
+- author: Marina Lewycka
+  image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
+  title: A Short History of Tractors in Ukrainian
+  url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
 - author: Laila Lalami
   image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
 recent_five_star:
-- author: Ivan Turgenev
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-  title: Fathers and Sons
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-- author: Ocean Vuong
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-  title: The Emperor of Gladness
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-- author: J.M. Coetzee
-  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
-  title: 'Boyhood: Scenes from Provincial Life'
-  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
-- author: Ali Smith
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-  title: Autumn
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
-  title: The Last White Man
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+- author: Nicolas Lunabba
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
+  title: Will You Care If I Die?
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+- author: Percival Everett
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+  title: James
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+- author: Haruki Murakami
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+  title: The Strange Library
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+- author: Christopher Isherwood
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+  title: A Single Man
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+- author: Ia Genberg
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+  title: The Details
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
 recently_read:
+- author: Solvej Balle
+  image: https://cdn.thestorygraph.com/p9eldmh7awqqf90svae5hht5gwy7
+  title: On the Calculation of Volume IV
+  url: https://app.thestorygraph.com/books/88b1bf1e-34ce-4de1-8aa6-8c0d063db37f
 - author: John Steinbeck
   image: https://cdn.thestorygraph.com/wdpjo0hcpxzi5ks6cj064p8lposg
   title: The Moon Is Down
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/qayxe8rp3ddapo1ybx8t20x27zx7
   title: One Day, Everyone Will Have Always Been Against This
   url: https://app.thestorygraph.com/books/39dcff30-bbb0-460b-8752-21a2d36d2fdd
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
-  title: Homesick for Another World
-  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
 to_read_count: '1361'
-year_count: '43'
+year_count: '44'
