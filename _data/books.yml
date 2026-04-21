@@ -1,34 +1,34 @@
 currently_reading:
-- author: Jon Fosse
-  image: https://cdn.thestorygraph.com/t3dje92m59hacl71235zekpinw22
-  title: Vaim
-  url: https://app.thestorygraph.com/books/10d50777-0077-40ea-b722-8516742de16c
 - author: Marina Lewycka
   image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
   title: A Short History of Tractors in Ukrainian
   url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
 recent_five_star:
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-- author: Maylis de Kerangal
-  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
-  title: Eastbound
-  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
-- author: Tanya Tagaq
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-  title: Split Tooth
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-- author: Norman Ohler
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-  title: 'Blitzed: Drugs in Nazi Germany'
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+- author: Alexis Schaitkin
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+  title: Elsewhere
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+- author: Gabrielle Zevin
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+  title: Tomorrow, and Tomorrow, and Tomorrow
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 - author: Nadine Gordimer
   image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
   title: Six Feet of the Country
   url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Olga Tokarczuk
+  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
+  title: House of Day, House of Night
+  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
+- author: Kazuo Ishiguro
+  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
+  title: The Buried Giant
+  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
 recently_read:
+- author: Jon Fosse
+  image: https://cdn.thestorygraph.com/t3dje92m59hacl71235zekpinw22
+  title: Vaim
+  url: https://app.thestorygraph.com/books/10d50777-0077-40ea-b722-8516742de16c
 - author: Laila Lalami
   image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
@@ -45,9 +45,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/ifguxgowedvk8wv3fjh4knug25qg
   title: Against the Loveless World
   url: https://app.thestorygraph.com/books/18bf6579-a03a-4445-acda-58eba1429fd6
-- author: Lea Ypi
-  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
-  title: 'Indignity: A Life Reimagined'
-  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
 to_read_count: '1361'
-year_count: '45'
+year_count: '46'
