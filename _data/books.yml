@@ -8,26 +8,26 @@ currently_reading:
   title: 'Flatland: A Romance of Many Dimensions'
   url: https://app.thestorygraph.com/books/c31d7e73-97d2-4a63-83d1-2f670116880e
 recent_five_star:
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/abfp2b7quxn76blbmr6ugagsllw4
-  title: After the Quake
-  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
-- author: Scott King
-  image: https://cdn.thestorygraph.com/h32gi9vqfkinu2vrjpqvqtgosk5z
-  title: Anish & Antony Take Afghanistan
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-- author: Mohsin Hamid
-  image: https://cdn.thestorygraph.com/cg1c4wrym3owg9kumkdrx79mior4
-  title: The Last White Man
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+- author: Nadine Gordimer
+  image: https://cdn.thestorygraph.com/wqyn2tgpj19089zz7bfdil76wdp2
+  title: Six Feet of the Country
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+- author: Sally Rooney
+  image: https://cdn.thestorygraph.com/jw98hb20tsn2jq1iv9af6vmbenin
+  title: Normal People
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
+- author: Olga Tokarczuk
+  image: https://cdn.thestorygraph.com/p0ksnjcpm8krf176vzz5bs984pnv
+  title: House of Day, House of Night
+  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
 - author: Edmund de Waal
   image: https://cdn.thestorygraph.com/3rtyd1kddzo2bqxvtshnl6d5uyoo
   title: Letters to Camondo
   url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-- author: Ottessa Moshfegh
-  image: https://cdn.thestorygraph.com/h1rcwp8q2tikt0g9y1r97df4i6xr
-  title: Homesick for Another World
-  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
+- author: Gisèle Pelicot
+  image: https://cdn.thestorygraph.com/rmr2ghv2e2xgyqa9gd0359eluqjt
+  title: Et la joie de vivre
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
 recently_read:
 - author: Marina Lewycka
   image: https://cdn.thestorygraph.com/vma9n2h87mpw1rzae26u87yehjem
@@ -49,5 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/5dq81rrxh5ajegkss0ar6jyrptyq
   title: The Moon Is Down
   url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
-to_read_count: '1359'
+to_read_count: '1360'
 year_count: '47'
