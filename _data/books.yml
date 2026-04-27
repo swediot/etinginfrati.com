@@ -1,34 +1,38 @@
 currently_reading:
-- author: Hu Anyan
-  image: https://cdn.thestorygraph.com/pf8uzd16ystcw72q1s6nhlwvq2n4
-  title: I Deliver Parcels in Beijing
-  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
+- author: Clarice Lispector
+  image: https://cdn.thestorygraph.com/90nr4xnmb9lrkll9dv69gyxumgbq
+  title: Hour of the Star
+  url: https://app.thestorygraph.com/books/98caaa69-3166-440b-aeb0-d259693f09b9
 - author: Edwin A. Abbott
   image: https://cdn.thestorygraph.com/j3q5t3wxf9d47l0kr8bq9u80y6wb
   title: 'Flatland: A Romance of Many Dimensions'
   url: https://app.thestorygraph.com/books/c31d7e73-97d2-4a63-83d1-2f670116880e
 recent_five_star:
-- author: John Green
-  image: https://cdn.thestorygraph.com/pi1am67yvr8oe4j6w9806e0tcp6o
-  title: Everything is Tuberculosis
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-- author: Pajtim Statovci
-  image: https://cdn.thestorygraph.com/r6qf607xxxodkxip9l3929l8ihh5
-  title: Bolla
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/qs49hgksl24cgnj4v8535gprhjjz
-  title: Saint X
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/td0b2t2lrl52fy6xixiw3ymol69c
-  title: The Pearl
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-- author: Melissa Broder
-  image: https://cdn.thestorygraph.com/0nirs775gdnxw0jr2ornhygye18l
-  title: Death Valley
-  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/o3ji7b7gesh24cdlb9mbcs6jlvpl
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Yaa Gyasi
+  image: https://cdn.thestorygraph.com/ygm8ei85d8uhfy7id8eep5by2oog
+  title: Transcendent Kingdom
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+- author: Tove Ditlevsen
+  image: https://cdn.thestorygraph.com/v5rn71t70rxu2y2ip95boq4ywo5j
+  title: 'The Trouble with Happiness: and Other Stories'
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+- author: Edmund de Waal
+  image: https://cdn.thestorygraph.com/3rtyd1kddzo2bqxvtshnl6d5uyoo
+  title: Letters to Camondo
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+- author: Maylis de Kerangal
+  image: https://cdn.thestorygraph.com/qf3nnksrq9vej8sjdre5igcnwqxa
+  title: Eastbound
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
 recently_read:
+- author: Hu Anyan
+  image: https://cdn.thestorygraph.com/pf8uzd16ystcw72q1s6nhlwvq2n4
+  title: I Deliver Parcels in Beijing
+  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
 - author: Marina Lewycka
   image: https://cdn.thestorygraph.com/vma9n2h87mpw1rzae26u87yehjem
   title: A Short History of Tractors in Ukrainian
@@ -45,9 +49,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/dk5tton1rrx0bgeo43tnruvhwoyu
   title: On the Calculation of Volume IV
   url: https://app.thestorygraph.com/books/88b1bf1e-34ce-4de1-8aa6-8c0d063db37f
-- author: John Steinbeck
-  image: https://cdn.thestorygraph.com/5dq81rrxh5ajegkss0ar6jyrptyq
-  title: The Moon Is Down
-  url: https://app.thestorygraph.com/books/d323f080-daa8-4816-b6d9-643c6d6a2736
 to_read_count: '1359'
-year_count: '47'
+year_count: '48'
