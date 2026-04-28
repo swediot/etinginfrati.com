@@ -1,29 +1,34 @@
 currently_reading:
+- author: Witold Szabłowski
+  image: https://cdn.thestorygraph.com/sh92pqzysld83zpiqq32nqwhhpq9
+  title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
+    an Empire with a Knife and Fork'
+  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
 - author: Clarice Lispector
   image: https://cdn.thestorygraph.com/90nr4xnmb9lrkll9dv69gyxumgbq
   title: Hour of the Star
   url: https://app.thestorygraph.com/books/98caaa69-3166-440b-aeb0-d259693f09b9
 recent_five_star:
-- author: Sally Rooney
-  image: https://cdn.thestorygraph.com/rdpmeexc1phn9xxs8d06ke3dowzz
-  title: Intermezzo
-  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
-- author: Alexis Schaitkin
-  image: https://cdn.thestorygraph.com/hyd1owq7znpuxyirq9r2bxtiffal
-  title: Elsewhere
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/yn4wicfbdmgr8hprvycs8g61g90m
-  title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-- author: Madeline Miller
-  image: https://cdn.thestorygraph.com/lhclxnbt5ymsevkrkjh1odqbtl4v
-  title: The Song of Achilles
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-- author: Cormac McCarthy
-  image: https://cdn.thestorygraph.com/wmiqbdkjl1fzur9qv4imrzj46qy5
-  title: The Road
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+- author: Sandra Newman
+  image: https://cdn.thestorygraph.com/o3ji7b7gesh24cdlb9mbcs6jlvpl
+  title: Julia
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+- author: Tove Ditlevsen
+  image: https://cdn.thestorygraph.com/v5rn71t70rxu2y2ip95boq4ywo5j
+  title: 'The Trouble with Happiness: and Other Stories'
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+- author: Maylis de Kerangal
+  image: https://cdn.thestorygraph.com/qf3nnksrq9vej8sjdre5igcnwqxa
+  title: Eastbound
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+- author: Pajtim Statovci
+  image: https://cdn.thestorygraph.com/r6qf607xxxodkxip9l3929l8ihh5
+  title: Bolla
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+- author: Gabrielle Zevin
+  image: https://cdn.thestorygraph.com/37oyhm1biwyrahiemfmovwio80m9
+  title: Tomorrow, and Tomorrow, and Tomorrow
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
 recently_read:
 - author: Edwin A. Abbott
   image: https://cdn.thestorygraph.com/z0zks9u9aeop5pvpd35u1al3zmgc
@@ -45,5 +50,5 @@ recently_read:
   image: https://cdn.thestorygraph.com/0o9zb5y2pqdbc1g1i2fbt1nn5cyt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
-to_read_count: '1359'
+to_read_count: '1360'
 year_count: '49'
