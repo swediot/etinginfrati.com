@@ -1,53 +1,53 @@
 currently_reading:
 - author: Witold Szabłowski
-  image: https://cdn.thestorygraph.com/sh92pqzysld83zpiqq32nqwhhpq9
+  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
   title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
     an Empire with a Knife and Fork'
   url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
 - author: Clarice Lispector
-  image: https://cdn.thestorygraph.com/90nr4xnmb9lrkll9dv69gyxumgbq
+  image: https://cdn.thestorygraph.com/h43ptik2rsk4vax4j5mtx212f4wt
   title: Hour of the Star
   url: https://app.thestorygraph.com/books/98caaa69-3166-440b-aeb0-d259693f09b9
 recent_five_star:
-- author: Charlie Mackesy
-  image: https://cdn.thestorygraph.com/kgkamokhhnqbdmnjz3ur4jzpraz4
-  title: The Boy, the Mole, the Fox and the Horse
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
-- author: Melissa Broder
-  image: https://cdn.thestorygraph.com/acsoag095ihpqo27hzrpble1z6ix
-  title: The Pisces
-  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
-- author: Percival Everett
-  image: https://cdn.thestorygraph.com/r0whdi0zkomunddgn1edu13p9r5c
-  title: James
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-- author: Haruki Murakami
-  image: https://cdn.thestorygraph.com/gj7pxe0vs1cqizu5vfq9imhxamwo
-  title: The Wind-Up Bird Chronicle
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-- author: Kazuo Ishiguro
-  image: https://cdn.thestorygraph.com/6slmjxncv6g75d0entt1cybjs1py
-  title: The Buried Giant
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
+- author: Yōko Ogawa
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
+  title: Hotel Iris
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+- author: Michelle Good
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+  title: Five Little Indians
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+- author: Lea Ypi
+  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
+  title: 'Indignity: A Life Reimagined'
+  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
+- author: Ryszard Kapuściński
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+  title: Another Day of Life
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+- author: Claire Keegan
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+  title: So Late in the Day
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
 recently_read:
 - author: Edwin A. Abbott
-  image: https://cdn.thestorygraph.com/z0zks9u9aeop5pvpd35u1al3zmgc
+  image: https://cdn.thestorygraph.com/dqx0ugrrlhnzmjmk0hv602nb22na
   title: Flatland
   url: https://app.thestorygraph.com/books/bbde264e-e341-4933-9591-c899d5a048e5
 - author: Hu Anyan
-  image: https://cdn.thestorygraph.com/pf8uzd16ystcw72q1s6nhlwvq2n4
+  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
   title: I Deliver Parcels in Beijing
   url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
 - author: Marina Lewycka
-  image: https://cdn.thestorygraph.com/vma9n2h87mpw1rzae26u87yehjem
+  image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
   title: A Short History of Tractors in Ukrainian
   url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
 - author: Jon Fosse
-  image: https://cdn.thestorygraph.com/6c2udqeudyepc05carn5nygpke3p
+  image: https://cdn.thestorygraph.com/t3dje92m59hacl71235zekpinw22
   title: Vaim
   url: https://app.thestorygraph.com/books/10d50777-0077-40ea-b722-8516742de16c
 - author: Laila Lalami
-  image: https://cdn.thestorygraph.com/0o9zb5y2pqdbc1g1i2fbt1nn5cyt
+  image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
   title: The Dream Hotel
   url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
 to_read_count: '1360'
