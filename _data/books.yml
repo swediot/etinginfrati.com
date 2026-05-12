@@ -1,54 +1,54 @@
+year_count: '57'
+to_read_count: '1365'
 currently_reading:
-- author: Witold Szabłowski
-  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
-  title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
-    an Empire with a Knife and Fork'
-  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
-- author: Clarice Lispector
-  image: https://cdn.thestorygraph.com/h43ptik2rsk4vax4j5mtx212f4wt
-  title: Hour of the Star
-  url: https://app.thestorygraph.com/books/98caaa69-3166-440b-aeb0-d259693f09b9
-recent_five_star:
-- author: Yōko Ogawa
-  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
-  title: Hotel Iris
-  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
-- author: Michelle Good
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-  title: Five Little Indians
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-- author: Lea Ypi
-  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
-  title: 'Indignity: A Life Reimagined'
-  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-- author: Ryszard Kapuściński
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-  title: Another Day of Life
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-- author: Claire Keegan
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-  title: So Late in the Day
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
+- title: In Cold Blood
+  author: Truman Capote
+  url: https://app.thestorygraph.com/books/11b07ebd-e734-450b-9675-650ee1d89fb2
+  image: https://cdn.thestorygraph.com/d4afbi2dw5q3g6w57rqocfaybkbo
+- title: The Nights Are Quiet in Tehran
+  author: Shida Bazyar
+  url: https://app.thestorygraph.com/books/f4796c9f-fddd-4dac-8f8a-ac96481836dd
+  image: https://cdn.thestorygraph.com/iuljmb1iaa69oba2v1lw12gy7rhv
 recently_read:
-- author: Edwin A. Abbott
-  image: https://cdn.thestorygraph.com/dqx0ugrrlhnzmjmk0hv602nb22na
-  title: Flatland
-  url: https://app.thestorygraph.com/books/bbde264e-e341-4933-9591-c899d5a048e5
-- author: Hu Anyan
-  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
-  title: I Deliver Parcels in Beijing
+- title: China Room
+  author: Sunjeev Sahota
+  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
+  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
+- title: The Storied Life of A.J. Fikry
+  author: Gabrielle Zevin
+  url: https://app.thestorygraph.com/books/fbdaf609-0e7f-4f7c-b700-4f2e87f824c2
+  image: https://cdn.thestorygraph.com/ugz33eo4wq27dinz37fgc9uioi1o
+- title: Blind Willow, Sleeping Woman
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/e767c00f-22a9-4cd9-85ff-9e1c11a4fda1
+  image: https://cdn.thestorygraph.com/at9peauvjbr2kejxynosw3xqzl59
+- title: Live Fast
+  author: Brigitte Giraud
+  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
+  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
+- title: The Disappearing Act
+  author: Maria Stepanova
+  url: https://app.thestorygraph.com/books/e5e946e4-a4f9-48c7-8833-85a2240046d7
+  image: https://cdn.thestorygraph.com/1r8kn0x09dvk8pan673ponuae2us
+recent_five_star:
+- title: China Room
+  author: Sunjeev Sahota
+  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
+  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
+- title: Live Fast
+  author: Brigitte Giraud
+  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
+  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
+- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
+    an Empire with a Knife and Fork'
+  author: Witold Szabłowski
+  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
+  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
+- title: I Deliver Parcels in Beijing
+  author: Hu Anyan
   url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
-- author: Marina Lewycka
-  image: https://cdn.thestorygraph.com/pyf8yvv1l00fywvd6tbmg0h2zwx8
-  title: A Short History of Tractors in Ukrainian
-  url: https://app.thestorygraph.com/books/8bafe1e6-ec6a-42fb-ba3c-f81af521bd79
-- author: Jon Fosse
-  image: https://cdn.thestorygraph.com/t3dje92m59hacl71235zekpinw22
-  title: Vaim
-  url: https://app.thestorygraph.com/books/10d50777-0077-40ea-b722-8516742de16c
-- author: Laila Lalami
-  image: https://cdn.thestorygraph.com/35qgw371xjv4zcuqzvopfcwjtpkt
-  title: The Dream Hotel
-  url: https://app.thestorygraph.com/books/29383a16-f493-4d51-9e0e-999a01bfcfc6
-to_read_count: '1360'
-year_count: '49'
+  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
+- title: 'Indignity: A Life Reimagined'
+  author: Lea Ypi
+  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
+  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
