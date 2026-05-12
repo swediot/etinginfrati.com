@@ -1,253 +1,165 @@
-from bs4 import BeautifulSoup
-import yaml
 import os
+import re
 import sys
-import time
+import yaml
+import subprocess
 from pathlib import Path
 
-# Configuration
 USERNAME = "swediot"
 BASE_URL = "https://app.thestorygraph.com"
+FETCH_BASE_URL = os.getenv("STORYGRAPH_FETCH_BASE_URL", "https://r.jina.ai/http://https://app.thestorygraph.com")
 OUTPUT_FILE = "_data/books.yml"
 DEBUG_DIR = Path("tmp/storygraph-debug")
-CHALLENGE_TITLES = {"Just a moment...", "Attention Required! | Cloudflare"}
 
-def save_debug_artifacts(page, html, reason):
+SECTION_URLS = {
+    "profile": f"/profile/{USERNAME}",
+    "currently_reading": f"/currently-reading/{USERNAME}",
+    "recently_read": f"/books-read/{USERNAME}",
+    "recent_five_star": f"/five_star_reads/{USERNAME}",
+    "to_read": f"/to-read/{USERNAME}",
+}
+
+IMAGE_LINK_RE = re.compile(
+    r"\[!\[(?:Image \d+: )?(?P<alt>.+?)\]\((?P<image>https://[^)]+)\)\]\((?P<url>https://app\.thestorygraph\.com/books/[^)]+)\)"
+)
+COUNT_RE = re.compile(r"\[(?P<label>[^\]]+) \((?P<count>\d+)\)\]\(https://app\.thestorygraph\.com/(?P<path>[^)]+)\)")
+YEAR_RE = re.compile(r"\b(?P<count>\d+)\s+This Year\b", re.IGNORECASE)
+
+
+def ensure_debug_dir():
     DEBUG_DIR.mkdir(parents=True, exist_ok=True)
-    slug = reason.lower().replace(' ', '-').replace('/', '-')
-    html_path = DEBUG_DIR / f"{slug}.html"
-    shot_path = DEBUG_DIR / f"{slug}.png"
-    html_path.write_text(html, encoding="utf-8")
-    try:
-        page.screenshot(path=str(shot_path), full_page=True)
-    except Exception as screenshot_error:
-        print(f"Warning: failed to save screenshot: {screenshot_error}")
-    print(f"Saved debug HTML to {html_path}")
-    print(f"Saved debug screenshot to {shot_path}")
 
 
-def detect_challenge(page, html):
-    title = (page.title() or "").strip()
-    lowered = html.lower()
-    indicators = [
-        title in CHALLENGE_TITLES,
-        "cf-mitigated" in lowered,
-        "challenge-platform" in lowered,
-        "enable javascript and cookies to continue" in lowered,
-        "just a moment" in lowered,
-    ]
-    return any(indicators), title
-
-
-def get_soup(page, url, wait_for_selector=None):
+def fetch_markdown(section_name, path):
+    url = f"{FETCH_BASE_URL}{path}"
     print(f"Fetching {url}...")
-    try:
-        response = page.goto(url, wait_until='domcontentloaded', timeout=60000)
+    result = subprocess.run(
+        [
+            "curl",
+            "-fsSL",
+            "-A",
+            "Mozilla/5.0",
+            url,
+        ],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
 
-        if wait_for_selector:
-            try:
-                page.wait_for_selector(wait_for_selector, timeout=5000)
-            except Exception:
-                pass
+    if result.returncode != 0:
+        stderr = (result.stderr or "").strip()
+        raise RuntimeError(f"curl failed for {section_name}: {stderr or 'unknown error'}")
 
-        page.wait_for_timeout(2000)
-        content = page.content()
-        challenged, title = detect_challenge(page, content)
-        status = response.status if response else "unknown"
+    text = result.stdout
 
-        if challenged:
-            reason = f"cloudflare-challenge-{status}"
-            print(f"Blocked by Cloudflare challenge while fetching {url} (status {status}, title '{title}').")
-            save_debug_artifacts(page, content, reason)
-            return None
+    if "Title: Just a moment..." in text or "cf-mitigated" in text.lower():
+        ensure_debug_dir()
+        debug_path = DEBUG_DIR / f"{section_name}.txt"
+        debug_path.write_text(text, encoding="utf-8")
+        raise RuntimeError(f"StoryGraph fetch for {section_name} hit Cloudflare. Saved debug response to {debug_path}")
 
-        return BeautifulSoup(content, 'html.parser')
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return None
+    return text
 
-def get_profile_stats_from_soup(soup):
-    """Extracts stats from already fetched profile soup."""
-    stats = {'year_count': '0', 'to_read_count': '0'}
-    if not soup:
-        return stats
-    
-    # 1. Year Count ("THIS YEAR")
-    for div in soup.find_all('div'):
-        text = div.get_text(strip=True).upper()
-        
-        if text == "THIS YEAR":
-            parent = div.find_parent('div')
-            if parent:
-                num_span = parent.select_one('.tabular-nums')
-                if num_span:
-                    stats['year_count'] = num_span.get_text(strip=True)
-                    
-    # 2. To Read Count
-    # Look for: <a href="/to-read/swediot">To-Read Pile (1309)</a>
-    to_read_link = soup.select_one(f'a[href*="/to-read/{USERNAME.lower()}"]')
-    if to_read_link:
-        text = to_read_link.get_text(strip=True)
-        if '(' in text and ')' in text:
-            try:
-                count = text.split('(')[1].split(')')[0]
-                stats['to_read_count'] = count
-            except IndexError:
-                pass
 
-    return stats
+def parse_counts(profile_markdown):
+    counts = {
+        "year_count": "0",
+        "to_read_count": "0",
+    }
 
-def get_books_from_profile_section(soup, section_path, limit=None):
+    year_match = YEAR_RE.search(profile_markdown)
+    if year_match:
+        counts["year_count"] = year_match.group("count")
+
+    for match in COUNT_RE.finditer(profile_markdown):
+        path = match.group("path")
+        if path == f"to-read/{USERNAME}":
+            counts["to_read_count"] = match.group("count")
+
+    return counts
+
+
+def normalise_alt(alt_text):
+    if " by " in alt_text:
+        title, author = alt_text.rsplit(" by ", 1)
+    elif " — " in alt_text:
+        title, author = alt_text.rsplit(" — ", 1)
+    else:
+        title, author = alt_text, ""
+    return title.strip(), author.strip()
+
+
+def parse_books(markdown_text, limit=None):
     books = []
     seen = set()
-    
-    links = soup.select(f'a[href*="{section_path}"]')
-    
-    for link in links:
-        container = link.find_parent(lambda tag: tag.name == 'div' and tag.get('class') and any(c in tag.get('class') for c in ['col-span-2', 'mt-7', 'mt-1']))
-        if not container:
-            parent = link.find_parent('div')
-            if parent:
-                parent = parent.find_parent('div')
-            container = parent
-            
-        if not container: continue
-            
-        book_links = container.select('.book-page-link')
-        for bl in book_links:
-            url = bl.get('href')
-            if url and url.startswith('/'):
-                url = "https://app.thestorygraph.com" + url
-                
-            if url in seen: continue
-            seen.add(url)
-            
-            img = bl.select_one('img')
-            if not img: continue
-            
-            alt = img.get('alt', '')
-            parts = alt.split(' by ')
-            title = parts[0].strip()
-            author = parts[1].strip() if len(parts) > 1 else ''
-            
-            books.append({
-                'title': title,
-                'author': author,
-                'url': url,
-                'image': img.get('src')
-            })
-            
-    if limit:
+
+    for match in IMAGE_LINK_RE.finditer(markdown_text):
+        url = match.group("url")
+        if url in seen:
+            continue
+        seen.add(url)
+
+        title, author = normalise_alt(match.group("alt"))
+        books.append(
+            {
+                "title": title,
+                "author": author,
+                "url": url,
+                "image": match.group("image"),
+            }
+        )
+
+    if limit is not None:
         books = books[:limit]
     return books
 
-def main():
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        print("Playwright not found. Please install: pip install playwright && playwright install chromium")
-        return
 
-    data = {}
-    
-    print("Launching headless browser...")
-    with sync_playwright() as p:
-        # Launch browser with stealth args
-        browser = p.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled"]
-        )
-        context = browser.new_context(
-            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36'
-        )
-        
-        # Apply stealth
-        try:
-            import playwright_stealth
-            if hasattr(playwright_stealth, 'Stealth'):
-                # Handle v2.x breaking changes
-                stealth = playwright_stealth.Stealth()
-                if hasattr(stealth, 'apply_stealth_sync'):
-                    stealth.apply_stealth_sync(context)
-                else:
-                    stealth_sync = getattr(playwright_stealth, 'stealth_sync', None)
-                    if stealth_sync:
-                        stealth_sync(context)
-            else:
-                # Fallback to v1.x
-                playwright_stealth.stealth_sync(context)
-        except ImportError:
-            print("Warning: playwright-stealth not found. Skipping stealth mode.")
-
-        page = context.new_page()
-        page.set_extra_http_headers({
-            'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'
-        })
-
-        try:
-            print("Scraping Profile Page...")
-            soup = get_soup(page, f"{BASE_URL}/profile/{USERNAME}")
-            if not soup:
-                print("Failed to get profile page.")
-                sys.exit(1)
-                
-            # 1. Profile Stats
-            print("Extracting 'Profile Stats'...")
-            stats = get_profile_stats_from_soup(soup)
-            data['year_count'] = stats['year_count']
-            data['to_read_count'] = stats['to_read_count']
-
-            # 2. Currently Reading
-            print("Extracting 'Currently Reading'...")
-            data['currently_reading'] = get_books_from_profile_section(soup, f"/currently-reading/")
-            
-            # 3. Recent 5 Star Reads (Last 5)
-            print("Extracting 'Recent 5 Star Reads'...")
-            data['recent_five_star'] = get_books_from_profile_section(soup, f"/five_star_reads/", limit=5)
-
-            # 4. Recently Read (Last 5)
-            print("Extracting 'Recently Read'...")
-            data['recently_read'] = get_books_from_profile_section(soup, f"/books-read/", limit=5)
-            
-        finally:
-            browser.close()
-            
-    # Validate data before saving
+def validate_data(data):
     errors = []
-    
-    # 1. To Read Count
-    if data.get('to_read_count', '0') == '0' or not data.get('to_read_count'):
-        errors.append("Error: To Read count is 0 or missing")
-        
-    # 2. Year Count
-    if data.get('year_count', '0') == '0' or not data.get('year_count'):
-        errors.append("Error: Year count is 0 or missing")
-        
-    # 3. Recently Read
-    if not data.get('recently_read'):
-        errors.append("Error: Recently read list is empty")
-        
-    # 4. Recent 5 Star
-    if not data.get('recent_five_star'):
-        errors.append("Error: Recent 5 Star list is empty")
+
+    if data.get("to_read_count", "0") == "0":
+        errors.append("To Read count is 0 or missing")
+    if data.get("year_count", "0") == "0":
+        errors.append("Year count is 0 or missing")
+    if not data.get("recently_read"):
+        errors.append("Recently read list is empty")
+    if not data.get("recent_five_star"):
+        errors.append("Recent 5 Star list is empty")
+    if not data.get("currently_reading"):
+        errors.append("Currently reading list is empty")
 
     if errors:
-        print("\nValidation Failed:")
-        for error in errors:
-            print(f"  - {error}")
-        print("\nExiting without saving.")
+        raise RuntimeError("Validation failed: " + "; ".join(errors))
+
+
+def main():
+    try:
+        profile = fetch_markdown("profile", SECTION_URLS["profile"])
+        currently_reading = fetch_markdown("currently_reading", SECTION_URLS["currently_reading"])
+        recently_read = fetch_markdown("recently_read", SECTION_URLS["recently_read"])
+        recent_five_star = fetch_markdown("recent_five_star", SECTION_URLS["recent_five_star"])
+    except Exception as error:
+        print(f"Error fetching StoryGraph data: {error}")
         sys.exit(1)
-    
-    # Save to _data/books.yml
+
+    data = parse_counts(profile)
+    data["currently_reading"] = parse_books(currently_reading)
+    data["recently_read"] = parse_books(recently_read, limit=5)
+    data["recent_five_star"] = parse_books(recent_five_star, limit=5)
+
+    try:
+        validate_data(data)
+    except Exception as error:
+        print(str(error))
+        sys.exit(1)
+
     print(f"Saving to {OUTPUT_FILE}...")
-    
-    # Ensure directory exists
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-    
-    with open(OUTPUT_FILE, 'w') as f:
-        yaml.dump(data, f, allow_unicode=True, default_flow_style=False)
-        
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as handle:
+        yaml.dump(data, handle, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
     print("Done!")
+
 
 if __name__ == "__main__":
     main()
