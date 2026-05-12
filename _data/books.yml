@@ -31,23 +31,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/e5e946e4-a4f9-48c7-8833-85a2240046d7
   image: https://cdn.thestorygraph.com/1r8kn0x09dvk8pan673ponuae2us
 recent_five_star:
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
 - title: 'Evicted: Poverty and Profit in the American City'
   author: Matthew Desmond
   url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
   image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: The Buried Giant
+- title: 'Blitzed: Drugs in Nazi Germany'
+  author: Norman Ohler
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+- title: 'Nocturnes: Five Stories of Music and Nightfall'
   author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
-  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: The Last White Man
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
