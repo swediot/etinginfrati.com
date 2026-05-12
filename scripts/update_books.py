@@ -1,34 +1,66 @@
-import requests
 from bs4 import BeautifulSoup
 import yaml
 import os
-import datetime
 import sys
 import time
-import random
+from pathlib import Path
 
 # Configuration
 USERNAME = "swediot"
 BASE_URL = "https://app.thestorygraph.com"
 OUTPUT_FILE = "_data/books.yml"
+DEBUG_DIR = Path("tmp/storygraph-debug")
+CHALLENGE_TITLES = {"Just a moment...", "Attention Required! | Cloudflare"}
+
+def save_debug_artifacts(page, html, reason):
+    DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+    slug = reason.lower().replace(' ', '-').replace('/', '-')
+    html_path = DEBUG_DIR / f"{slug}.html"
+    shot_path = DEBUG_DIR / f"{slug}.png"
+    html_path.write_text(html, encoding="utf-8")
+    try:
+        page.screenshot(path=str(shot_path), full_page=True)
+    except Exception as screenshot_error:
+        print(f"Warning: failed to save screenshot: {screenshot_error}")
+    print(f"Saved debug HTML to {html_path}")
+    print(f"Saved debug screenshot to {shot_path}")
+
+
+def detect_challenge(page, html):
+    title = (page.title() or "").strip()
+    lowered = html.lower()
+    indicators = [
+        title in CHALLENGE_TITLES,
+        "cf-mitigated" in lowered,
+        "challenge-platform" in lowered,
+        "enable javascript and cookies to continue" in lowered,
+        "just a moment" in lowered,
+    ]
+    return any(indicators), title
+
 
 def get_soup(page, url, wait_for_selector=None):
     print(f"Fetching {url}...")
     try:
-        # Increase timeout just in case
-        page.goto(url, timeout=60000)
-        # Wait for some content to ensure not just a loading spinner
-        page.wait_for_load_state('domcontentloaded')
-        
+        response = page.goto(url, wait_until='domcontentloaded', timeout=60000)
+
         if wait_for_selector:
-             try:
+            try:
                 page.wait_for_selector(wait_for_selector, timeout=5000)
-             except Exception:
-                # Optional: log warning if verbose
-                # print(f"  Warning: Timeout waiting for selector '{wait_for_selector}'")
+            except Exception:
                 pass
 
+        page.wait_for_timeout(2000)
         content = page.content()
+        challenged, title = detect_challenge(page, content)
+        status = response.status if response else "unknown"
+
+        if challenged:
+            reason = f"cloudflare-challenge-{status}"
+            print(f"Blocked by Cloudflare challenge while fetching {url} (status {status}, title '{title}').")
+            save_debug_artifacts(page, content, reason)
+            return None
+
         return BeautifulSoup(content, 'html.parser')
     except Exception as e:
         print(f"Error fetching {url}: {e}")
@@ -148,6 +180,9 @@ def main():
             print("Warning: playwright-stealth not found. Skipping stealth mode.")
 
         page = context.new_page()
+        page.set_extra_http_headers({
+            'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'
+        })
 
         try:
             print("Scraping Profile Page...")
