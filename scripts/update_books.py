@@ -31,34 +31,67 @@ def ensure_debug_dir():
 
 
 def fetch_markdown(section_name, path):
-    url = f"{FETCH_BASE_URL}{path}"
-    print(f"Fetching {url}...")
-    result = subprocess.run(
-        [
-            "curl",
-            "-fsSL",
-            "-A",
-            "Mozilla/5.0",
-            url,
-        ],
-        capture_output=True,
-        text=True,
-        check=False,
-    )
+    primary_url = f"{FETCH_BASE_URL}{path}"
+    fallback_url = f"{BASE_URL}{path}"
 
-    if result.returncode != 0:
-        stderr = (result.stderr or "").strip()
-        raise RuntimeError(f"curl failed for {section_name}: {stderr or 'unknown error'}")
+    commands = [
+        (primary_url, ["curl", "-fsSL", "-A", "Mozilla/5.0", primary_url]),
+        (
+            fallback_url,
+            [
+                "curl",
+                "-fsSL",
+                "-A",
+                "Mozilla/5.0",
+                "--http1.1",
+                "--compressed",
+                "-H",
+                "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "-H",
+                "Accept-Language: en-GB,en-US;q=0.9,en;q=0.8",
+                "-H",
+                "Cache-Control: no-cache",
+                "-H",
+                "Pragma: no-cache",
+                fallback_url,
+            ],
+        ),
+    ]
 
-    text = result.stdout
+    last_error = None
+    challenge_text = None
 
-    if "Title: Just a moment..." in text or "cf-mitigated" in text.lower():
-        ensure_debug_dir()
-        debug_path = DEBUG_DIR / f"{section_name}.txt"
-        debug_path.write_text(text, encoding="utf-8")
-        raise RuntimeError(f"StoryGraph fetch for {section_name} hit Cloudflare. Saved debug response to {debug_path}")
+    for url, command in commands:
+        print(f"Fetching {url}...")
+        result = subprocess.run(
+            command,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
 
-    return text
+        if result.returncode != 0:
+            stderr = (result.stderr or "").strip()
+            last_error = f"curl failed for {section_name} via {url}: {stderr or 'unknown error'}"
+            continue
+
+        text = result.stdout
+        lowered = text.lower()
+        if "title: just a moment..." in lowered or "cf-mitigated" in lowered or "enable javascript and cookies to continue" in lowered:
+            challenge_text = text
+            last_error = f"StoryGraph fetch for {section_name} via {url} hit Cloudflare"
+            continue
+
+        if "https://app.thestorygraph.com/books/" not in text and section_name != "profile":
+            last_error = f"Fetch for {section_name} via {url} returned unexpected content"
+            continue
+
+        return text
+
+    ensure_debug_dir()
+    debug_path = DEBUG_DIR / f"{section_name}.txt"
+    debug_path.write_text(challenge_text or (last_error or "Unknown fetch failure"), encoding="utf-8")
+    raise RuntimeError(f"{last_error}. Saved debug response to {debug_path}")
 
 
 def parse_counts(profile_markdown):
