@@ -31,23 +31,24 @@ recently_read:
   url: https://app.thestorygraph.com/books/e5e946e4-a4f9-48c7-8833-85a2240046d7
   image: https://cdn.thestorygraph.com/1r8kn0x09dvk8pan673ponuae2us
 recent_five_star:
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
-- title: 'Evicted: Poverty and Profit in the American City'
-  author: Matthew Desmond
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: The Buried Giant
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
-  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: The Last White Man
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+- title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: Bolla
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
+- title: House of Day, House of Night
+  author: Olga Tokarczuk
+  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
+  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
+- title: Eastbound
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
+    an Empire with a Knife and Fork'
+  author: Witold Szabłowski
+  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
+  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
