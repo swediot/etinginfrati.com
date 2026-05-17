@@ -1,15 +1,19 @@
-year_count: '57'
+year_count: '58'
 to_read_count: '1366'
 currently_reading:
-- title: In Cold Blood
-  author: Truman Capote
-  url: https://app.thestorygraph.com/books/11b07ebd-e734-450b-9675-650ee1d89fb2
-  image: https://cdn.thestorygraph.com/d4afbi2dw5q3g6w57rqocfaybkbo
+- title: Headshot
+  author: Rita Bullwinkel
+  url: https://app.thestorygraph.com/books/14554fea-bf0f-4cc8-8129-87ceea55b1cf
+  image: https://cdn.thestorygraph.com/62otmyrs3jde8ygxocy3m3w1gbj6
 - title: The Nights Are Quiet in Tehran
   author: Shida Bazyar
   url: https://app.thestorygraph.com/books/f4796c9f-fddd-4dac-8f8a-ac96481836dd
   image: https://cdn.thestorygraph.com/iuljmb1iaa69oba2v1lw12gy7rhv
 recently_read:
+- title: In Cold Blood
+  author: Truman Capote
+  url: https://app.thestorygraph.com/books/11b07ebd-e734-450b-9675-650ee1d89fb2
+  image: https://cdn.thestorygraph.com/d4afbi2dw5q3g6w57rqocfaybkbo
 - title: China Room
   author: Sunjeev Sahota
   url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
@@ -26,28 +30,25 @@ recently_read:
   author: Brigitte Giraud
   url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
   image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
-- title: The Disappearing Act
-  author: Maria Stepanova
-  url: https://app.thestorygraph.com/books/e5e946e4-a4f9-48c7-8833-85a2240046d7
-  image: https://cdn.thestorygraph.com/1r8kn0x09dvk8pan673ponuae2us
 recent_five_star:
-- title: Anish & Antony Take Afghanistan
-  author: Scott King
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
+- title: 'The Trouble with Happiness: and Other Stories'
+  author: Tove Ditlevsen
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+- title: Intermezzo
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
+- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+- title: The Wren, The Wren
+  author: Anne Enright
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
 - title: Saint X
   author: Alexis Schaitkin
   url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
   image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-- title: The Road
-  author: Cormac McCarthy
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
-- title: The Pisces
-  author: Melissa Broder
-  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
-  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
