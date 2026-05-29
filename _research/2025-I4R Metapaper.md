@@ -2,9 +2,9 @@
 title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
 collection: research
 excerpt: 
-date: 01/2025
-venue: I4R Discussion Paper Series
-category: working_paper
+date: 05/2026
+venue: PNAS
+category: publication
 paperurl: /files/2025 - I4R Metapaper.pdf
 ---
 
