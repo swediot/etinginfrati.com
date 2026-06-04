@@ -1,15 +1,19 @@
-year_count: '60'
-to_read_count: '1363'
+year_count: '62'
+to_read_count: '1362'
 currently_reading:
-- title: Yesteryear
-  author: Caro Claire Burke
-  url: https://app.thestorygraph.com/books/708e17d5-0e39-425c-89be-dbec0ffba19e
-  image: https://cdn.thestorygraph.com/qexi8invtbh6qpzglv3y8im6tam2
+- title: No One Writes to the Colonel and Other Stories
+  author: Gabriel García Márquez
+  url: https://app.thestorygraph.com/books/3b1a8948-b0eb-4ea5-a111-ed1e5f7e33d2
+  image: https://cdn.thestorygraph.com/y75wt0odspi1gtl9uwf7v924dou3
+recently_read:
 - title: The Nights Are Quiet in Tehran
   author: Shida Bazyar
   url: https://app.thestorygraph.com/books/f4796c9f-fddd-4dac-8f8a-ac96481836dd
   image: https://cdn.thestorygraph.com/iuljmb1iaa69oba2v1lw12gy7rhv
-recently_read:
+- title: Yesteryear
+  author: Caro Claire Burke
+  url: https://app.thestorygraph.com/books/708e17d5-0e39-425c-89be-dbec0ffba19e
+  image: https://cdn.thestorygraph.com/qexi8invtbh6qpzglv3y8im6tam2
 - title: '24 Hours in Ancient Egypt: A Day in the Life of the People Who Lived There'
   author: Donald P. Ryan
   url: https://app.thestorygraph.com/books/91ca1ecc-8e94-4a16-aaa0-d15f6e883975
@@ -22,34 +26,24 @@ recently_read:
   author: Truman Capote
   url: https://app.thestorygraph.com/books/11b07ebd-e734-450b-9675-650ee1d89fb2
   image: https://cdn.thestorygraph.com/d4afbi2dw5q3g6w57rqocfaybkbo
+recent_five_star:
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: Will You Care If I Die?
+  author: Nicolas Lunabba
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
 - title: China Room
   author: Sunjeev Sahota
   url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
   image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
-- title: The Storied Life of A.J. Fikry
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/fbdaf609-0e7f-4f7c-b700-4f2e87f824c2
-  image: https://cdn.thestorygraph.com/ugz33eo4wq27dinz37fgc9uioi1o
-recent_five_star:
-- title: 'The Trouble with Happiness: and Other Stories'
-  author: Tove Ditlevsen
-  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
-  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
-- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
 - title: Hunchback
   author: Saou Ichikawa
   url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
   image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
-- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
-    an Empire with a Knife and Fork'
-  author: Witold Szabłowski
-  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
-  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
