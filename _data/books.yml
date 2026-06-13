@@ -1,49 +1,53 @@
-year_count: '62'
-to_read_count: '1362'
+year_count: '68'
+to_read_count: '1360'
 currently_reading:
+- title: Go Tell It on the Mountain
+  author: James Baldwin
+  url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
+  image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
+- title: South of the Border, West of the Sun
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/9575a72d-4e87-4c1d-aa9d-60c0b48108a9
+  image: https://cdn.thestorygraph.com/58pr35ubji4aehzkthef9tp6lzfe
+recently_read:
+- title: Old God's Time
+  author: Sebastian Barry
+  url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
+  image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
+- title: Red Crosses
+  author: Sasha Filipenko
+  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
+  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
 - title: No One Writes to the Colonel and Other Stories
   author: Gabriel García Márquez
   url: https://app.thestorygraph.com/books/3b1a8948-b0eb-4ea5-a111-ed1e5f7e33d2
   image: https://cdn.thestorygraph.com/y75wt0odspi1gtl9uwf7v924dou3
-recently_read:
-- title: The Nights Are Quiet in Tehran
-  author: Shida Bazyar
-  url: https://app.thestorygraph.com/books/f4796c9f-fddd-4dac-8f8a-ac96481836dd
-  image: https://cdn.thestorygraph.com/iuljmb1iaa69oba2v1lw12gy7rhv
-- title: Yesteryear
-  author: Caro Claire Burke
-  url: https://app.thestorygraph.com/books/708e17d5-0e39-425c-89be-dbec0ffba19e
-  image: https://cdn.thestorygraph.com/qexi8invtbh6qpzglv3y8im6tam2
-- title: '24 Hours in Ancient Egypt: A Day in the Life of the People Who Lived There'
-  author: Donald P. Ryan
-  url: https://app.thestorygraph.com/books/91ca1ecc-8e94-4a16-aaa0-d15f6e883975
-  image: https://cdn.thestorygraph.com/sb0j65a9l7eiio1ww030fhqb4ia5
-- title: Headshot
-  author: Rita Bullwinkel
-  url: https://app.thestorygraph.com/books/14554fea-bf0f-4cc8-8129-87ceea55b1cf
-  image: https://cdn.thestorygraph.com/62otmyrs3jde8ygxocy3m3w1gbj6
-- title: In Cold Blood
-  author: Truman Capote
-  url: https://app.thestorygraph.com/books/11b07ebd-e734-450b-9675-650ee1d89fb2
-  image: https://cdn.thestorygraph.com/d4afbi2dw5q3g6w57rqocfaybkbo
+- title: Lost Lambs
+  author: Madeline Cash
+  url: https://app.thestorygraph.com/books/645c352e-817d-40eb-83fd-a463b6d9569a
+  image: https://cdn.thestorygraph.com/lnvsit3ya95hdttcnx9rncjytgx0
 recent_five_star:
-- title: The Pearl
-  author: John Steinbeck
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-- title: Will You Care If I Die?
-  author: Nicolas Lunabba
-  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
-  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
-- title: China Room
-  author: Sunjeev Sahota
-  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
-  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
-- title: Hunchback
-  author: Saou Ichikawa
-  url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
-  image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
 - title: The Details
   author: Ia Genberg
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: Julia
+  author: Sandra Newman
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+- title: Red Crosses
+  author: Sasha Filipenko
+  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
+  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
