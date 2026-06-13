@@ -1,15 +1,15 @@
-year_count: '68'
-to_read_count: '1360'
+year_count: '69'
+to_read_count: '1361'
 currently_reading:
-- title: Go Tell It on the Mountain
-  author: James Baldwin
-  url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
-  image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
 - title: South of the Border, West of the Sun
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9575a72d-4e87-4c1d-aa9d-60c0b48108a9
   image: https://cdn.thestorygraph.com/58pr35ubji4aehzkthef9tp6lzfe
 recently_read:
+- title: Go Tell It on the Mountain
+  author: James Baldwin
+  url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
+  image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
 - title: Old God's Time
   author: Sebastian Barry
   url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
@@ -26,28 +26,24 @@ recently_read:
   author: Gabriel García Márquez
   url: https://app.thestorygraph.com/books/3b1a8948-b0eb-4ea5-a111-ed1e5f7e33d2
   image: https://cdn.thestorygraph.com/y75wt0odspi1gtl9uwf7v924dou3
-- title: Lost Lambs
-  author: Madeline Cash
-  url: https://app.thestorygraph.com/books/645c352e-817d-40eb-83fd-a463b6d9569a
-  image: https://cdn.thestorygraph.com/lnvsit3ya95hdttcnx9rncjytgx0
 recent_five_star:
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: Sky Daddy
+  author: Kate Folk
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
 - title: The Details
   author: Ia Genberg
   url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
   image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-- title: The Pearl
-  author: John Steinbeck
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-- title: Julia
-  author: Sandra Newman
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-- title: Red Crosses
-  author: Sasha Filipenko
-  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
-  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: My Documents
+  author: Alejandro Zambra
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
