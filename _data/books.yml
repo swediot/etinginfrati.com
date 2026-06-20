@@ -1,11 +1,15 @@
-year_count: '71'
-to_read_count: '1363'
+year_count: '72'
+to_read_count: '1369'
 currently_reading:
+- title: Not Russian
+  author: Mikhail Shevelev
+  url: https://app.thestorygraph.com/books/fe6bbcfe-82c1-473b-87b1-57583a6e4a26
+  image: https://cdn.thestorygraph.com/oq5t6h1od2lsa3mn536wkp4dk71k
+recently_read:
 - title: The Book of Chameleons
   author: José Eduardo Agualusa
   url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
   image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
-recently_read:
 - title: Cold Enough for Snow
   author: Jessica Au
   url: https://app.thestorygraph.com/books/b9b47d46-dec5-453b-abd1-b6d45885712d
@@ -22,28 +26,24 @@ recently_read:
   author: Sebastian Barry
   url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
   image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
-- title: Red Crosses
-  author: Sasha Filipenko
-  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
-  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
 recent_five_star:
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: So Late in the Day
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-- title: The Road
-  author: Cormac McCarthy
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
-- title: Autumn
-  author: Ali Smith
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: Et la joie de vivre
+  author: Gisèle Pelicot
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+- title: The Pisces
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
+  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
+- title: The Buried Giant
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
+  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
