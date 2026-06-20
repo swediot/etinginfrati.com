@@ -1,11 +1,19 @@
-year_count: '69'
-to_read_count: '1364'
+year_count: '71'
+to_read_count: '1363'
 currently_reading:
+- title: The Book of Chameleons
+  author: José Eduardo Agualusa
+  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
+  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
+recently_read:
+- title: Cold Enough for Snow
+  author: Jessica Au
+  url: https://app.thestorygraph.com/books/b9b47d46-dec5-453b-abd1-b6d45885712d
+  image: https://cdn.thestorygraph.com/mjmdpf1kq0mbinwcgj0bmyc812iy
 - title: South of the Border, West of the Sun
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9575a72d-4e87-4c1d-aa9d-60c0b48108a9
   image: https://cdn.thestorygraph.com/58pr35ubji4aehzkthef9tp6lzfe
-recently_read:
 - title: Go Tell It on the Mountain
   author: James Baldwin
   url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
@@ -18,32 +26,24 @@ recently_read:
   author: Sasha Filipenko
   url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
   image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
-- title: Burnt Sugar
-  author: Avni Doshi
-  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
-  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
-- title: No One Writes to the Colonel and Other Stories
-  author: Gabriel García Márquez
-  url: https://app.thestorygraph.com/books/3b1a8948-b0eb-4ea5-a111-ed1e5f7e33d2
-  image: https://cdn.thestorygraph.com/y75wt0odspi1gtl9uwf7v924dou3
 recent_five_star:
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-- title: Five Little Indians
-  author: Michelle Good
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-- title: Live Fast
-  author: Brigitte Giraud
-  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
-  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: So Late in the Day
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+- title: Fathers and Sons
+  author: Ivan Turgenev
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: Autumn
+  author: Ali Smith
+  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
+  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
