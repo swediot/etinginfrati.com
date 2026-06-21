@@ -27,23 +27,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
   image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
 recent_five_star:
-- title: Normal People
-  author: Sally Rooney
-  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
-  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: 'Indignity: A Life Reimagined'
-  author: Lea Ypi
-  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
+- title: Another Day of Life
+  author: Ryszard Kapuściński
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: My Documents
+  author: Alejandro Zambra
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
+- title: China Room
+  author: Sunjeev Sahota
+  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
+  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
