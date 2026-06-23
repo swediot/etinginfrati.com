@@ -27,23 +27,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
   image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
 recent_five_star:
-- title: Everything is Tuberculosis
-  author: John Green
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: Six Feet of the Country
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: 'Diary of a Murderer: And Other Stories'
+  author: Young-Ha Kim
+  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
+  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: Transcendent Kingdom
+  author: Yaa Gyasi
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+- title: The English Understand Wool
+  author: Helen DeWitt
+  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
+  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
