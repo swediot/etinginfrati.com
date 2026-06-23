@@ -1,11 +1,15 @@
-year_count: '72'
-to_read_count: '1369'
+year_count: '73'
+to_read_count: '1372'
 currently_reading:
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+recently_read:
 - title: Not Russian
   author: Mikhail Shevelev
   url: https://app.thestorygraph.com/books/fe6bbcfe-82c1-473b-87b1-57583a6e4a26
   image: https://cdn.thestorygraph.com/oq5t6h1od2lsa3mn536wkp4dk71k
-recently_read:
 - title: The Book of Chameleons
   author: José Eduardo Agualusa
   url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
@@ -22,28 +26,24 @@ recently_read:
   author: James Baldwin
   url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
   image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
-- title: Old God's Time
-  author: Sebastian Barry
-  url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
-  image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
 recent_five_star:
-- title: Another Day of Life
-  author: Ryszard Kapuściński
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-- title: The Pearl
-  author: John Steinbeck
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: China Room
-  author: Sunjeev Sahota
-  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
-  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: Everything is Tuberculosis
+  author: John Green
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+- title: Tomorrow, and Tomorrow, and Tomorrow
+  author: Gabrielle Zevin
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: 'Nocturnes: Five Stories of Music and Nightfall'
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
