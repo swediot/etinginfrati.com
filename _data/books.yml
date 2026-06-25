@@ -1,11 +1,15 @@
-year_count: '73'
+year_count: '74'
 to_read_count: '1372'
 currently_reading:
+- title: Lessons from Cruising
+  author: Martin Goodman
+  url: https://app.thestorygraph.com/books/5916f7eb-7989-44a9-a293-ea8fcf08cee9
+  image: https://cdn.thestorygraph.com/flhih1nkg2y8ndqd9gguvm4313nh
+recently_read:
 - title: A Family Matter
   author: Claire Lynch
   url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
   image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
-recently_read:
 - title: Not Russian
   author: Mikhail Shevelev
   url: https://app.thestorygraph.com/books/fe6bbcfe-82c1-473b-87b1-57583a6e4a26
@@ -22,28 +26,24 @@ recently_read:
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9575a72d-4e87-4c1d-aa9d-60c0b48108a9
   image: https://cdn.thestorygraph.com/58pr35ubji4aehzkthef9tp6lzfe
-- title: Go Tell It on the Mountain
-  author: James Baldwin
-  url: https://app.thestorygraph.com/books/e1b6dd19-4cb8-4f60-ba73-40c43fd3ae62
-  image: https://cdn.thestorygraph.com/q6trkl71unc22lhu2aloetlibawb
 recent_five_star:
+- title: Normal People
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
+  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
 - title: 'Diary of a Murderer: And Other Stories'
   author: Young-Ha Kim
   url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
   image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-- title: 'Evicted: Poverty and Profit in the American City'
-  author: Matthew Desmond
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
