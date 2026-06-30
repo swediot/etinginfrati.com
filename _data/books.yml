@@ -1,6 +1,10 @@
 year_count: '76'
-to_read_count: '1384'
+to_read_count: '1383'
 currently_reading:
+- title: 'Sea People: The Puzzle of Polynesia'
+  author: Christina Thompson
+  url: https://app.thestorygraph.com/books/d311b134-475a-4cdf-be26-36986a1bcac6
+  image: https://cdn.thestorygraph.com/41b130ng62hk464ry7jwnbymixn9
 - title: My Son's Story
   author: Nadine Gordimer
   url: https://app.thestorygraph.com/books/ab30bccd-e259-4f20-9d04-6e89b364f754
@@ -27,23 +31,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
   image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
 recent_five_star:
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: Red Crosses
-  author: Sasha Filipenko
-  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
-  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
-- title: Will You Care If I Die?
-  author: Nicolas Lunabba
-  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
-  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-- title: Letters to Camondo
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+- title: The Buried Giant
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
+  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
+- title: Long Distance
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
