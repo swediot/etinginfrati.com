@@ -1,11 +1,19 @@
-year_count: '74'
-to_read_count: '1372'
+year_count: '76'
+to_read_count: '1384'
 currently_reading:
+- title: My Son's Story
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/ab30bccd-e259-4f20-9d04-6e89b364f754
+  image: https://cdn.thestorygraph.com/kj1r9wz5nme3yms66mtuk8porc3h
+recently_read:
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
 - title: Lessons from Cruising
   author: Martin Goodman
   url: https://app.thestorygraph.com/books/5916f7eb-7989-44a9-a293-ea8fcf08cee9
   image: https://cdn.thestorygraph.com/flhih1nkg2y8ndqd9gguvm4313nh
-recently_read:
 - title: A Family Matter
   author: Claire Lynch
   url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
@@ -18,32 +26,24 @@ recently_read:
   author: José Eduardo Agualusa
   url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
   image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
-- title: Cold Enough for Snow
-  author: Jessica Au
-  url: https://app.thestorygraph.com/books/b9b47d46-dec5-453b-abd1-b6d45885712d
-  image: https://cdn.thestorygraph.com/mjmdpf1kq0mbinwcgj0bmyc812iy
-- title: South of the Border, West of the Sun
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/9575a72d-4e87-4c1d-aa9d-60c0b48108a9
-  image: https://cdn.thestorygraph.com/58pr35ubji4aehzkthef9tp6lzfe
 recent_five_star:
-- title: Normal People
-  author: Sally Rooney
-  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
-  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: Saint X
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: Red Crosses
+  author: Sasha Filipenko
+  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
+  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
+- title: Will You Care If I Die?
+  author: Nicolas Lunabba
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
+- title: Transcendent Kingdom
+  author: Yaa Gyasi
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+- title: Letters to Camondo
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
