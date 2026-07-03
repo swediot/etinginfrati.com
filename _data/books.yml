@@ -1,6 +1,15 @@
-year_count: '77'
-to_read_count: '1385'
+year_count: '79'
+to_read_count: '1383'
 currently_reading:
+- title: The Young Man
+  author: Annie Ernaux
+  url: https://app.thestorygraph.com/books/4c125e34-91bd-4825-b426-76a3a468a243
+  image: https://cdn.thestorygraph.com/daz760wfqpflqt2ipgyt0je6650r
+- title: She Who Remains
+  author: Rene Karabash
+  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
+  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
+recently_read:
 - title: 'Fun Home: A Family Tragicomic'
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/276a1580-85b1-4b7c-be22-3daa2b719e49
@@ -9,7 +18,6 @@ currently_reading:
   author: Christina Thompson
   url: https://app.thestorygraph.com/books/d311b134-475a-4cdf-be26-36986a1bcac6
   image: https://cdn.thestorygraph.com/41b130ng62hk464ry7jwnbymixn9
-recently_read:
 - title: My Son's Story
   author: Nadine Gordimer
   url: https://app.thestorygraph.com/books/ab30bccd-e259-4f20-9d04-6e89b364f754
@@ -22,32 +30,24 @@ recently_read:
   author: Martin Goodman
   url: https://app.thestorygraph.com/books/5916f7eb-7989-44a9-a293-ea8fcf08cee9
   image: https://cdn.thestorygraph.com/flhih1nkg2y8ndqd9gguvm4313nh
-- title: A Family Matter
-  author: Claire Lynch
-  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
-  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
-- title: Not Russian
-  author: Mikhail Shevelev
-  url: https://app.thestorygraph.com/books/fe6bbcfe-82c1-473b-87b1-57583a6e4a26
-  image: https://cdn.thestorygraph.com/oq5t6h1od2lsa3mn536wkp4dk71k
 recent_five_star:
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: 'Boyhood: Scenes from Provincial Life'
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
-  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
-- title: 'Indignity: A Life Reimagined'
-  author: Lea Ypi
-  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+- title: Et la joie de vivre
+  author: Gisèle Pelicot
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+- title: The Buried Giant
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
+  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
+- title: The Boy, the Mole, the Fox and the Horse
+  author: Charlie Mackesy
+  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
