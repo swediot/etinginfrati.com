@@ -1,15 +1,15 @@
-year_count: '79'
+year_count: '80'
 to_read_count: '1383'
 currently_reading:
-- title: The Young Man
-  author: Annie Ernaux
-  url: https://app.thestorygraph.com/books/4c125e34-91bd-4825-b426-76a3a468a243
-  image: https://cdn.thestorygraph.com/daz760wfqpflqt2ipgyt0je6650r
 - title: She Who Remains
   author: Rene Karabash
   url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
   image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
 recently_read:
+- title: The Young Man
+  author: Annie Ernaux
+  url: https://app.thestorygraph.com/books/4c125e34-91bd-4825-b426-76a3a468a243
+  image: https://cdn.thestorygraph.com/daz760wfqpflqt2ipgyt0je6650r
 - title: 'Fun Home: A Family Tragicomic'
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/276a1580-85b1-4b7c-be22-3daa2b719e49
@@ -26,28 +26,24 @@ recently_read:
   author: Edmund de Waal
   url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
   image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: Lessons from Cruising
-  author: Martin Goodman
-  url: https://app.thestorygraph.com/books/5916f7eb-7989-44a9-a293-ea8fcf08cee9
-  image: https://cdn.thestorygraph.com/flhih1nkg2y8ndqd9gguvm4313nh
 recent_five_star:
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: The Buried Giant
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
-  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
-- title: The Boy, the Mole, the Fox and the Horse
-  author: Charlie Mackesy
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
-  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: Transcendent Kingdom
+  author: Yaa Gyasi
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
+- title: Sky Daddy
+  author: Kate Folk
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
