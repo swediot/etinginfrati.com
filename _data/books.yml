@@ -1,6 +1,10 @@
 year_count: '81'
-to_read_count: '1382'
+to_read_count: '1381'
 currently_reading:
+- title: On Earth as It Is Beneath
+  author: Ana Paula Maia
+  url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
+  image: https://cdn.thestorygraph.com/rrp6v1j0s5of5c5g3baazxpn6pr3
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
@@ -32,24 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/ab30bccd-e259-4f20-9d04-6e89b364f754
   image: https://cdn.thestorygraph.com/kj1r9wz5nme3yms66mtuk8porc3h
 recent_five_star:
-- title: Will You Care If I Die?
-  author: Nicolas Lunabba
-  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
-  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
-- title: Another Day of Life
-  author: Ryszard Kapuściński
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-- title: The Buried Giant
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
-  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
-    an Empire with a Knife and Fork'
-  author: Witold Szabłowski
-  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
-  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
+- title: After the Quake
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
+  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
+- title: Normal People
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
+  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
+- title: Et la joie de vivre
+  author: Gisèle Pelicot
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+- title: Eastbound
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
