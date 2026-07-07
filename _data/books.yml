@@ -1,10 +1,6 @@
-year_count: '81'
-to_read_count: '1381'
+year_count: '82'
+to_read_count: '1383'
 currently_reading:
-- title: On Earth as It Is Beneath
-  author: Ana Paula Maia
-  url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
-  image: https://cdn.thestorygraph.com/rrp6v1j0s5of5c5g3baazxpn6pr3
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
@@ -15,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
   image: https://cdn.thestorygraph.com/tdo60w5k758ggp5qcieqm1yoc0w5
 recently_read:
+- title: On Earth as It Is Beneath
+  author: Ana Paula Maia
+  url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
+  image: https://cdn.thestorygraph.com/rrp6v1j0s5of5c5g3baazxpn6pr3
 - title: She Who Remains
   author: Rene Karabash
   url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
@@ -31,28 +31,25 @@ recently_read:
   author: Christina Thompson
   url: https://app.thestorygraph.com/books/d311b134-475a-4cdf-be26-36986a1bcac6
   image: https://cdn.thestorygraph.com/41b130ng62hk464ry7jwnbymixn9
-- title: My Son's Story
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/ab30bccd-e259-4f20-9d04-6e89b364f754
-  image: https://cdn.thestorygraph.com/kj1r9wz5nme3yms66mtuk8porc3h
 recent_five_star:
-- title: After the Quake
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
-  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
-- title: Burnt Sugar
-  author: Avni Doshi
-  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
-  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
-- title: Normal People
-  author: Sally Rooney
-  url: https://app.thestorygraph.com/books/4854845b-bc82-4f66-b05d-6c0c5c57708c
-  image: https://cdn.thestorygraph.com/i4dac2bp9fhyl6omz30ma16ixsxr
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: Eastbound
-  author: Maylis de Kerangal
-  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
-  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+- title: The Boy, the Mole, the Fox and the Horse
+  author: Charlie Mackesy
+  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
+- title: House of Day, House of Night
+  author: Olga Tokarczuk
+  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
+  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
