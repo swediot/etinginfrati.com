@@ -1,16 +1,28 @@
-year_count: '82'
-to_read_count: '1383'
+year_count: '84'
+to_read_count: '1379'
 currently_reading:
+- title: The Weeping Time
+  author: Anne C. Bailey
+  url: https://app.thestorygraph.com/books/4ecabc4f-510e-49df-b21d-de6fa79c9aee
+  image: https://cdn.thestorygraph.com/7bqwgp483w2ze3xbemw0s0j6oed4
+- title: Wind/Pinball
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
+  image: https://cdn.thestorygraph.com/go4ekvgmoafxjh8ytesma6lcxa2n
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
+recently_read:
 - title: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
   image: https://cdn.thestorygraph.com/tdo60w5k758ggp5qcieqm1yoc0w5
-recently_read:
+- title: Hollow Inside
+  author: Asako Otani
+  url: https://app.thestorygraph.com/books/35d4830b-2c93-4ade-83fa-55be23f5902b
+  image: https://cdn.thestorygraph.com/qrf7caz11wqmd7n0obkwewakjr5w
 - title: On Earth as It Is Beneath
   author: Ana Paula Maia
   url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
@@ -23,33 +35,24 @@ recently_read:
   author: Annie Ernaux
   url: https://app.thestorygraph.com/books/4c125e34-91bd-4825-b426-76a3a468a243
   image: https://cdn.thestorygraph.com/daz760wfqpflqt2ipgyt0je6650r
-- title: 'Fun Home: A Family Tragicomic'
-  author: Alison Bechdel
-  url: https://app.thestorygraph.com/books/276a1580-85b1-4b7c-be22-3daa2b719e49
-  image: https://cdn.thestorygraph.com/xug4nuambfq94ebru9l0z92c07ow
-- title: 'Sea People: The Puzzle of Polynesia'
-  author: Christina Thompson
-  url: https://app.thestorygraph.com/books/d311b134-475a-4cdf-be26-36986a1bcac6
-  image: https://cdn.thestorygraph.com/41b130ng62hk464ry7jwnbymixn9
 recent_five_star:
-- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
-- title: The Book of Chameleons
-  author: José Eduardo Agualusa
-  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
-  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
-- title: Julia
-  author: Sandra Newman
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-- title: Trilogy
-  author: May-Brit Akerholt, Jon Fosse
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: 'Indignity: A Life Reimagined'
+  author: Lea Ypi
+  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
+  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
+- title: Et la joie de vivre
+  author: Gisèle Pelicot
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
+- title: The Last White Man
+  author: Mohsin Hamid
+  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: Anish & Antony Take Afghanistan
+  author: Scott King
+  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
+  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
