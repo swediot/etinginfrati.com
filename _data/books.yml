@@ -1,10 +1,6 @@
-year_count: '84'
+year_count: '85'
 to_read_count: '1379'
 currently_reading:
-- title: The Weeping Time
-  author: Anne C. Bailey
-  url: https://app.thestorygraph.com/books/4ecabc4f-510e-49df-b21d-de6fa79c9aee
-  image: https://cdn.thestorygraph.com/7bqwgp483w2ze3xbemw0s0j6oed4
 - title: Wind/Pinball
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
@@ -15,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: The Weeping Time
+  author: Anne C. Bailey
+  url: https://app.thestorygraph.com/books/4ecabc4f-510e-49df-b21d-de6fa79c9aee
+  image: https://cdn.thestorygraph.com/7bqwgp483w2ze3xbemw0s0j6oed4
 - title: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
@@ -31,28 +31,24 @@ recently_read:
   author: Rene Karabash
   url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
   image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
-- title: The Young Man
-  author: Annie Ernaux
-  url: https://app.thestorygraph.com/books/4c125e34-91bd-4825-b426-76a3a468a243
-  image: https://cdn.thestorygraph.com/daz760wfqpflqt2ipgyt0je6650r
 recent_five_star:
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-- title: Anish & Antony Take Afghanistan
-  author: Scott King
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-- title: I Deliver Parcels in Beijing
-  author: Hu Anyan
-  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
-  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
-- title: The Pearl
-  author: John Steinbeck
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: 'Boyhood: Scenes from Provincial Life'
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+- title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: My Documents
+  author: Alejandro Zambra
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
