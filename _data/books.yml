@@ -1,16 +1,24 @@
-year_count: '85'
-to_read_count: '1379'
+year_count: '86'
+to_read_count: '1378'
 currently_reading:
-- title: Wind/Pinball
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
-  image: https://cdn.thestorygraph.com/go4ekvgmoafxjh8ytesma6lcxa2n
+- title: A Curious History of Sex
+  author: Kate Lister
+  url: https://app.thestorygraph.com/books/9fdb1b7f-64ed-4a42-ac48-93e749bef02f
+  image: https://cdn.thestorygraph.com/pkxjwjyepyh01kwwtjb8u11r8m46
+- title: Taiwan Travelogue
+  author: Yáng Shuāng-zǐ, 楊双子
+  url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
+  image: https://cdn.thestorygraph.com/bggd6qhwwyyry3u61a7vs4c11bp1
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: Wind/Pinball
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
+  image: https://cdn.thestorygraph.com/go4ekvgmoafxjh8ytesma6lcxa2n
 - title: The Weeping Time
   author: Anne C. Bailey
   url: https://app.thestorygraph.com/books/4ecabc4f-510e-49df-b21d-de6fa79c9aee
@@ -27,28 +35,24 @@ recently_read:
   author: Ana Paula Maia
   url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
   image: https://cdn.thestorygraph.com/rrp6v1j0s5of5c5g3baazxpn6pr3
-- title: She Who Remains
-  author: Rene Karabash
-  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
-  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
 recent_five_star:
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-- title: 'Boyhood: Scenes from Provincial Life'
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
-  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: Hunchback
+  author: Saou Ichikawa
+  url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
+  image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: Eastbound
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+- title: The Wren, The Wren
+  author: Anne Enright
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
