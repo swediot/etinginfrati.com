@@ -1,10 +1,6 @@
-year_count: '86'
+year_count: '87'
 to_read_count: '1378'
 currently_reading:
-- title: A Curious History of Sex
-  author: Kate Lister
-  url: https://app.thestorygraph.com/books/9fdb1b7f-64ed-4a42-ac48-93e749bef02f
-  image: https://cdn.thestorygraph.com/pkxjwjyepyh01kwwtjb8u11r8m46
 - title: Taiwan Travelogue
   author: Yáng Shuāng-zǐ, 楊双子
   url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
@@ -15,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: A Curious History of Sex
+  author: Kate Lister
+  url: https://app.thestorygraph.com/books/9fdb1b7f-64ed-4a42-ac48-93e749bef02f
+  image: https://cdn.thestorygraph.com/pkxjwjyepyh01kwwtjb8u11r8m46
 - title: Wind/Pinball
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
@@ -31,28 +31,24 @@ recently_read:
   author: Asako Otani
   url: https://app.thestorygraph.com/books/35d4830b-2c93-4ade-83fa-55be23f5902b
   image: https://cdn.thestorygraph.com/qrf7caz11wqmd7n0obkwewakjr5w
-- title: On Earth as It Is Beneath
-  author: Ana Paula Maia
-  url: https://app.thestorygraph.com/books/de2bfebe-414f-4042-a7d6-913cfabba96d
-  image: https://cdn.thestorygraph.com/rrp6v1j0s5of5c5g3baazxpn6pr3
 recent_five_star:
+- title: Anish & Antony Take Afghanistan
+  author: Scott King
+  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
+  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
 - title: Elsewhere
   author: Alexis Schaitkin
   url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
   image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: So Late in the Day
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
 - title: Bolla
   author: Pajtim Statovci
   url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
   image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-- title: Intermezzo
-  author: Sally Rooney
-  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
-  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
-- title: Live Fast
-  author: Brigitte Giraud
-  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
-  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: 'Nocturnes: Five Stories of Music and Nightfall'
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
