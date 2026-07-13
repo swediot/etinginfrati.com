@@ -1,5 +1,5 @@
-year_count: '87'
-to_read_count: '1378'
+year_count: '88'
+to_read_count: '1379'
 currently_reading:
 - title: Taiwan Travelogue
   author: Yáng Shuāng-zǐ, 楊双子
@@ -11,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
+  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
 - title: A Curious History of Sex
   author: Kate Lister
   url: https://app.thestorygraph.com/books/9fdb1b7f-64ed-4a42-ac48-93e749bef02f
@@ -27,28 +31,24 @@ recently_read:
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
   image: https://cdn.thestorygraph.com/tdo60w5k758ggp5qcieqm1yoc0w5
-- title: Hollow Inside
-  author: Asako Otani
-  url: https://app.thestorygraph.com/books/35d4830b-2c93-4ade-83fa-55be23f5902b
-  image: https://cdn.thestorygraph.com/qrf7caz11wqmd7n0obkwewakjr5w
 recent_five_star:
+- title: So Late in the Day
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
+  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+- title: The Pisces
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
+  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
 - title: Anish & Antony Take Afghanistan
   author: Scott King
   url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
   image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: Bolla
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: Autumn
+  author: Ali Smith
+  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
+  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
