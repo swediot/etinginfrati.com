@@ -1,6 +1,10 @@
 year_count: '88'
-to_read_count: '1380'
+to_read_count: '1379'
 currently_reading:
+- title: 'Empireworld: How British Imperialism Has Shaped the Globe'
+  author: Sathnam Sanghera
+  url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
+  image: https://cdn.thestorygraph.com/dyb4cnd6w291yds3vu6bt2z6md96
 - title: Taiwan Travelogue
   author: Yáng Shuāng-zǐ, 楊双子
   url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
   image: https://cdn.thestorygraph.com/tdo60w5k758ggp5qcieqm1yoc0w5
 recent_five_star:
-- title: 'Indignity: A Life Reimagined'
-  author: Lea Ypi
-  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
-  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: Homesick for Another World
+  author: Ottessa Moshfegh
+  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
+  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
+- title: Sky Daddy
+  author: Kate Folk
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+- title: 'Boyhood: Scenes from Provincial Life'
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+- title: Another Day of Life
+  author: Ryszard Kapuściński
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
