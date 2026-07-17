@@ -1,58 +1,59 @@
-year_count: '88'
-to_read_count: '1379'
+year_count: '92'
+to_read_count: '1378'
 currently_reading:
-- title: 'Empireworld: How British Imperialism Has Shaped the Globe'
-  author: Sathnam Sanghera
-  url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
-  image: https://cdn.thestorygraph.com/dyb4cnd6w291yds3vu6bt2z6md96
-- title: Taiwan Travelogue
-  author: Yáng Shuāng-zǐ, 楊双子
-  url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
-  image: https://cdn.thestorygraph.com/bggd6qhwwyyry3u61a7vs4c11bp1
+- title: Walk the Blue Fields
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
+  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
+- title: A Psalm for the Wild-Built
+  author: Becky Chambers
+  url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
+  image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: 'Empireworld: How British Imperialism Has Shaped the Globe'
+  author: Sathnam Sanghera
+  url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
+  image: https://cdn.thestorygraph.com/dyb4cnd6w291yds3vu6bt2z6md96
+- title: Offenses
+  author: Constance Debré
+  url: https://app.thestorygraph.com/books/3972f14d-51c4-4d14-8ea4-7801d307277a
+  image: https://cdn.thestorygraph.com/r7j41i7wzdbwzb552t1zookph9y7
+- title: Strange Houses
+  author: Uketsu
+  url: https://app.thestorygraph.com/books/b1de5613-9cf8-4e3f-b8e2-11fdab84a914
+  image: https://cdn.thestorygraph.com/var9qe9d2gfsdyqiguhugtqu3ypi
+- title: Taiwan Travelogue
+  author: Yáng Shuāng-zǐ, 楊双子
+  url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
+  image: https://cdn.thestorygraph.com/bggd6qhwwyyry3u61a7vs4c11bp1
 - title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
   author: Robin Wall Kimmerer
   url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
   image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
-- title: A Curious History of Sex
-  author: Kate Lister
-  url: https://app.thestorygraph.com/books/9fdb1b7f-64ed-4a42-ac48-93e749bef02f
-  image: https://cdn.thestorygraph.com/pkxjwjyepyh01kwwtjb8u11r8m46
-- title: Wind/Pinball
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/876c6f82-3338-4e79-a070-f81a517cffa0
-  image: https://cdn.thestorygraph.com/go4ekvgmoafxjh8ytesma6lcxa2n
-- title: The Weeping Time
-  author: Anne C. Bailey
-  url: https://app.thestorygraph.com/books/4ecabc4f-510e-49df-b21d-de6fa79c9aee
-  image: https://cdn.thestorygraph.com/7bqwgp483w2ze3xbemw0s0j6oed4
-- title: 'Underground: The Tokyo Gas Attack and the Japanese Psyche'
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/9f734723-5e9d-49eb-9def-e506a5aaf8a8
-  image: https://cdn.thestorygraph.com/tdo60w5k758ggp5qcieqm1yoc0w5
 recent_five_star:
-- title: Hotel Iris
-  author: Yōko Ogawa
-  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
-  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-- title: Five Little Indians
-  author: Michelle Good
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-- title: How to Get Filthy Rich in Rising Asia
+- title: James
+  author: Percival Everett
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+- title: Trilogy
+  author: May-Brit Akerholt, Jon Fosse
+  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
+  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+- title: The Last White Man
   author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: Clear
-  author: Carys Davies
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+- title: Sky Daddy
+  author: Kate Folk
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
+    an Empire with a Knife and Fork'
+  author: Witold Szabłowski
+  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
+  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
