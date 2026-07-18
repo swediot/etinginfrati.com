@@ -1,20 +1,20 @@
-year_count: '92'
-to_read_count: '1378'
+year_count: '93'
+to_read_count: '1379'
 currently_reading:
 - title: Walk the Blue Fields
   author: Claire Keegan
   url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
   image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
-- title: A Psalm for the Wild-Built
-  author: Becky Chambers
-  url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
-  image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: A Psalm for the Wild-Built
+  author: Becky Chambers
+  url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
+  image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
 - title: 'Empireworld: How British Imperialism Has Shaped the Globe'
   author: Sathnam Sanghera
   url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
@@ -31,29 +31,24 @@ recently_read:
   author: Yáng Shuāng-zǐ, 楊双子
   url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
   image: https://cdn.thestorygraph.com/bggd6qhwwyyry3u61a7vs4c11bp1
-- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
-  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
 recent_five_star:
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-- title: Trilogy
-  author: May-Brit Akerholt, Jon Fosse
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-- title: The Last White Man
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
-- title: Sky Daddy
-  author: Kate Folk
-  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
-  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
-- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
-    an Empire with a Knife and Fork'
-  author: Witold Szabłowski
-  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
-  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
+- title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: Another Day of Life
+  author: Ryszard Kapuściński
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+- title: The Boy, the Mole, the Fox and the Horse
+  author: Charlie Mackesy
+  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
+  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
+- title: After the Quake
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
+  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
+- title: The English Understand Wool
+  author: Helen DeWitt
+  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
+  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
