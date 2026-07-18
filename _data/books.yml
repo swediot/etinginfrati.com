@@ -1,16 +1,20 @@
-year_count: '93'
-to_read_count: '1379'
+year_count: '94'
+to_read_count: '1378'
 currently_reading:
-- title: Walk the Blue Fields
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
-  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
+- title: A Wild Sheep Chase
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
+  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: Walk the Blue Fields
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
+  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
 - title: A Psalm for the Wild-Built
   author: Becky Chambers
   url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
@@ -27,28 +31,24 @@ recently_read:
   author: Uketsu
   url: https://app.thestorygraph.com/books/b1de5613-9cf8-4e3f-b8e2-11fdab84a914
   image: https://cdn.thestorygraph.com/var9qe9d2gfsdyqiguhugtqu3ypi
-- title: Taiwan Travelogue
-  author: Yáng Shuāng-zǐ, 楊双子
-  url: https://app.thestorygraph.com/books/c77f6a94-1663-4688-8871-44e1031b3d44
-  image: https://cdn.thestorygraph.com/bggd6qhwwyyry3u61a7vs4c11bp1
 recent_five_star:
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-- title: Another Day of Life
-  author: Ryszard Kapuściński
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-- title: The Boy, the Mole, the Fox and the Horse
-  author: Charlie Mackesy
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
-  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
-- title: After the Quake
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
-  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
+- title: Five Little Indians
+  author: Michelle Good
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+- title: I Deliver Parcels in Beijing
+  author: Hu Anyan
+  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
+  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
+- title: Julia
+  author: Sandra Newman
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+- title: She Who Remains
+  author: Rene Karabash
+  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
+  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
