@@ -32,22 +32,22 @@ recently_read:
   url: https://app.thestorygraph.com/books/b1de5613-9cf8-4e3f-b8e2-11fdab84a914
   image: https://cdn.thestorygraph.com/var9qe9d2gfsdyqiguhugtqu3ypi
 recent_five_star:
-- title: Five Little Indians
-  author: Michelle Good
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
-- title: A Family Matter
-  author: Claire Lynch
-  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
-  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
-- title: I Deliver Parcels in Beijing
-  author: Hu Anyan
-  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
-  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
-- title: Julia
-  author: Sandra Newman
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: Bolla
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
+- title: 'Blitzed: Drugs in Nazi Germany'
+  author: Norman Ohler
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
 - title: She Who Remains
   author: Rene Karabash
   url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
