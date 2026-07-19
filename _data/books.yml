@@ -1,16 +1,24 @@
-year_count: '94'
+year_count: '95'
 to_read_count: '1378'
 currently_reading:
-- title: A Wild Sheep Chase
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
-  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
+- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
+  author: Lyse Doucet
+  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
+  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
+- title: Katabasis
+  author: R.F. Kuang
+  url: https://app.thestorygraph.com/books/f6d86997-4009-47ac-a1f4-99e6890541e8
+  image: https://cdn.thestorygraph.com/dwxmnckqdr51u4uk3dpth3wb9fdh
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: A Wild Sheep Chase
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
+  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
 - title: Walk the Blue Fields
   author: Claire Keegan
   url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
@@ -27,28 +35,24 @@ recently_read:
   author: Constance Debré
   url: https://app.thestorygraph.com/books/3972f14d-51c4-4d14-8ea4-7801d307277a
   image: https://cdn.thestorygraph.com/r7j41i7wzdbwzb552t1zookph9y7
-- title: Strange Houses
-  author: Uketsu
-  url: https://app.thestorygraph.com/books/b1de5613-9cf8-4e3f-b8e2-11fdab84a914
-  image: https://cdn.thestorygraph.com/var9qe9d2gfsdyqiguhugtqu3ypi
 recent_five_star:
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-- title: Bolla
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-- title: 'Blitzed: Drugs in Nazi Germany'
-  author: Norman Ohler
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-- title: Burnt Sugar
-  author: Avni Doshi
-  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
-  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
-- title: She Who Remains
-  author: Rene Karabash
-  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
-  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: 'Nocturnes: Five Stories of Music and Nightfall'
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: 'Boyhood: Scenes from Provincial Life'
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
