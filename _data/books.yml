@@ -1,14 +1,10 @@
 year_count: '95'
-to_read_count: '1380'
+to_read_count: '1384'
 currently_reading:
 - title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
   author: Lyse Doucet
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
-- title: Katabasis
-  author: R.F. Kuang
-  url: https://app.thestorygraph.com/books/f6d86997-4009-47ac-a1f4-99e6890541e8
-  image: https://cdn.thestorygraph.com/dwxmnckqdr51u4uk3dpth3wb9fdh
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
@@ -36,23 +32,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/3972f14d-51c4-4d14-8ea4-7801d307277a
   image: https://cdn.thestorygraph.com/r7j41i7wzdbwzb552t1zookph9y7
 recent_five_star:
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
-- title: How to Get Filthy Rich in Rising Asia
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
-  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
+- title: The Book of Chameleons
+  author: José Eduardo Agualusa
+  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
+  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
 - title: Live Fast
   author: Brigitte Giraud
   url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
   image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
-- title: Clear
-  author: Carys Davies
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: The Wren, The Wren
+  author: Anne Enright
+  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
+  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
