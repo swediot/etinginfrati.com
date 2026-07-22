@@ -1,6 +1,10 @@
 year_count: '95'
-to_read_count: '1384'
+to_read_count: '1391'
 currently_reading:
+- title: The Queen of Dirt Island
+  author: Donal Ryan
+  url: https://app.thestorygraph.com/books/8ba47439-7b0e-434b-bd57-c66d9b98a5ee
+  image: https://cdn.thestorygraph.com/40oy0bly15poe7k5fg5dtavodyil
 - title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
   author: Lyse Doucet
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/3972f14d-51c4-4d14-8ea4-7801d307277a
   image: https://cdn.thestorygraph.com/r7j41i7wzdbwzb552t1zookph9y7
 recent_five_star:
-- title: The Book of Chameleons
-  author: José Eduardo Agualusa
-  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
-  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
-- title: Live Fast
-  author: Brigitte Giraud
-  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
-  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
-- title: 'Evicted: Poverty and Profit in the American City'
-  author: Matthew Desmond
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: The Wren, The Wren
-  author: Anne Enright
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: Anish & Antony Take Afghanistan
+  author: Scott King
+  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
+  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
+- title: Eastbound
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
+- title: Long Distance
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
