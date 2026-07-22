@@ -1,20 +1,20 @@
-year_count: '95'
-to_read_count: '1391'
+year_count: '96'
+to_read_count: '1393'
 currently_reading:
 - title: The Queen of Dirt Island
   author: Donal Ryan
   url: https://app.thestorygraph.com/books/8ba47439-7b0e-434b-bd57-c66d9b98a5ee
   image: https://cdn.thestorygraph.com/40oy0bly15poe7k5fg5dtavodyil
-- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
-  author: Lyse Doucet
-  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
-  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
+  author: Lyse Doucet
+  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
+  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 - title: A Wild Sheep Chase
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
@@ -31,28 +31,24 @@ recently_read:
   author: Sathnam Sanghera
   url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
   image: https://cdn.thestorygraph.com/dyb4cnd6w291yds3vu6bt2z6md96
-- title: Offenses
-  author: Constance Debré
-  url: https://app.thestorygraph.com/books/3972f14d-51c4-4d14-8ea4-7801d307277a
-  image: https://cdn.thestorygraph.com/r7j41i7wzdbwzb552t1zookph9y7
 recent_five_star:
-- title: Six Feet of the Country
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-- title: Anish & Antony Take Afghanistan
-  author: Scott King
-  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
-  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
-- title: Eastbound
-  author: Maylis de Kerangal
-  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
-  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
-- title: Long Distance
-  author: Ayşegül Savaş
-  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
-  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
+- title: 'Boyhood: Scenes from Provincial Life'
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+- title: She Who Remains
+  author: Rene Karabash
+  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
+  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
+- title: Fathers and Sons
+  author: Ivan Turgenev
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+- title: The Pisces
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
+  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
+- title: Death Valley
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
+  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
