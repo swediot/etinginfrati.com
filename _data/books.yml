@@ -1,6 +1,10 @@
 year_count: '97'
-to_read_count: '1393'
+to_read_count: '1392'
 currently_reading:
+- title: The Summer My Mother Had Green Eyes
+  author: Tatiana Țîbuleac
+  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
+  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
 - title: The Queen of Dirt Island
   author: Donal Ryan
   url: https://app.thestorygraph.com/books/8ba47439-7b0e-434b-bd57-c66d9b98a5ee
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
   image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
 recent_five_star:
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-- title: 'The Trouble with Happiness: and Other Stories'
-  author: Tove Ditlevsen
-  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
-  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+- title: China Room
+  author: Sunjeev Sahota
+  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
+  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
 - title: Elsewhere
   author: Alexis Schaitkin
   url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
   image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: Old God's Time
-  author: Sebastian Barry
-  url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
-  image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
-- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
-  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
+- title: Tomorrow, and Tomorrow, and Tomorrow
+  author: Gabrielle Zevin
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+- title: 'Boyhood: Scenes from Provincial Life'
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
+  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
