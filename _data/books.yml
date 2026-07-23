@@ -1,4 +1,4 @@
-year_count: '96'
+year_count: '97'
 to_read_count: '1393'
 currently_reading:
 - title: The Queen of Dirt Island
@@ -11,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: Letters to a Young Poet
+  author: Rainer Maria Rilke
+  url: https://app.thestorygraph.com/books/3917dc8c-06e8-4f21-9f3e-7ce3c257c25d
+  image: https://cdn.thestorygraph.com/4picy6kkwznvf3uxrqwuve5cwy8a
 - title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
   author: Lyse Doucet
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
@@ -27,28 +31,24 @@ recently_read:
   author: Becky Chambers
   url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
   image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
-- title: 'Empireworld: How British Imperialism Has Shaped the Globe'
-  author: Sathnam Sanghera
-  url: https://app.thestorygraph.com/books/1446814d-493e-48d2-9f5a-75500b69c245
-  image: https://cdn.thestorygraph.com/dyb4cnd6w291yds3vu6bt2z6md96
 recent_five_star:
-- title: 'Boyhood: Scenes from Provincial Life'
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
-  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
-- title: She Who Remains
-  author: Rene Karabash
-  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
-  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-- title: The Pisces
-  author: Melissa Broder
-  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
-  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
-- title: Death Valley
-  author: Melissa Broder
-  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
-  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
+- title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: 'The Trouble with Happiness: and Other Stories'
+  author: Tove Ditlevsen
+  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
+  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: Old God's Time
+  author: Sebastian Barry
+  url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
+  image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
+- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
+  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
