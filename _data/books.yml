@@ -1,20 +1,24 @@
-year_count: '97'
-to_read_count: '1392'
+year_count: '98'
+to_read_count: '1391'
 currently_reading:
+- title: The Reluctant Fundamentalist
+  author: Mohsin Hamid
+  url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
+  image: https://cdn.thestorygraph.com/n08pxi7jrlgs2ij8kbmmedh5gzfh
 - title: The Summer My Mother Had Green Eyes
   author: Tatiana Țîbuleac
   url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
   image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
-- title: The Queen of Dirt Island
-  author: Donal Ryan
-  url: https://app.thestorygraph.com/books/8ba47439-7b0e-434b-bd57-c66d9b98a5ee
-  image: https://cdn.thestorygraph.com/40oy0bly15poe7k5fg5dtavodyil
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: The Queen of Dirt Island
+  author: Donal Ryan
+  url: https://app.thestorygraph.com/books/8ba47439-7b0e-434b-bd57-c66d9b98a5ee
+  image: https://cdn.thestorygraph.com/40oy0bly15poe7k5fg5dtavodyil
 - title: Letters to a Young Poet
   author: Rainer Maria Rilke
   url: https://app.thestorygraph.com/books/3917dc8c-06e8-4f21-9f3e-7ce3c257c25d
@@ -31,28 +35,24 @@ recently_read:
   author: Claire Keegan
   url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
   image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
-- title: A Psalm for the Wild-Built
-  author: Becky Chambers
-  url: https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254
-  image: https://cdn.thestorygraph.com/crkyy7hkoah01xz5kyghu36eo8wf
 recent_five_star:
-- title: Saint X
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
-  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
-- title: China Room
-  author: Sunjeev Sahota
-  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
-  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
 - title: Elsewhere
   author: Alexis Schaitkin
   url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
   image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: 'Boyhood: Scenes from Provincial Life'
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/f78afe83-6b37-4127-96d8-eec2aa8fbf1d
-  image: https://cdn.thestorygraph.com/hlpfhyggh5x298ywof5epzcyrptn
+- title: Julia
+  author: Sandra Newman
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+- title: The Strange Library
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+- title: After the Quake
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/3fcb8935-b568-4805-89ef-57153797a336
+  image: https://cdn.thestorygraph.com/imfi4mcfxftypfljxsgsua3smpxq
