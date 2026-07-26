@@ -32,23 +32,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 recent_five_star:
-- title: 'Evicted: Poverty and Profit in the American City'
-  author: Matthew Desmond
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: China Room
-  author: Sunjeev Sahota
-  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
-  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
 - title: A Family Matter
   author: Claire Lynch
   url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
   image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
-- title: Homesick for Another World
-  author: Ottessa Moshfegh
-  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
-  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
+- title: 'Blitzed: Drugs in Nazi Germany'
+  author: Norman Ohler
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+- title: Clear
+  author: Carys Davies
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: James
+  author: Percival Everett
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
