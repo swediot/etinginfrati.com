@@ -1,10 +1,6 @@
-year_count: '99'
-to_read_count: '1393'
+year_count: '100'
+to_read_count: '1394'
 currently_reading:
-- title: Pick a Colour
-  author: Souvankham Thammavongsa
-  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
-  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
 - title: The Reluctant Fundamentalist
   author: Mohsin Hamid
   url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
@@ -15,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: Pick a Colour
+  author: Souvankham Thammavongsa
+  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
+  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
 - title: The Summer My Mother Had Green Eyes
   author: Tatiana Țîbuleac
   url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
@@ -31,28 +31,24 @@ recently_read:
   author: Lyse Doucet
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
-- title: A Wild Sheep Chase
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
-  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
 recent_five_star:
-- title: How to Get Filthy Rich in Rising Asia
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-- title: Six Feet of the Country
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
-- title: The Song of Achilles
-  author: Madeline Miller
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: China Room
+  author: Sunjeev Sahota
+  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
+  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: A Family Matter
+  author: Claire Lynch
+  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
+  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
+- title: Homesick for Another World
+  author: Ottessa Moshfegh
+  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
+  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
