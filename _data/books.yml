@@ -1,6 +1,10 @@
 year_count: '100'
 to_read_count: '1394'
 currently_reading:
+- title: 'Gathering Moss: A Natural and Cultural History of Mosses'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/ae8aa7d8-777d-42b4-bf3a-b3d67c676982
+  image: https://cdn.thestorygraph.com/vxitfogfet5xhfawxuj6gjakjk11
 - title: The Reluctant Fundamentalist
   author: Mohsin Hamid
   url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 recent_five_star:
-- title: A Family Matter
-  author: Claire Lynch
-  url: https://app.thestorygraph.com/books/841279e8-3b9c-4c93-baa0-18e4b0fece5f
-  image: https://cdn.thestorygraph.com/e46cbs9paljgd5kz0mgqnkn3mnp8
-- title: 'Blitzed: Drugs in Nazi Germany'
-  author: Norman Ohler
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-- title: Clear
-  author: Carys Davies
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-- title: Six Feet of the Country
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
+  author: Lyse Doucet
+  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
+  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
+- title: She Who Remains
+  author: Rene Karabash
+  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
+  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
+- title: Intermezzo
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
+- title: The Summer My Mother Had Green Eyes
+  author: Tatiana Țîbuleac
+  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
+  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
+- title: Eastbound
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/ff91d8df-0eeb-49c1-b408-d3942bbcb3cc
+  image: https://cdn.thestorygraph.com/oq7d2t8dl6zirskc7ut6u8yjeaqp
