@@ -1,5 +1,5 @@
 year_count: '100'
-to_read_count: '1397'
+to_read_count: '1398'
 currently_reading:
 - title: 'Gathering Moss: A Natural and Cultural History of Mosses'
   author: Robin Wall Kimmerer
@@ -36,23 +36,24 @@ recently_read:
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 recent_five_star:
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: So Late in the Day
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-- title: Everything is Tuberculosis
-  author: John Green
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
+    an Empire with a Knife and Fork'
+  author: Witold Szabłowski
+  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
+  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: The Strange Library
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+- title: James
+  author: Percival Everett
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
