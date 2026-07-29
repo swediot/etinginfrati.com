@@ -1,20 +1,24 @@
-year_count: '100'
+year_count: '101'
 to_read_count: '1398'
 currently_reading:
+- title: Troubling Love
+  author: Elena Ferrante
+  url: https://app.thestorygraph.com/books/15af6ae3-1230-4948-9948-775b74e79ba8
+  image: https://cdn.thestorygraph.com/t5p3mqekwtiici3m24u91lyopy61
 - title: 'Gathering Moss: A Natural and Cultural History of Mosses'
   author: Robin Wall Kimmerer
   url: https://app.thestorygraph.com/books/ae8aa7d8-777d-42b4-bf3a-b3d67c676982
   image: https://cdn.thestorygraph.com/vxitfogfet5xhfawxuj6gjakjk11
-- title: The Reluctant Fundamentalist
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
-  image: https://cdn.thestorygraph.com/n08pxi7jrlgs2ij8kbmmedh5gzfh
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: The Reluctant Fundamentalist
+  author: Mohsin Hamid
+  url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
+  image: https://cdn.thestorygraph.com/n08pxi7jrlgs2ij8kbmmedh5gzfh
 - title: Pick a Colour
   author: Souvankham Thammavongsa
   url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
@@ -31,29 +35,24 @@ recently_read:
   author: Rainer Maria Rilke
   url: https://app.thestorygraph.com/books/3917dc8c-06e8-4f21-9f3e-7ce3c257c25d
   image: https://cdn.thestorygraph.com/4picy6kkwznvf3uxrqwuve5cwy8a
-- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
-  author: Lyse Doucet
-  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
-  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 recent_five_star:
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: 'What''s Cooking in the Kremlin: From Rasputin to Putin, How Russia Built
-    an Empire with a Knife and Fork'
-  author: Witold Szabłowski
-  url: https://app.thestorygraph.com/books/274e95e4-8516-4fbc-818c-5e87da3335b5
-  image: https://cdn.thestorygraph.com/moddnb8xda87ornbpux604c0hl5q
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-- title: The Strange Library
+- title: Death Valley
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
+  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
+- title: The Wind-Up Bird Chronicle
   author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
-  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
+  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
+- title: The Song of Achilles
+  author: Madeline Miller
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: Pick a Colour
+  author: Souvankham Thammavongsa
+  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
+  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
