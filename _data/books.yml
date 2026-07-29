@@ -1,5 +1,5 @@
 year_count: '101'
-to_read_count: '1398'
+to_read_count: '1399'
 currently_reading:
 - title: Troubling Love
   author: Elena Ferrante
@@ -36,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/3917dc8c-06e8-4f21-9f3e-7ce3c257c25d
   image: https://cdn.thestorygraph.com/4picy6kkwznvf3uxrqwuve5cwy8a
 recent_five_star:
-- title: Death Valley
-  author: Melissa Broder
-  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
-  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
-- title: The Wind-Up Bird Chronicle
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/3b4cd96b-df1b-4d67-ade6-2d33ed65b712
-  image: https://cdn.thestorygraph.com/367hcwbd3z1tso3u9cpn7q8qe0co
-- title: The Song of Achilles
-  author: Madeline Miller
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
-- title: Six Feet of the Country
-  author: Nadine Gordimer
-  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
-  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
-- title: Pick a Colour
-  author: Souvankham Thammavongsa
-  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
-  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
+- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
+  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
+  author: Lyse Doucet
+  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
+  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: Hotel Iris
+  author: Yōko Ogawa
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
