@@ -1,6 +1,10 @@
 year_count: '105'
 to_read_count: '1401'
 currently_reading:
+- title: Dubliners
+  author: James Joyce
+  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
+  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
 - title: Crooked Plow
   author: Itamar Vieira Junior
   url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
   image: https://cdn.thestorygraph.com/n08pxi7jrlgs2ij8kbmmedh5gzfh
 recent_five_star:
-- title: Autumn
-  author: Ali Smith
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: So Late in the Day
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/75515a65-7c16-43e9-95e6-9c9b1c412ee2
-  image: https://cdn.thestorygraph.com/04qtpbkj0t2e3t6ykvi98pvr1wta
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
+  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
 - title: Sky Daddy
   author: Kate Folk
   url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
   image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: Clear
+  author: Carys Davies
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: Autumn
+  author: Ali Smith
+  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
+  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
