@@ -1,10 +1,10 @@
-year_count: '105'
-to_read_count: '1401'
+year_count: '106'
+to_read_count: '1404'
 currently_reading:
-- title: Dubliners
-  author: James Joyce
-  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
-  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
+- title: 'Stiff: The Curious Lives of Human Cadavers'
+  author: Mary Roach
+  url: https://app.thestorygraph.com/books/f5d8004b-f810-4eab-9389-78de2121a5a4
+  image: https://cdn.thestorygraph.com/xdczhkb51lsecncns7ttt2146k89
 - title: Crooked Plow
   author: Itamar Vieira Junior
   url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
@@ -15,6 +15,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: Dubliners
+  author: James Joyce
+  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
+  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
 - title: A Short Stay in Hell
   author: Steven L. Peck
   url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
@@ -31,28 +35,24 @@ recently_read:
   author: Robin Wall Kimmerer
   url: https://app.thestorygraph.com/books/ae8aa7d8-777d-42b4-bf3a-b3d67c676982
   image: https://cdn.thestorygraph.com/vxitfogfet5xhfawxuj6gjakjk11
-- title: The Reluctant Fundamentalist
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/be105798-ad5d-41e6-ba62-974bdd649477
-  image: https://cdn.thestorygraph.com/n08pxi7jrlgs2ij8kbmmedh5gzfh
 recent_five_star:
-- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
-  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
-- title: Sky Daddy
-  author: Kate Folk
-  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
-  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
-- title: Clear
-  author: Carys Davies
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-- title: Autumn
-  author: Ali Smith
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
+- title: The Last White Man
+  author: Mohsin Hamid
+  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+- title: Letters to Camondo
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+- title: The Book of Chameleons
+  author: José Eduardo Agualusa
+  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
+  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
+- title: Intermezzo
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
