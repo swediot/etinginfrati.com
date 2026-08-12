@@ -36,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/15af6ae3-1230-4948-9948-775b74e79ba8
   image: https://cdn.thestorygraph.com/t5p3mqekwtiici3m24u91lyopy61
 recent_five_star:
-- title: Burnt Sugar
-  author: Avni Doshi
-  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
-  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
 - title: Hunchback
   author: Saou Ichikawa
   url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
   image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
-- title: Trilogy
-  author: May-Brit Akerholt, Jon Fosse
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: The Strange Library
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/d0c3c592-7c5f-4cba-b811-7437ede01a25
+  image: https://cdn.thestorygraph.com/xdf7wzbdr7rvjle2b955m0gkb0g9
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: Pick a Colour
+  author: Souvankham Thammavongsa
+  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
+  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
