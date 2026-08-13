@@ -1,6 +1,10 @@
 year_count: '108'
 to_read_count: '1405'
 currently_reading:
+- title: 'Crossing: A Novel'
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/998ba3fc-7b9a-4e07-a4c1-ed53b689e480
+  image: https://cdn.thestorygraph.com/tbuf3inimw1wgsnnaowanw0vwlw1
 - title: Crooked Plow
   author: Itamar Vieira Junior
   url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
@@ -32,23 +36,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
   image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
 recent_five_star:
-- title: Trilogy
-  author: May-Brit Akerholt, Jon Fosse
-  url: https://app.thestorygraph.com/books/22cfcc06-a3f2-4c42-b689-a5964353ccf8
-  image: https://cdn.thestorygraph.com/wn8oywaxk7b8mght58kc2zbi3g4c
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-- title: The Pisces
-  author: Melissa Broder
-  url: https://app.thestorygraph.com/books/70444842-9afa-40f2-9dc3-daf9eed47766
-  image: https://cdn.thestorygraph.com/8lrugja48ggs3um2p0ulp96rf44n
-- title: Red Crosses
-  author: Sasha Filipenko
-  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
-  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: Sky Daddy
+  author: Kate Folk
+  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
+  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
+- title: The Song of Achilles
+  author: Madeline Miller
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+- title: Fathers and Sons
+  author: Ivan Turgenev
+  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
+  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
