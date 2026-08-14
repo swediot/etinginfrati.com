@@ -1,10 +1,6 @@
-year_count: '108'
-to_read_count: '1405'
+year_count: '109'
+to_read_count: '1406'
 currently_reading:
-- title: 'Crossing: A Novel'
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/998ba3fc-7b9a-4e07-a4c1-ed53b689e480
-  image: https://cdn.thestorygraph.com/tbuf3inimw1wgsnnaowanw0vwlw1
 - title: Crooked Plow
   author: Itamar Vieira Junior
   url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
@@ -15,6 +11,10 @@ currently_reading:
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
 recently_read:
+- title: 'Crossing: A Novel'
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/998ba3fc-7b9a-4e07-a4c1-ed53b689e480
+  image: https://cdn.thestorygraph.com/tbuf3inimw1wgsnnaowanw0vwlw1
 - title: 'Servus: How Slavery Made the Roman Empire'
   author: Emma Southon
   url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
@@ -31,28 +31,24 @@ recently_read:
   author: Steven L. Peck
   url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
   image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
-- title: The Lost Daughter
-  author: Elena Ferrante
-  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
-  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
 recent_five_star:
-- title: Sky Daddy
-  author: Kate Folk
-  url: https://app.thestorygraph.com/books/80848959-e72c-4b64-8d8b-7912843a6423
-  image: https://cdn.thestorygraph.com/s30azdudyd45n46nqyf6f5q1fdhv
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: The Song of Achilles
-  author: Madeline Miller
-  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
-  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: Clear
+  author: Carys Davies
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: James
+  author: Percival Everett
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
