@@ -1,16 +1,28 @@
-year_count: '109'
-to_read_count: '1406'
+year_count: '112'
+to_read_count: '1403'
 currently_reading:
-- title: Crooked Plow
-  author: Itamar Vieira Junior
-  url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
-  image: https://cdn.thestorygraph.com/70v7uk1xt1vragt60f356rhsd5ji
+- title: Bullet Train
+  author: Kōtarō Isaka
+  url: https://app.thestorygraph.com/books/2c70ff44-0b2c-4b89-88e9-e5e381f7f17e
+  image: https://cdn.thestorygraph.com/blausmwfbxo6gv8e42int1kfn0zy
+- title: Beyond the Door of No Return
+  author: David Diop
+  url: https://app.thestorygraph.com/books/c5a767da-da2a-4bb2-9375-3f844b055bbc
+  image: https://cdn.thestorygraph.com/iwqik3g4g5tcprbowsotofzkbmll
+recently_read:
+- title: A Prayer for the Crown-Shy
+  author: Becky Chambers
+  url: https://app.thestorygraph.com/books/33b2f7d2-82ee-4a0a-8519-71e1d988f378
+  image: https://cdn.thestorygraph.com/uhb1bfusqnte7ya8qw0dgqbrfddl
 - title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
     of the History of Turtle Island'
   author: Gisèle Gordon, Kent Monkman
   url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
   image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
-recently_read:
+- title: Crooked Plow
+  author: Itamar Vieira Junior
+  url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
+  image: https://cdn.thestorygraph.com/70v7uk1xt1vragt60f356rhsd5ji
 - title: 'Crossing: A Novel'
   author: Pajtim Statovci
   url: https://app.thestorygraph.com/books/998ba3fc-7b9a-4e07-a4c1-ed53b689e480
@@ -19,36 +31,24 @@ recently_read:
   author: Emma Southon
   url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
   image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
-- title: 'Stiff: The Curious Lives of Human Cadavers'
-  author: Mary Roach
-  url: https://app.thestorygraph.com/books/f5d8004b-f810-4eab-9389-78de2121a5a4
-  image: https://cdn.thestorygraph.com/xdczhkb51lsecncns7ttt2146k89
-- title: Dubliners
-  author: James Joyce
-  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
-  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
-- title: A Short Stay in Hell
-  author: Steven L. Peck
-  url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
-  image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
 recent_five_star:
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
 - title: James
   author: Percival Everett
   url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
   image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-- title: Pick a Colour
-  author: Souvankham Thammavongsa
-  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
-  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
-- title: Another Day of Life
-  author: Ryszard Kapuściński
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: Five Little Indians
+  author: Michelle Good
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
+- title: Transcendent Kingdom
+  author: Yaa Gyasi
+  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
+  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
