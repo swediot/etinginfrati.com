@@ -32,23 +32,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
   image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
 recent_five_star:
-- title: The Book of Chameleons
-  author: José Eduardo Agualusa
-  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
-  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-- title: 'The Trouble with Happiness: and Other Stories'
-  author: Tove Ditlevsen
-  url: https://app.thestorygraph.com/books/79ff2691-0320-463a-8169-a1c1c95bd094
-  image: https://cdn.thestorygraph.com/njghdmvdbwabfdqmyckbr6oexbm5
-- title: China Room
-  author: Sunjeev Sahota
-  url: https://app.thestorygraph.com/books/a3c89af6-da40-4645-a08b-31023efcbcb2
-  image: https://cdn.thestorygraph.com/330weye8el0szmvg8abv1mlf04g8
-- title: 'Servus: How Slavery Made the Roman Empire'
-  author: Emma Southon
-  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
-  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: Letters to Camondo
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
+  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
+- title: My Documents
+  author: Alejandro Zambra
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
