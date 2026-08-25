@@ -1,54 +1,58 @@
-year_count: '112'
-to_read_count: '1405'
+year_count: '118'
+to_read_count: '1401'
 currently_reading:
-- title: Bullet Train
-  author: Kōtarō Isaka
-  url: https://app.thestorygraph.com/books/2c70ff44-0b2c-4b89-88e9-e5e381f7f17e
-  image: https://cdn.thestorygraph.com/blausmwfbxo6gv8e42int1kfn0zy
+- title: Mãn
+  author: Kim Thúy
+  url: https://app.thestorygraph.com/books/165532fd-13dd-46d4-91ec-b20917e699fc
+  image: https://cdn.thestorygraph.com/bywchkyuitcsk6muzqmjiyijzjht
+- title: Des femmes imaginaires
+  author: Jacqueline Harpman
+  url: https://app.thestorygraph.com/books/2cbef807-d46b-4280-84a3-9c1fd5f31737
+  image: https://cdn.thestorygraph.com/tpgisnahj92ka5hhea9xfeyju6u1
+- title: Strange Pictures
+  author: Uketsu
+  url: https://app.thestorygraph.com/books/eb5fce9d-8458-447d-be0d-6d5cb2839859
+  image: https://cdn.thestorygraph.com/gdsa9qj5rc68v7nfv8p9jdli224o
+recently_read:
+- title: Black Girl You Are Atlas
+  author: Renée Watson
+  url: https://app.thestorygraph.com/books/36f1d338-c693-4168-864e-f1da68a02674
+  image: https://cdn.thestorygraph.com/e7em1baii619so5uizxxzrnl9p5x
+- title: Heart, Be at Peace
+  author: Donal Ryan
+  url: https://app.thestorygraph.com/books/ef8b276a-7ee6-4b5d-ba65-563870011606
+  image: https://cdn.thestorygraph.com/dcvp0b39iff2kmv9s9rv2ulg3gqg
+- title: Blood Book
+  author: Kim de L'Horizon
+  url: https://app.thestorygraph.com/books/cb021c14-c02f-42af-84bd-bfea94521a00
+  image: https://cdn.thestorygraph.com/bsl4baajnrflbyjwlpvv2ae5dwbd
+- title: Chinatown
+  author: Oh Jung-hee
+  url: https://app.thestorygraph.com/books/b1391cc4-3ee4-4a23-a294-af08c0ac3307
+  image: https://cdn.thestorygraph.com/80dp8mqrulvwn8w3ba3vgyzf41es
 - title: Beyond the Door of No Return
   author: David Diop
   url: https://app.thestorygraph.com/books/c5a767da-da2a-4bb2-9375-3f844b055bbc
   image: https://cdn.thestorygraph.com/iwqik3g4g5tcprbowsotofzkbmll
-recently_read:
-- title: A Prayer for the Crown-Shy
-  author: Becky Chambers
-  url: https://app.thestorygraph.com/books/33b2f7d2-82ee-4a0a-8519-71e1d988f378
-  image: https://cdn.thestorygraph.com/uhb1bfusqnte7ya8qw0dgqbrfddl
-- title: 'The Memoirs of Miss Chief Eagle Testickle: Vol. 1: A True and Exact Accounting
-    of the History of Turtle Island'
-  author: Gisèle Gordon, Kent Monkman
-  url: https://app.thestorygraph.com/books/2344ae0f-d0be-4b50-aac3-196769943c37
-  image: https://cdn.thestorygraph.com/wfn87282vgy3j51emvrca3y83e4t
-- title: Crooked Plow
-  author: Itamar Vieira Junior
-  url: https://app.thestorygraph.com/books/b507b21c-a7b9-4e6b-828e-0381b46a89b4
-  image: https://cdn.thestorygraph.com/70v7uk1xt1vragt60f356rhsd5ji
-- title: 'Crossing: A Novel'
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/998ba3fc-7b9a-4e07-a4c1-ed53b689e480
-  image: https://cdn.thestorygraph.com/tbuf3inimw1wgsnnaowanw0vwlw1
-- title: 'Servus: How Slavery Made the Roman Empire'
-  author: Emma Southon
-  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
-  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
 recent_five_star:
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-- title: Letters to Camondo
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/78d64eef-a88f-490d-b7e7-f7d2201d1f48
-  image: https://cdn.thestorygraph.com/vppmqri6pmjlktenrh2w7947d1pd
-- title: My Documents
-  author: Alejandro Zambra
-  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
-  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: Another Day of Life
+  author: Ryszard Kapuściński
+  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
+  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+- title: Walk the Blue Fields
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
+  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
+- title: The Summer My Mother Had Green Eyes
+  author: Tatiana Țîbuleac
+  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
+  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
+- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
