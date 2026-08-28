@@ -6,7 +6,7 @@ author_profile: true
 
 I read a lot, usually fiction but not always. Always happy to talk about books and get recommendations. I have read {{ site.data.books.year_count }} book{% if site.data.books.year_count != '1' %}s{% endif %} this year and have {% include format_number.html number=site.data.books.to_read_count %} books in my [to-read pile](https://app.thestorygraph.com/to-read/swediot). For the complete list, see my StoryGraph [profile](https://app.thestorygraph.com/profile/swediot). I get most of my books from [Vastela Books](https://www.vastelabooks.com/) in Zurich.
 
-I also built a small tool for the rest of the pile: [Shelfwatchr](https://shelfwatchr.fly.dev) takes a StoryGraph or Goodreads to-read export, checks it against all your library cards on Libby at once, and tells you what you can borrow right now and what you can place a hold on. It then keeps watching and emails you when something becomes available. It's in a closed beta for now, so [drop me a line](mailto:giulian@etinginfrati.com) if you'd like to try it.
+I also built a small tool for the rest of the pile: [Shelfwatchr](https://shelfwatchr.fly.dev) takes a StoryGraph, Goodreads or Fable to-read export, checks it against all your library cards on Libby at once, and tells you what you can borrow right now and what you can place a hold on.
 
 {% if site.data.books.currently_reading and site.data.books.currently_reading.size > 0 %}
 ## Currently Reading
