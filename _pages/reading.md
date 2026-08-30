@@ -9,7 +9,7 @@ I read a lot, usually fiction but not always. Always happy to talk about books a
 I built two tools for getting through a long to-read pile:
 
 - [Shelfwatchr](https://shelfwatchr.fly.dev) takes a StoryGraph, Goodreads or Fable to-read export, checks it against all your library cards on Libby at once, and tells you what you can borrow right now and what you can place a hold on.
-- [Spotifind](https://github.com/swediot/spotifind) takes the same export and checks which books are on Spotify as audiobooks, then writes a report of what's available and can save the finds straight to your Spotify library.
+- [Spotifind](https://github.com/swediot/spotifind) takes the same export and checks which books are on Spotify as audiobooks, then writes a report of what's available. Can also save the finds straight to your Spotify library.
 
 {% if site.data.books.currently_reading and site.data.books.currently_reading.size > 0 %}
 ## Currently Reading
