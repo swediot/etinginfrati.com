@@ -1,58 +1,53 @@
-year_count: '118'
-to_read_count: '1401'
+year_count: '128'
+to_read_count: '1398'
 currently_reading:
-- title: Mãn
-  author: Kim Thúy
-  url: https://app.thestorygraph.com/books/165532fd-13dd-46d4-91ec-b20917e699fc
-  image: https://cdn.thestorygraph.com/bywchkyuitcsk6muzqmjiyijzjht
-- title: Des femmes imaginaires
-  author: Jacqueline Harpman
-  url: https://app.thestorygraph.com/books/2cbef807-d46b-4280-84a3-9c1fd5f31737
-  image: https://cdn.thestorygraph.com/tpgisnahj92ka5hhea9xfeyju6u1
-- title: Strange Pictures
-  author: Uketsu
-  url: https://app.thestorygraph.com/books/eb5fce9d-8458-447d-be0d-6d5cb2839859
-  image: https://cdn.thestorygraph.com/gdsa9qj5rc68v7nfv8p9jdli224o
+- title: Dance Dance Dance
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/8f04f92a-91f8-4a4e-bc06-b52e36dfa87a
+  image: https://cdn.thestorygraph.com/2zq4f4sshorlf46vomd9svkw4i80
+- title: We Do Not Part
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
+  image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
 recently_read:
-- title: Black Girl You Are Atlas
-  author: Renée Watson
-  url: https://app.thestorygraph.com/books/36f1d338-c693-4168-864e-f1da68a02674
-  image: https://cdn.thestorygraph.com/e7em1baii619so5uizxxzrnl9p5x
-- title: Heart, Be at Peace
-  author: Donal Ryan
-  url: https://app.thestorygraph.com/books/ef8b276a-7ee6-4b5d-ba65-563870011606
-  image: https://cdn.thestorygraph.com/dcvp0b39iff2kmv9s9rv2ulg3gqg
-- title: Blood Book
-  author: Kim de L'Horizon
-  url: https://app.thestorygraph.com/books/cb021c14-c02f-42af-84bd-bfea94521a00
-  image: https://cdn.thestorygraph.com/bsl4baajnrflbyjwlpvv2ae5dwbd
-- title: Chinatown
-  author: Oh Jung-hee
-  url: https://app.thestorygraph.com/books/b1391cc4-3ee4-4a23-a294-af08c0ac3307
-  image: https://cdn.thestorygraph.com/80dp8mqrulvwn8w3ba3vgyzf41es
-- title: Beyond the Door of No Return
-  author: David Diop
-  url: https://app.thestorygraph.com/books/c5a767da-da2a-4bb2-9375-3f844b055bbc
-  image: https://cdn.thestorygraph.com/iwqik3g4g5tcprbowsotofzkbmll
+- title: The Buddha in the Attic
+  author: Julie Otsuka
+  url: https://app.thestorygraph.com/books/79ec7d41-7b14-430d-9331-16c90c32a622
+  image: https://cdn.thestorygraph.com/2jsff281oyp02vl60ru3lfroierf
+- title: Civilizations
+  author: Laurent Binet
+  url: https://app.thestorygraph.com/books/846359c3-999e-4ef3-aa6d-a3402234e6e5
+  image: https://cdn.thestorygraph.com/dgiq60mymg2y0jzp31xo0qwr0lir
+- title: The Undocumented Americans
+  author: Karla Cornejo Villavicencio
+  url: https://app.thestorygraph.com/books/2126e520-8a3d-4657-a38a-4dec7ec46207
+  image: https://cdn.thestorygraph.com/rm2ppkpq5viltebv0x633xeydq1c
+- title: 'Seven Fallen Feathers: Racism, Death, and Hard Truths in a Northern City'
+  author: Tanya Talaga
+  url: https://app.thestorygraph.com/books/6a2f95d6-2199-4e7e-82f9-918ac7dc2330
+  image: https://cdn.thestorygraph.com/27un6jzlr5dbg05hckfsp3z1nrcb
+- title: I Remain in Darkness
+  author: Annie Ernaux
+  url: https://app.thestorygraph.com/books/52481f6d-b148-4ee3-926d-b2c60d7aec9a
+  image: https://cdn.thestorygraph.com/q83j14gnp09sd5u5mc7v9h38l5dj
 recent_five_star:
-- title: Another Day of Life
-  author: Ryszard Kapuściński
-  url: https://app.thestorygraph.com/books/8862049d-9469-4fa3-85f6-6aba322a1156
-  image: https://cdn.thestorygraph.com/nt1tr181mcqpp2ojcyq13avwf0y2
+- title: Intermezzo
+  author: Sally Rooney
+  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
+  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
 - title: Walk the Blue Fields
   author: Claire Keegan
   url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
   image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
-- title: The Summer My Mother Had Green Eyes
-  author: Tatiana Țîbuleac
-  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
-  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
-- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
-    of Plants'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
-  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
-- title: The Road
-  author: Cormac McCarthy
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: The Song of Achilles
+  author: Madeline Miller
+  url: https://app.thestorygraph.com/books/2d58bc85-116d-4c86-92b1-6b38f378f8cf
+  image: https://cdn.thestorygraph.com/m8cw3kb3qx4h2jl8kg0u4m3txhie
+- title: 'Servus: How Slavery Made the Roman Empire'
+  author: Emma Southon
+  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
+  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
