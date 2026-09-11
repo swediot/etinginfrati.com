@@ -4,6 +4,13 @@ collection: research
 excerpt: 
 date: 05/2026
 venue: PNAS
+authors:
+  - Abel Brodeur
+  - David Valenta
+  - Alexandru Marcoci
+  - Juan P. Aparicio
+authors_total: 263
+authors_all: i4r-2025
 category: publication
 paperurl: /files/2025 - I4R Metapaper.pdf
 ---

@@ -4,6 +4,9 @@ collection: research
 excerpt: 
 date: 05/2023
 venue: Stockholm School of Economics, Master's Thesis
+authors:
+  - Giulian Etingin-Frati
+  - Ivelina Ilkova
 category: publication
 paperurl: /files/2023 - MastersThesis.pdf
 ---

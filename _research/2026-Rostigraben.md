@@ -4,6 +4,9 @@ collection: research
 excerpt: 
 date: 04/2026
 venue: Journal for AI Generated Papers
+authors:
+  - Giulian Etingin-Frati
+  - Nicolas Marti
 category: working_paper
 paperurl: /files/2026 - Rostigraben.pdf
 ---

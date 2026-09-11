@@ -1,0 +1,50 @@
+{%- comment -%}
+Renders the byline for a research item.
+
+Front matter contract (on the _research entry):
+  authors        : list of names to print. For papers with a normal number of
+                   authors this is the complete list. For mass-authored papers
+                   it is the lead-author block only.
+  authors_total  : total number of authors. Only set when it exceeds the length
+                   of `authors`; triggers the "and N others" form.
+  authors_all    : key into _data/coauthors/<key>.yml holding the full list.
+                   Only used on the paper's own page, behind a disclosure.
+
+Parameters:
+  page     : the post/page object to read front matter from.
+  expandable : when true, append the full-author-list disclosure.
+{%- endcomment -%}
+
+{%- assign me = site.author.name -%}
+{%- assign lead = include.page.authors -%}
+{%- assign total = include.page.authors_total -%}
+
+{%- if lead and lead.size > 0 -%}
+<p class="pub-authors">
+  {%- for a in lead -%}
+    {%- unless forloop.first -%}
+      {%- if forloop.last and total == nil %} and {% else %}, {% endif -%}
+    {%- endunless -%}
+    {%- if a == me -%}<span class="pub-authors__self">{{ a }}</span>{%- else -%}{{ a }}{%- endif -%}
+  {%- endfor -%}
+  {%- if total -%}
+    {%- assign others = total | minus: lead.size -%}
+    {{ " " }}and {{ others }} others, incl.&nbsp;<span class="pub-authors__self">{{ me }}</span>
+  {%- endif -%}
+</p>
+
+{%- if include.expandable and include.page.authors_all -%}
+{%- assign full = site.data.coauthors[include.page.authors_all] -%}
+{%- if full -%}
+<details class="pub-authors__all">
+  <summary>All {{ total | default: full.size }} authors</summary>
+  <ul class="pub-authors__grid">
+    {%- for a in full -%}
+    <li{% if a == me %} class="pub-authors__self"{% endif %}>{{ a }}</li>
+    {%- endfor -%}
+  </ul>
+</details>
+{%- endif -%}
+{%- endif -%}
+
+{%- endif -%}

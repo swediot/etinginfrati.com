@@ -100,3 +100,93 @@ embed[type="application/pdf"] {
 .author__urls a {
   border-bottom: none !important;
 }
+
+/* Publication bylines
+   ========================================================================== */
+.pub-authors {
+  margin: 0.1em 0 0.35em;
+  font-family: $sans-serif;
+  font-size: 0.85em;
+  line-height: 1.45;
+  color: $gray;
+}
+
+/* Own name is not emphasised - it reads as one author among the rest.
+   The only rule here keeps the surname from breaking across lines. */
+.pub-authors__self {
+  white-space: nowrap;
+}
+
+/* Full author list, collapsed by default on mass-authored papers */
+.pub-authors__all {
+  margin: 0 0 0.75em;
+  font-family: $sans-serif;
+  font-size: 0.8em;
+
+  > summary {
+    display: inline-block;
+    cursor: pointer;
+    color: $gray;
+    border-bottom: 1px dotted rgba(#2B4A6F, 0.35);
+    list-style: none;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &:before {
+      content: "\f0da"; /* caret-right */
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      display: inline-block;
+      width: 1em;
+      font-size: 0.85em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover { color: $text-color; }
+  }
+
+  &[open] > summary:before {
+    transform: rotate(90deg);
+  }
+}
+
+.pub-authors__grid {
+  columns: 3 11em;
+  column-gap: 1.5em;
+  margin: 0.75em 0 0;
+  padding: 0.75em 0 0;
+  border-top: 1px solid rgba(#2B4A6F, 0.1);
+  list-style: none;
+  color: $gray;
+
+  li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    break-inside: avoid;
+  }
+}
+
+/* Byline spacing inside the research listing and on a paper's own page */
+.research-section .archive__item-title + .pub-authors {
+  margin-top: 0.25em;
+}
+
+.research-section .pub-authors + .archive__item-subtitle {
+  margin-top: 0.1em;
+}
+
+/* On a paper's own page the byline sits above the venue line */
+.page__meta-container {
+  .pub-authors {
+    display: block;
+    margin: 0 0 0.35em;
+    font-size: 0.95em;
+  }
+
+  .pub-authors__all {
+    display: block;
+    margin: 0 0 0.6em;
+  }
+}

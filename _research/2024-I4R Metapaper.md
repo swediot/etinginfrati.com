@@ -4,6 +4,13 @@ collection: research
 excerpt: 
 date: 03/2026
 venue: Nature
+authors:
+  - Abel Brodeur
+  - Derek Mikola
+  - Nikolai Cook
+  - Lenka Fiala
+authors_total: 347
+authors_all: i4r-2024
 category: publication
 paperurl: /files/2024 - I4R Metapaper.pdf
 ---

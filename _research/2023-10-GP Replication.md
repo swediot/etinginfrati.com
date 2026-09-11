@@ -4,6 +4,10 @@ collection: research
 excerpt: 
 date: 01/2026
 venue: Economic Inquiry
+authors:
+  - Manuel Bagues
+  - Pamela Campa
+  - Giulian Etingin-Frati
 category: publication
 paperurl: /files/2025 - GP Replication.pdf
 ---

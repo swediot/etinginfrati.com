@@ -31,6 +31,10 @@
     </h2>
 
 
+    {% if post.collection == 'research' %}
+    {% include author-list.html page=post %}
+    {% endif %}
+
     {% if post.collection == 'teaching' %}
     <p class="archive__item-subtitle">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" |
       date: "%Y" }} </p>

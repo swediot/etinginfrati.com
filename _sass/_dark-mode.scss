@@ -160,6 +160,27 @@
         background-color: #2E3D4F;
     }
 
+    /* Publication bylines */
+    .pub-authors {
+        color: #A8B0BF;
+    }
+
+    .pub-authors__all {
+        > summary {
+            color: #A8B0BF;
+            border-bottom-color: rgba(#7BA3CC, 0.35);
+
+            &:hover {
+                color: #E6EDF5;
+            }
+        }
+    }
+
+    .pub-authors__grid {
+        color: #A8B0BF;
+        border-top-color: #2E3D4F;
+    }
+
     .archive__item-teaser {
         background-color: #1C2530;
     }
