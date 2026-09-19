@@ -1,15 +1,24 @@
-year_count: '128'
-to_read_count: '1398'
+year_count: '131'
+to_read_count: '1402'
 currently_reading:
 - title: Dance Dance Dance
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/8f04f92a-91f8-4a4e-bc06-b52e36dfa87a
   image: https://cdn.thestorygraph.com/2zq4f4sshorlf46vomd9svkw4i80
+recently_read:
+- title: 'A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome'
+  author: Emma Southon
+  url: https://app.thestorygraph.com/books/42957489-b0d4-4045-97a1-88a568f19714
+  image: https://cdn.thestorygraph.com/lhk4bachirozokg53f1an7p5jwf3
+- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
+    Global Manhunt'
+  author: Steven Johnson
+  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
+  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
 - title: We Do Not Part
   author: Han Kang
   url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
   image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
-recently_read:
 - title: The Buddha in the Attic
   author: Julie Otsuka
   url: https://app.thestorygraph.com/books/79ec7d41-7b14-430d-9331-16c90c32a622
@@ -18,36 +27,24 @@ recently_read:
   author: Laurent Binet
   url: https://app.thestorygraph.com/books/846359c3-999e-4ef3-aa6d-a3402234e6e5
   image: https://cdn.thestorygraph.com/dgiq60mymg2y0jzp31xo0qwr0lir
-- title: The Undocumented Americans
-  author: Karla Cornejo Villavicencio
-  url: https://app.thestorygraph.com/books/2126e520-8a3d-4657-a38a-4dec7ec46207
-  image: https://cdn.thestorygraph.com/rm2ppkpq5viltebv0x633xeydq1c
-- title: 'Seven Fallen Feathers: Racism, Death, and Hard Truths in a Northern City'
-  author: Tanya Talaga
-  url: https://app.thestorygraph.com/books/6a2f95d6-2199-4e7e-82f9-918ac7dc2330
-  image: https://cdn.thestorygraph.com/27un6jzlr5dbg05hckfsp3z1nrcb
-- title: I Remain in Darkness
-  author: Annie Ernaux
-  url: https://app.thestorygraph.com/books/52481f6d-b148-4ee3-926d-b2c60d7aec9a
-  image: https://cdn.thestorygraph.com/q83j14gnp09sd5u5mc7v9h38l5dj
 recent_five_star:
-- title: The Boy, the Mole, the Fox and the Horse
-  author: Charlie Mackesy
-  url: https://app.thestorygraph.com/books/9f1208c1-cde1-4007-a78e-f451ed099e8a
-  image: https://cdn.thestorygraph.com/037r017o5sndn0uz9efwqbii6uld
-- title: Pick a Colour
-  author: Souvankham Thammavongsa
-  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
-  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
+- title: Et la joie de vivre
+  author: Gisèle Pelicot
+  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
+  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
 - title: How to Get Filthy Rich in Rising Asia
   author: Mohsin Hamid
   url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
   image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: Elsewhere
-  author: Alexis Schaitkin
-  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
-  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+- title: 'Evicted: Poverty and Profit in the American City'
+  author: Matthew Desmond
+  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
+  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
+- title: The Lost Daughter
+  author: Elena Ferrante
+  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
+  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
