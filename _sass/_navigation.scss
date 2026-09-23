@@ -186,6 +186,11 @@
     font-size: 0.9em;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    /* fade colours only: the global "all" transition animates margins and
+       font size as links move in and out of the dropdown, so the nav script
+       would measure the list mid-animation */
+    -webkit-transition: color 0.25s ease, background-color 0.25s ease;
+    transition: color 0.25s ease, background-color 0.25s ease;
 
     &:hover {
       color: $masthead-link-color-hover;
