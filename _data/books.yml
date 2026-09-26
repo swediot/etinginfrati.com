@@ -1,50 +1,53 @@
-year_count: '131'
-to_read_count: '1402'
+year_count: '136'
+to_read_count: '1405'
 currently_reading:
+- title: 'Fire Weather: A True Story from a Hotter World'
+  author: John Vaillant
+  url: https://app.thestorygraph.com/books/da242873-2b0a-40c6-9c4c-1514e8dcd449
+  image: https://cdn.thestorygraph.com/rpjf9e6htdpup4qtl4gq2ao89da5
+- title: People in Love
+  author: Claire Daverley
+  url: https://app.thestorygraph.com/books/8de5d64d-4637-4449-b924-74b26f3feb8b
+  image: https://cdn.thestorygraph.com/2yf1ct2jfq3peddbki3l8rxnfjlp
+recently_read:
+- title: Trash! A Garbageman's Story
+  author: Simon Paré-Poupart
+  url: https://app.thestorygraph.com/books/905c89ca-583e-4ba0-8b94-5650a2aa69b6
+  image: https://cdn.thestorygraph.com/do25q2du5ygry5ssi7zvb2h71op7
+- title: People From My Neighbourhood
+  author: Hiromi Kawakami
+  url: https://app.thestorygraph.com/books/219b71c5-139a-4b4a-9063-e3cd2e7aa53d
+  image: https://cdn.thestorygraph.com/ez2qy42sf5fjet5kqhmo3ip02iaf
+- title: HHhH
+  author: Laurent Binet
+  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
+  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
+- title: 'How Far the Light Reaches: A Life in Ten Sea Creatures'
+  author: Sabrina Imbler
+  url: https://app.thestorygraph.com/books/cff50eb3-7c17-42da-813e-cd66f9addedf
+  image: https://cdn.thestorygraph.com/0znwd7yxzf7o46od8nc5cfjwiizw
 - title: Dance Dance Dance
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/8f04f92a-91f8-4a4e-bc06-b52e36dfa87a
   image: https://cdn.thestorygraph.com/2zq4f4sshorlf46vomd9svkw4i80
-recently_read:
-- title: 'A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome'
-  author: Emma Southon
-  url: https://app.thestorygraph.com/books/42957489-b0d4-4045-97a1-88a568f19714
-  image: https://cdn.thestorygraph.com/lhk4bachirozokg53f1an7p5jwf3
-- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
-    Global Manhunt'
-  author: Steven Johnson
-  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
-  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
-- title: We Do Not Part
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
-  image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
-- title: The Buddha in the Attic
-  author: Julie Otsuka
-  url: https://app.thestorygraph.com/books/79ec7d41-7b14-430d-9331-16c90c32a622
-  image: https://cdn.thestorygraph.com/2jsff281oyp02vl60ru3lfroierf
-- title: Civilizations
-  author: Laurent Binet
-  url: https://app.thestorygraph.com/books/846359c3-999e-4ef3-aa6d-a3402234e6e5
-  image: https://cdn.thestorygraph.com/dgiq60mymg2y0jzp31xo0qwr0lir
 recent_five_star:
-- title: Et la joie de vivre
-  author: Gisèle Pelicot
-  url: https://app.thestorygraph.com/books/88880c6f-bfbe-4bc8-9e5d-d4a00e64d02b
-  image: https://cdn.thestorygraph.com/xjlkto608bvrkub2jq1ivk7088uo
-- title: How to Get Filthy Rich in Rising Asia
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: 'Evicted: Poverty and Profit in the American City'
-  author: Matthew Desmond
-  url: https://app.thestorygraph.com/books/cbf41dd6-7dfd-43f1-a505-25794144519d
-  image: https://cdn.thestorygraph.com/m2i5vylftffrm26r1p3rvcksmcxi
-- title: The Lost Daughter
-  author: Elena Ferrante
-  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
-  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: 'Indignity: A Life Reimagined'
+  author: Lea Ypi
+  url: https://app.thestorygraph.com/books/220aea29-683e-4e56-8f63-ff6628aebb16
+  image: https://cdn.thestorygraph.com/r1f3gi47o6bz0mfi1lgawn49g9v3
+- title: Old God's Time
+  author: Sebastian Barry
+  url: https://app.thestorygraph.com/books/2b871acd-5c20-4966-be8c-5cf901fe99e1
+  image: https://cdn.thestorygraph.com/txb45g5ne1b7fxjbhkmeaqnvj0m1
+- title: Homesick for Another World
+  author: Ottessa Moshfegh
+  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
+  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
+- title: Will You Care If I Die?
+  author: Nicolas Lunabba
+  url: https://app.thestorygraph.com/books/92c3ff8c-a85b-40d0-aa79-a990fa2494a6
+  image: https://cdn.thestorygraph.com/ya1y2fpx5qnocyttvr0848osk5vv
