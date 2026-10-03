@@ -2,27 +2,21 @@ import os
 import re
 import sys
 import yaml
-import subprocess
 from pathlib import Path
+from bs4 import BeautifulSoup
+from curl_cffi import requests
 
-USERNAME = "swediot"
+USERNAME = os.getenv("STORYGRAPH_USERNAME", "swediot")
 BASE_URL = "https://app.thestorygraph.com"
-FETCH_BASE_URL = os.getenv("STORYGRAPH_FETCH_BASE_URL", "https://r.jina.ai/http://https://app.thestorygraph.com")
-OUTPUT_FILE = "_data/books.yml"
+OUTPUT_FILE = os.getenv("STORYGRAPH_OUTPUT_FILE", "_data/books.yml")
 DEBUG_DIR = Path("tmp/storygraph-debug")
 PROFILE_PATH = f"/profile/{USERNAME}"
+PROFILE_URL = f"{BASE_URL}{PROFILE_PATH}"
 
-COUNT_RE = re.compile(r"\[(?P<label>[^\]]+) \((?P<count>\d+)\)\]\(https://app\.thestorygraph\.com/(?P<path>[^)]+)\)")
-YEAR_RE = re.compile(r"\b(?P<count>\d+)\s+This Year\b", re.IGNORECASE)
-SECTION_HEADING_RE = re.compile(r"^##?\s*\[(?P<label>[^\]]+)\]\(https://app\.thestorygraph\.com/(?P<path>[^)]+)\)")
-BOOK_RE = re.compile(
-    r"\[!\[(?:Image \d+: )?(?P<alt>.+?)\]\((?P<image>https://[^)]+)\)\]\((?P<url>https://app\.thestorygraph\.com/books/[^)]+)\)"
-)
-
-SECTION_KEYS = {
-    f"currently-reading/{USERNAME}": "currently_reading",
-    f"books-read/{USERNAME}": "recently_read",
-    f"five_star_reads/{USERNAME}": "recent_five_star",
+SECTION_PATHS = {
+    "currently_reading": f"/currently-reading/{USERNAME}",
+    "recently_read": f"/books-read/{USERNAME}",
+    "recent_five_star": f"/five_star_reads/{USERNAME}",
 }
 
 SECTION_LIMITS = {
@@ -36,75 +30,77 @@ def ensure_debug_dir():
     DEBUG_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def fetch_profile_markdown():
-    primary_url = f"{FETCH_BASE_URL}{PROFILE_PATH}"
-    fallback_url = f"{BASE_URL}{PROFILE_PATH}"
+def fetch_profile_html():
+    """Fetch the StoryGraph profile page directly using TLS fingerprint impersonation.
 
-    commands = [
-        (primary_url, ["curl", "-fsSL", "-A", "Mozilla/5.0", primary_url]),
-        (
-            fallback_url,
-            [
-                "curl",
-                "-fsSL",
-                "-A",
-                "Mozilla/5.0",
-                "--http1.1",
-                "--compressed",
-                "-H",
-                "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "-H",
-                "Accept-Language: en-GB,en-US;q=0.9,en;q=0.8",
-                "-H",
-                "Cache-Control: no-cache",
-                "-H",
-                "Pragma: no-cache",
-                fallback_url,
-            ],
-        ),
-    ]
-
+    Cloudflare blocks generic HTTP clients (curl, requests, urllib) with Turnstile / cf-mitigated challenges.
+    curl_cffi impersonates modern browser TLS/HTTP2 fingerprints, bypassing Cloudflare's bot challenges directly.
+    """
+    impersonate_targets = ["chrome124", "chrome", "chrome120"]
     last_error = None
     challenge_text = None
 
-    for url, command in commands:
-        print(f"Fetching {url}...")
-        result = subprocess.run(command, capture_output=True, text=True, check=False)
+    for target in impersonate_targets:
+        print(f"Fetching {PROFILE_URL} (impersonating {target})...")
+        try:
+            response = requests.get(
+                PROFILE_URL,
+                impersonate=target,
+                timeout=30,
+                headers={
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
+                    "Cache-Control": "no-cache",
+                    "Pragma": "no-cache",
+                },
+            )
+            text = response.text
+            lowered = text.lower()
 
-        if result.returncode != 0:
-            stderr = (result.stderr or "").strip()
-            last_error = f"curl failed via {url}: {stderr or 'unknown error'}"
+            if response.status_code != 200:
+                last_error = f"HTTP {response.status_code} via {target}"
+                continue
+
+            if "title: just a moment..." in lowered or "cf-mitigated" in lowered or "enable javascript and cookies to continue" in lowered:
+                challenge_text = text
+                last_error = f"Fetch via {target} hit Cloudflare challenge"
+                continue
+
+            if f"/profile/{USERNAME}" not in text and f"@{USERNAME}" not in text:
+                last_error = f"Fetch via {target} returned unexpected content"
+                continue
+
+            return text
+        except Exception as e:
+            last_error = f"Request error via {target}: {e}"
             continue
-
-        text = result.stdout
-        lowered = text.lower()
-        if "title: just a moment..." in lowered or "cf-mitigated" in lowered or "enable javascript and cookies to continue" in lowered:
-            challenge_text = text
-            last_error = f"Profile fetch via {url} hit Cloudflare"
-            continue
-
-        if f"https://app.thestorygraph.com/profile/{USERNAME}" not in text:
-            last_error = f"Profile fetch via {url} returned unexpected content"
-            continue
-
-        return text
 
     ensure_debug_dir()
-    debug_path = DEBUG_DIR / "profile.txt"
+    debug_path = DEBUG_DIR / "profile.html"
     debug_path.write_text(challenge_text or (last_error or "Unknown fetch failure"), encoding="utf-8")
     raise RuntimeError(f"{last_error}. Saved debug response to {debug_path}")
 
 
-def parse_counts(profile_markdown):
+def parse_counts(soup):
     counts = {"year_count": "0", "to_read_count": "0"}
 
-    year_match = YEAR_RE.search(profile_markdown)
-    if year_match:
-        counts["year_count"] = year_match.group("count")
+    # Year count (e.g. '143 This Year')
+    for a in soup.find_all("a"):
+        text = a.get_text(" ", strip=True)
+        m = re.search(r"(\d+)\s+This Year", text, re.IGNORECASE)
+        if m:
+            counts["year_count"] = m.group(1)
+            break
 
-    for match in COUNT_RE.finditer(profile_markdown):
-        if match.group("path") == f"to-read/{USERNAME}":
-            counts["to_read_count"] = match.group("count")
+    # To-read count (e.g. 'To-Read Pile (1409)')
+    for a in soup.find_all("a"):
+        href = a.get("href") or ""
+        text = a.get_text(" ", strip=True)
+        if f"/to-read/{USERNAME}" in href:
+            m = re.search(r"\((\d+)\)", text)
+            if m:
+                counts["to_read_count"] = m.group(1)
+                break
 
     return counts
 
@@ -119,47 +115,45 @@ def normalise_alt(alt_text):
     return title.strip(), author.strip()
 
 
-def collect_section_lines(markdown_text):
+def parse_sections(soup):
     sections = {}
-    current_key = None
 
-    for line in markdown_text.splitlines():
-        heading = SECTION_HEADING_RE.match(line.strip())
-        if heading:
-            current_key = SECTION_KEYS.get(heading.group("path"))
-            if current_key and current_key not in sections:
-                sections[current_key] = []
-            continue
+    for section_key, path_suffix in SECTION_PATHS.items():
+        books = []
+        seen = set()
+        section_links = soup.find_all("a", href=re.compile(re.escape(path_suffix)))
+        for sl in section_links:
+            parent = sl.find_parent(["div", "section"])
+            book_links = parent.find_all("a", href=re.compile(r"/books/[a-f0-9-]+")) if parent else []
+            if book_links:
+                for bl in book_links:
+                    href = bl.get("href", "")
+                    if not href.startswith("http"):
+                        href = f"{BASE_URL}{href}"
+                    if href in seen:
+                        continue
+                    seen.add(href)
+                    img = bl.find("img")
+                    if img:
+                        alt = img.get("alt", "")
+                        title, author = normalise_alt(alt)
+                        src = img.get("src", "")
+                        books.append(
+                            {
+                                "title": title,
+                                "author": author,
+                                "url": href,
+                                "image": src,
+                            }
+                        )
+                break
 
-        if current_key:
-            sections[current_key].append(line)
+        limit = SECTION_LIMITS[section_key]
+        if limit is not None:
+            books = books[:limit]
+        sections[section_key] = books
 
-    return {key: "\n".join(lines) for key, lines in sections.items()}
-
-
-def parse_books(section_text, limit=None):
-    books = []
-    seen = set()
-
-    for match in BOOK_RE.finditer(section_text):
-        url = match.group("url")
-        if url in seen:
-            continue
-        seen.add(url)
-
-        title, author = normalise_alt(match.group("alt"))
-        books.append(
-            {
-                "title": title,
-                "author": author,
-                "url": url,
-                "image": match.group("image"),
-            }
-        )
-
-    if limit is not None:
-        books = books[:limit]
-    return books
+    return sections
 
 
 def validate_data(data):
@@ -180,16 +174,15 @@ def validate_data(data):
 
 def main():
     try:
-        profile = fetch_profile_markdown()
+        html = fetch_profile_html()
     except Exception as error:
         print(f"Error fetching StoryGraph data: {error}")
         sys.exit(1)
 
-    data = parse_counts(profile)
-    sections = collect_section_lines(profile)
-
-    for section_key in ["currently_reading", "recently_read", "recent_five_star"]:
-        data[section_key] = parse_books(sections.get(section_key, ""), limit=SECTION_LIMITS[section_key])
+    soup = BeautifulSoup(html, "html.parser")
+    data = parse_counts(soup)
+    sections = parse_sections(soup)
+    data.update(sections)
 
     try:
         validate_data(data)
