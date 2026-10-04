@@ -1,15 +1,23 @@
-year_count: '143'
-to_read_count: '1409'
+year_count: '144'
+to_read_count: '1412'
 currently_reading:
+- title: Spent
+  author: Alison Bechdel
+  url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
+  image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
+- title: Painting Time
+  author: Maylis de Kerangal
+  url: https://app.thestorygraph.com/books/96b00b88-d8cd-485e-8435-dba53720e532
+  image: https://cdn.thestorygraph.com/v4igf59zl6uc9neyvw3aj2cqc969
 - title: 'Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict'
   author: Oren Kessler
   url: https://app.thestorygraph.com/books/ed1e4039-34c9-46b3-9d1a-c734f07fa538
   image: https://cdn.thestorygraph.com/e5ewtw7fvnvmul62d2ftjdgjmk7q
+recently_read:
 - title: Fruit Fly
   author: Josh Silver
   url: https://app.thestorygraph.com/books/449b16ff-575c-4c1f-a857-6e48ab45d569
   image: https://cdn.thestorygraph.com/7oyto83lqkmqw72btrp6rbpedpvi
-recently_read:
 - title: What I Talk About When I Talk About Running
   author: Haruki Murakami, Haruki Murakami
   url: https://app.thestorygraph.com/books/c511e446-3c52-4575-a2b6-af77381c7cc6
@@ -26,28 +34,24 @@ recently_read:
   author: Bohumil Hrabal
   url: https://app.thestorygraph.com/books/a0ef9c1d-cf1b-4cbb-b039-13e0dd12476e
   image: https://cdn.thestorygraph.com/1db9rd8zvvjn634bnsrlnx3kb42x
-- title: May You Have Delicious Meals
-  author: Junko Takase
-  url: https://app.thestorygraph.com/books/a7e56b64-4a95-46c2-b0a1-005a351f57c0
-  image: https://cdn.thestorygraph.com/zne1yidikqqx5cygapb1klq3ewoe
 recent_five_star:
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: Hotel Iris
-  author: Yōko Ogawa
-  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
-  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: 'Blitzed: Drugs in Nazi Germany'
-  author: Norman Ohler
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-- title: 'Diary of a Murderer: And Other Stories'
-  author: Young-Ha Kim
-  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
-  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+- title: Walking on the Ceiling
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
+  image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
+- title: She Who Remains
+  author: Rene Karabash
+  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
+  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
+- title: Black Girl You Are Atlas
+  author: Renée Watson
+  url: https://app.thestorygraph.com/books/36f1d338-c693-4168-864e-f1da68a02674
+  image: https://cdn.thestorygraph.com/e7em1baii619so5uizxxzrnl9p5x
+- title: Heart, Be at Peace
+  author: Donal Ryan
+  url: https://app.thestorygraph.com/books/ef8b276a-7ee6-4b5d-ba65-563870011606
+  image: https://cdn.thestorygraph.com/dcvp0b39iff2kmv9s9rv2ulg3gqg
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
