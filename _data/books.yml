@@ -1,6 +1,10 @@
-year_count: '144'
-to_read_count: '1412'
+year_count: '145'
+to_read_count: '1414'
 currently_reading:
+- title: Light and Thread
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
+  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
 - title: Spent
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
@@ -9,11 +13,11 @@ currently_reading:
   author: Maylis de Kerangal
   url: https://app.thestorygraph.com/books/96b00b88-d8cd-485e-8435-dba53720e532
   image: https://cdn.thestorygraph.com/v4igf59zl6uc9neyvw3aj2cqc969
+recently_read:
 - title: 'Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict'
   author: Oren Kessler
   url: https://app.thestorygraph.com/books/ed1e4039-34c9-46b3-9d1a-c734f07fa538
   image: https://cdn.thestorygraph.com/e5ewtw7fvnvmul62d2ftjdgjmk7q
-recently_read:
 - title: Fruit Fly
   author: Josh Silver
   url: https://app.thestorygraph.com/books/449b16ff-575c-4c1f-a857-6e48ab45d569
@@ -30,28 +34,24 @@ recently_read:
   author: Ayşegül Savaş
   url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
   image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
-- title: Closely Observed Trains
-  author: Bohumil Hrabal
-  url: https://app.thestorygraph.com/books/a0ef9c1d-cf1b-4cbb-b039-13e0dd12476e
-  image: https://cdn.thestorygraph.com/1db9rd8zvvjn634bnsrlnx3kb42x
 recent_five_star:
-- title: Walking on the Ceiling
-  author: Ayşegül Savaş
-  url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
-  image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
-- title: She Who Remains
-  author: Rene Karabash
-  url: https://app.thestorygraph.com/books/e7a31125-4c1b-4653-a30a-49ea20ffe2d9
-  image: https://cdn.thestorygraph.com/hg7a2srz7et5iayjevjh9aviddmb
-- title: Black Girl You Are Atlas
-  author: Renée Watson
-  url: https://app.thestorygraph.com/books/36f1d338-c693-4168-864e-f1da68a02674
-  image: https://cdn.thestorygraph.com/e7em1baii619so5uizxxzrnl9p5x
-- title: Heart, Be at Peace
-  author: Donal Ryan
-  url: https://app.thestorygraph.com/books/ef8b276a-7ee6-4b5d-ba65-563870011606
-  image: https://cdn.thestorygraph.com/dcvp0b39iff2kmv9s9rv2ulg3gqg
-- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
-  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
+- title: The Last White Man
+  author: Mohsin Hamid
+  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
+  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: HHhH
+  author: Laurent Binet
+  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
+  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
+- title: Clear
+  author: Carys Davies
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: James
+  author: Percival Everett
+  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
+  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
