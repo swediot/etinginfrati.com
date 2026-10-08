@@ -1,10 +1,6 @@
-year_count: '145'
+year_count: '147'
 to_read_count: '1414'
 currently_reading:
-- title: Light and Thread
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
-  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
 - title: Spent
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
@@ -14,6 +10,14 @@ currently_reading:
   url: https://app.thestorygraph.com/books/96b00b88-d8cd-485e-8435-dba53720e532
   image: https://cdn.thestorygraph.com/v4igf59zl6uc9neyvw3aj2cqc969
 recently_read:
+- title: 'Huna: A Memoir'
+  author: Abdelrahman ElGendy
+  url: https://app.thestorygraph.com/books/738dfcac-c311-47ed-93b5-067d1b9fd491
+  image: https://cdn.thestorygraph.com/kz4uwe6tpky928ql3bqg4emq5ree
+- title: Light and Thread
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
+  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
 - title: 'Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict'
   author: Oren Kessler
   url: https://app.thestorygraph.com/books/ed1e4039-34c9-46b3-9d1a-c734f07fa538
@@ -26,32 +30,24 @@ recently_read:
   author: Haruki Murakami, Haruki Murakami
   url: https://app.thestorygraph.com/books/c511e446-3c52-4575-a2b6-af77381c7cc6
   image: https://cdn.thestorygraph.com/chmf1ec6ogdc9o08etqce6n9jt1o
-- title: When the Emperor Was Divine
-  author: Julie Otsuka
-  url: https://app.thestorygraph.com/books/a496df5e-ff34-4d19-a74e-9cfe33701785
-  image: https://cdn.thestorygraph.com/scfc87iet9246ef0nmutlu5rkoac
-- title: Walking on the Ceiling
-  author: Ayşegül Savaş
-  url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
-  image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
 recent_five_star:
-- title: The Last White Man
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-- title: HHhH
-  author: Laurent Binet
-  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
-  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
-- title: Clear
-  author: Carys Davies
-  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
-  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
+- title: Light and Thread
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
+  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
+- title: The Summer My Mother Had Green Eyes
+  author: Tatiana Țîbuleac
+  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
+  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
+- title: We Do Not Part
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
+  image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: 'Nocturnes: Five Stories of Music and Nightfall'
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
+  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
