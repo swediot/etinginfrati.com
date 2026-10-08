@@ -1,6 +1,10 @@
 year_count: '147'
-to_read_count: '1414'
+to_read_count: '1415'
 currently_reading:
+- title: The Villain's Dance
+  author: Fiston Mwanza Mujila
+  url: https://app.thestorygraph.com/books/0ef1fc94-9a2e-4aec-b003-86213967f48a
+  image: https://cdn.thestorygraph.com/4eu8hz8pwosi81m21zbyb38227s4
 - title: Spent
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
@@ -31,23 +35,24 @@ recently_read:
   url: https://app.thestorygraph.com/books/c511e446-3c52-4575-a2b6-af77381c7cc6
   image: https://cdn.thestorygraph.com/chmf1ec6ogdc9o08etqce6n9jt1o
 recent_five_star:
-- title: Light and Thread
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
-  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
-- title: The Summer My Mother Had Green Eyes
-  author: Tatiana Țîbuleac
-  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
-  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
-- title: We Do Not Part
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
-  image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: A Wild Sheep Chase
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
+  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
+- title: 'Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings
+    of Plants'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/cc0a72df-968e-4c9c-8e5f-e24fef28eca5
+  image: https://cdn.thestorygraph.com/whbvd725ifvtjdhrpy5qh460hj8m
+- title: 'Diary of a Murderer: And Other Stories'
+  author: Young-Ha Kim
+  url: https://app.thestorygraph.com/books/8f0f53b9-ee2c-438f-a155-dd1dba7cdb3f
+  image: https://cdn.thestorygraph.com/a8rm3dqfozaj6kbutna3fxia0d26
+- title: Homesick for Another World
+  author: Ottessa Moshfegh
+  url: https://app.thestorygraph.com/books/ef9fd9bd-c330-4034-99e4-bf8dca679eb9
+  image: https://cdn.thestorygraph.com/kz9s6ux9lgtum9phiz543qmm8zo0
