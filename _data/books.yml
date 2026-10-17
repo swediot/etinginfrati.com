@@ -1,19 +1,19 @@
-year_count: '153'
-to_read_count: '1412'
+year_count: '154'
+to_read_count: '1413'
 currently_reading:
 - title: The Cabinet
   author: Un-su Kim
   url: https://app.thestorygraph.com/books/8f2802b1-8d41-4b35-bd76-37e013ea5c7e
   image: https://cdn.thestorygraph.com/z8icgtg0txpz6zmhecsjfwlbfco5
-- title: 'The Furies: Women, Vengeance, and Justice'
-  author: Elizabeth Flock
-  url: https://app.thestorygraph.com/books/a7aed20a-a594-408d-8fff-7182d012935c
-  image: https://cdn.thestorygraph.com/0e8z7ewh2hds4ueo0i2n8yr48t52
 - title: Spent
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
   image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
 recently_read:
+- title: 'The Furies: Women, Vengeance, and Justice'
+  author: Elizabeth Flock
+  url: https://app.thestorygraph.com/books/a7aed20a-a594-408d-8fff-7182d012935c
+  image: https://cdn.thestorygraph.com/0e8z7ewh2hds4ueo0i2n8yr48t52
 - title: Water Moon
   author: Samantha Sotto Yambao
   url: https://app.thestorygraph.com/books/7f13f096-27b5-41dd-9c5a-d439a1128e72
@@ -30,28 +30,24 @@ recently_read:
   author: Ayşegül Savaş
   url: https://app.thestorygraph.com/books/39d12492-bb5d-4104-8248-46c68b4984d7
   image: https://cdn.thestorygraph.com/c65e3r879051mh1nu8gtap7y1roc
-- title: Flowers for Algernon
-  author: Daniel Keyes
-  url: https://app.thestorygraph.com/books/af39702f-0c79-454e-b025-b601eba0da94
-  image: https://cdn.thestorygraph.com/92ay7wpjekvb64znaypxoqsvhhlz
 recent_five_star:
-- title: Red Crosses
-  author: Sasha Filipenko
-  url: https://app.thestorygraph.com/books/7b98c0a8-3cd4-4045-ba0b-461ae8f15e16
-  image: https://cdn.thestorygraph.com/aigu8s2xe2po8kglcv1d09bqga0l
-- title: A Wild Sheep Chase
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
-  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
-- title: Autumn
-  author: Ali Smith
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
-- title: Bolla
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-- title: Light and Thread
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
-  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
+- title: I'll Never Call Him Dad Again
+  author: Caroline Darian
+  url: https://app.thestorygraph.com/books/a34a5a11-0658-4f15-a103-8f7d54fb5710
+  image: https://cdn.thestorygraph.com/jyy12jhspre521eefg6l2upi0nkb
+- title: 'Seven Fallen Feathers: Racism, Death, and Hard Truths in a Northern City'
+  author: Tanya Talaga
+  url: https://app.thestorygraph.com/books/6a2f95d6-2199-4e7e-82f9-918ac7dc2330
+  image: https://cdn.thestorygraph.com/27un6jzlr5dbg05hckfsp3z1nrcb
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
+- title: 'Servus: How Slavery Made the Roman Empire'
+  author: Emma Southon
+  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
+  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
+- title: Anish & Antony Take Afghanistan
+  author: Scott King
+  url: https://app.thestorygraph.com/books/f5e382cc-8eec-4489-aaac-3e334837e0e3
+  image: https://cdn.thestorygraph.com/4pt8bnsspd8jx13jzjajf3bzhofz
