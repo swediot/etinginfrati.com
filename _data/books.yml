@@ -1,10 +1,11 @@
-year_count: '157'
-to_read_count: '1410'
+year_count: '159'
+to_read_count: '1414'
 currently_reading:
 - title: Lot
   author: Bryan Washington
   url: https://app.thestorygraph.com/books/03d3a652-2709-46d9-8469-9b8f011317fc
   image: https://cdn.thestorygraph.com/2rsxc6vlwizjakqqaxiq4ssjsycw
+recently_read:
 - title: Tokyo Express
   author: Seichō Matsumoto
   url: https://app.thestorygraph.com/books/11691ce7-4348-4cf7-b686-e58c585c97ce
@@ -13,7 +14,6 @@ currently_reading:
   author: Alison Bechdel
   url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
   image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
-recently_read:
 - title: The Cabinet
   author: Un-su Kim
   url: https://app.thestorygraph.com/books/8f2802b1-8d41-4b35-bd76-37e013ea5c7e
@@ -26,31 +26,23 @@ recently_read:
   author: Mari N Crabtree
   url: https://app.thestorygraph.com/books/e5174717-b916-4b3c-bf5e-e4769ed58290
   image: https://cdn.thestorygraph.com/rbfl2m4jcx31gm0sylwxk7q29vc2
-- title: 'The Furies: Women, Vengeance, and Justice'
-  author: Elizabeth Flock
-  url: https://app.thestorygraph.com/books/a7aed20a-a594-408d-8fff-7182d012935c
-  image: https://cdn.thestorygraph.com/0e8z7ewh2hds4ueo0i2n8yr48t52
-- title: Water Moon
-  author: Samantha Sotto Yambao
-  url: https://app.thestorygraph.com/books/7f13f096-27b5-41dd-9c5a-d439a1128e72
-  image: https://cdn.thestorygraph.com/76ggejt659ujftk4cfg1r1008x9e
 recent_five_star:
-- title: Disgrace
-  author: J.M. Coetzee
-  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
-  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
-- title: The Details
-  author: Ia Genberg
-  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
-  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
-- title: 'Servus: How Slavery Made the Roman Empire'
-  author: Emma Southon
-  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
-  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
-- title: 'Nocturnes: Five Stories of Music and Nightfall'
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/8dfdc64b-d23a-4b0d-b45d-07d9cb7593a7
-  image: https://cdn.thestorygraph.com/ha8tg7qqfivpm7svu56mn1os9ncu
+- title: Audition
+  author: Katie Kitamura
+  url: https://app.thestorygraph.com/books/59ce80c8-8920-466b-bab5-2cf40ed070c5
+  image: https://cdn.thestorygraph.com/f0eiqp33at0axkdwumypmdsyuk3s
+- title: Burnt Sugar
+  author: Avni Doshi
+  url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
+  image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
+- title: Spent
+  author: Alison Bechdel
+  url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
+  image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
+- title: A Short Stay in Hell
+  author: Steven L. Peck
+  url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
+  image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
 - title: Autumn
   author: Ali Smith
   url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
