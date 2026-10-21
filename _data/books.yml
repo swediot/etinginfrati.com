@@ -1,11 +1,15 @@
-year_count: '159'
-to_read_count: '1414'
+year_count: '160'
+to_read_count: '1413'
 currently_reading:
 - title: Lot
   author: Bryan Washington
   url: https://app.thestorygraph.com/books/03d3a652-2709-46d9-8469-9b8f011317fc
   image: https://cdn.thestorygraph.com/2rsxc6vlwizjakqqaxiq4ssjsycw
 recently_read:
+- title: True Biz
+  author: Sara Nović
+  url: https://app.thestorygraph.com/books/953ea368-8270-4af8-a6d1-82b6c6e02b08
+  image: https://cdn.thestorygraph.com/xhgtk3mms0k8zvv3qnnsypzravnc
 - title: Tokyo Express
   author: Seichō Matsumoto
   url: https://app.thestorygraph.com/books/11691ce7-4348-4cf7-b686-e58c585c97ce
@@ -22,28 +26,24 @@ recently_read:
   author: Katie Kitamura
   url: https://app.thestorygraph.com/books/59ce80c8-8920-466b-bab5-2cf40ed070c5
   image: https://cdn.thestorygraph.com/f0eiqp33at0axkdwumypmdsyuk3s
-- title: 'My Soul Is a Witness: The Traumatic Afterlife of Lynching'
-  author: Mari N Crabtree
-  url: https://app.thestorygraph.com/books/e5174717-b916-4b3c-bf5e-e4769ed58290
-  image: https://cdn.thestorygraph.com/rbfl2m4jcx31gm0sylwxk7q29vc2
 recent_five_star:
-- title: Audition
-  author: Katie Kitamura
-  url: https://app.thestorygraph.com/books/59ce80c8-8920-466b-bab5-2cf40ed070c5
-  image: https://cdn.thestorygraph.com/f0eiqp33at0axkdwumypmdsyuk3s
 - title: Burnt Sugar
   author: Avni Doshi
   url: https://app.thestorygraph.com/books/c8a9825d-a32b-4325-b3ad-476a472a29fd
   image: https://cdn.thestorygraph.com/c8zcihyac0ac5tci1ibpshak0z72
-- title: Spent
-  author: Alison Bechdel
-  url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
-  image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
-- title: A Short Stay in Hell
-  author: Steven L. Peck
-  url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
-  image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
-- title: Autumn
-  author: Ali Smith
-  url: https://app.thestorygraph.com/books/4ad1f3fb-04cd-4c92-b5bb-e7132a945cd5
-  image: https://cdn.thestorygraph.com/2abqbxl0zw95m2vtnxm6ad22xsx5
+- title: Hotel Iris
+  author: Yōko Ogawa
+  url: https://app.thestorygraph.com/books/ea035367-6978-4df7-87a5-5ad59686ecfc
+  image: https://cdn.thestorygraph.com/vlnh8ta0k58vxihkys3u2zdb1yhj
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
+- title: Walk the Blue Fields
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
+  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
+- title: Bolla
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
