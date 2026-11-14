@@ -1,49 +1,54 @@
-year_count: '160'
-to_read_count: '1414'
+year_count: '177'
+to_read_count: '1422'
 currently_reading:
-- title: Lot
-  author: Bryan Washington
-  url: https://app.thestorygraph.com/books/03d3a652-2709-46d9-8469-9b8f011317fc
-  image: https://cdn.thestorygraph.com/2rsxc6vlwizjakqqaxiq4ssjsycw
+- title: 'Sum: Forty tales from the afterlives'
+  author: David Eagleman
+  url: https://app.thestorygraph.com/books/c6e34512-3485-412b-abc5-1877574c26c6
+  image: https://cdn.thestorygraph.com/cfpeqvr2t1m1ku3g4jfz8a6b9jod
+- title: 'Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy'
+  author: Julia Ioffe
+  url: https://app.thestorygraph.com/books/b9fe9440-3b41-4504-bfee-a5825abf3ad0
+  image: https://cdn.thestorygraph.com/zuocyvlf9mllxa76l1tb00xj5i3u
 recently_read:
-- title: True Biz
-  author: Sara Nović
-  url: https://app.thestorygraph.com/books/953ea368-8270-4af8-a6d1-82b6c6e02b08
-  image: https://cdn.thestorygraph.com/xhgtk3mms0k8zvv3qnnsypzravnc
-- title: Tokyo Express
-  author: Seichō Matsumoto
-  url: https://app.thestorygraph.com/books/11691ce7-4348-4cf7-b686-e58c585c97ce
-  image: https://cdn.thestorygraph.com/wdzi9kmlw5l12s7swcddn3uifr5c
-- title: Spent
-  author: Alison Bechdel
-  url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
-  image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
-- title: The Cabinet
-  author: Un-su Kim
-  url: https://app.thestorygraph.com/books/8f2802b1-8d41-4b35-bd76-37e013ea5c7e
-  image: https://cdn.thestorygraph.com/z8icgtg0txpz6zmhecsjfwlbfco5
-- title: Audition
-  author: Katie Kitamura
-  url: https://app.thestorygraph.com/books/59ce80c8-8920-466b-bab5-2cf40ed070c5
-  image: https://cdn.thestorygraph.com/f0eiqp33at0axkdwumypmdsyuk3s
+- title: 'Democracy''s Data: The Hidden Stories in the U.S. Census and How to Read
+    Them'
+  author: Dan Bouk
+  url: https://app.thestorygraph.com/books/0c22ef56-7f0b-4f02-9d87-0adc557518ce
+  image: https://cdn.thestorygraph.com/05add9eu3v1f9qvgkqznm930hvy9
+- title: The Wax Child
+  author: Olga Ravn
+  url: https://app.thestorygraph.com/books/b9d670ad-56a4-4b68-96d9-6cd68630804c
+  image: https://cdn.thestorygraph.com/c0w6qffxsvhr5hrmfrjtn8kux177
+- title: The Wilderness
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/ae79583d-c75f-40fc-a4a7-12e241479803
+  image: https://cdn.thestorygraph.com/5heu38rcuez3ud3rd1r6w13ylgtn
+- title: Helen of Nowhere
+  author: Makenna Goodman
+  url: https://app.thestorygraph.com/books/a89c39cc-6c18-4d43-82dc-5971df2778b4
+  image: https://cdn.thestorygraph.com/x2957w4w5rhgppk2t0qfo5k49n6v
+- title: An Indigenous Peoples' History of the United States
+  author: Roxanne Dunbar-Ortiz
+  url: https://app.thestorygraph.com/books/4608469c-8cd6-4860-9c25-00a4858eac5b
+  image: https://cdn.thestorygraph.com/m2r3qhszyyecn6xrf5sw3rbwp1x4
 recent_five_star:
-- title: Dubliners
-  author: James Joyce
-  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
-  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
-- title: HHhH
-  author: Laurent Binet
-  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
-  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-- title: Transcendent Kingdom
-  author: Yaa Gyasi
-  url: https://app.thestorygraph.com/books/c7ff491a-7fb6-404f-a271-8f6b4ed21126
-  image: https://cdn.thestorygraph.com/tkpvx1od7nj2kdelmccdy0osxldw
-- title: 'Seven Fallen Feathers: Racism, Death, and Hard Truths in a Northern City'
-  author: Tanya Talaga
-  url: https://app.thestorygraph.com/books/6a2f95d6-2199-4e7e-82f9-918ac7dc2330
-  image: https://cdn.thestorygraph.com/27un6jzlr5dbg05hckfsp3z1nrcb
+- title: I'll Never Call Him Dad Again
+  author: Caroline Darian
+  url: https://app.thestorygraph.com/books/a34a5a11-0658-4f15-a103-8f7d54fb5710
+  image: https://cdn.thestorygraph.com/jyy12jhspre521eefg6l2upi0nkb
+- title: Clear
+  author: Carys Davies
+  url: https://app.thestorygraph.com/books/da7e7707-1179-4db5-afa1-d764f16b2cca
+  image: https://cdn.thestorygraph.com/3ezw99kaww38aofre4enq663wzlu
+- title: Everything is Tuberculosis
+  author: John Green
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+- title: Elsewhere
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/79a1c3ce-ddaa-4850-baa2-a7f34c44b352
+  image: https://cdn.thestorygraph.com/slelsh4ndy7coolm5hz51xgsxjbq
+- title: The Book of Chameleons
+  author: José Eduardo Agualusa
+  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
+  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
