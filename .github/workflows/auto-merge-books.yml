@@ -1,0 +1,153 @@
+name: Auto-merge StoryGraph books.yml
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    branches:
+      - master
+
+concurrency:
+  group: auto-merge-books-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  verify-and-merge:
+    if: >-
+      github.event.pull_request.user.login == 'tfm-bot' &&
+      github.event.pull_request.draft == false &&
+      github.event.pull_request.base.ref == 'master'
+    runs-on: ubuntu-latest
+    steps:
+      # Intentionally NO actions/checkout step: untrusted fork code never touches disk.
+      - name: Verify PR touches only _data/books.yml with valid schema
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          python3 - <<'PY'
+          import base64
+          import json
+          import os
+          import subprocess
+          import sys
+          import yaml
+
+          def fail(msg: str) -> None:
+              print(f"REJECTED: {msg}", file=sys.stderr)
+              sys.exit(1)
+
+          def gh_json(endpoint: str):
+              out = subprocess.check_output(["gh", "api", endpoint], text=True)
+              return json.loads(out)
+
+          repo = os.environ["REPO"]
+          pr_num = os.environ["PR_NUMBER"]
+          author = os.environ["PR_AUTHOR"]
+          base_ref = os.environ["BASE_REF"]
+          head_repo = os.environ["HEAD_REPO"]
+          head_sha = os.environ["HEAD_SHA"]
+
+          if author != "tfm-bot":
+              fail(f"unexpected PR author {author!r}")
+          if base_ref != "master":
+              fail(f"unexpected base branch {base_ref!r}")
+
+          pr = gh_json(f"repos/{repo}/pulls/{pr_num}")
+          if pr.get("state") != "open" or pr.get("draft"):
+              fail("PR is not open/ready")
+          if pr.get("user", {}).get("login") != "tfm-bot":
+              fail("PR user mismatch")
+          if pr.get("head", {}).get("sha") != head_sha:
+              fail("PR head SHA moved during check")
+          if pr.get("changed_files") != 1:
+              fail(f"expected exactly 1 changed file, got {pr.get('changed_files')}")
+
+          files = gh_json(f"repos/{repo}/pulls/{pr_num}/files?per_page=10")
+          if not isinstance(files, list) or len(files) != 1:
+              fail(f"expected 1 file entry, got {len(files) if isinstance(files, list) else type(files)}")
+
+          entry = files[0]
+          if entry.get("filename") != "_data/books.yml":
+              fail(f"disallowed path {entry.get('filename')!r}")
+          if entry.get("status") != "modified":
+              fail(f"expected status 'modified', got {entry.get('status')!r}")
+
+          blob = gh_json(f"repos/{head_repo}/contents/_data/books.yml?ref={head_sha}")
+          if blob.get("type") != "file":
+              fail(f"expected regular file, got {blob.get('type')!r}")
+          if blob.get("sha") != entry.get("sha"):
+              fail("blob SHA mismatch against PR file list")
+          size = int(blob.get("size") or 0)
+          if size <= 0 or size > 65536:
+              fail(f"unexpected _data/books.yml size: {size} bytes")
+
+          raw_yaml = base64.b64decode(blob["content"]).decode("utf-8")
+          data = yaml.safe_load(raw_yaml)
+          if not isinstance(data, dict):
+              fail("YAML root must be a mapping")
+
+          expected_keys = {
+              "year_count",
+              "to_read_count",
+              "currently_reading",
+              "recently_read",
+              "recent_five_star",
+          }
+          if set(data.keys()) != expected_keys:
+              fail(f"unexpected top-level keys: {sorted(data.keys())}")
+
+          for count_key in ("year_count", "to_read_count"):
+              val = data[count_key]
+              if not isinstance(val, str) or not val.isdigit():
+                  fail(f"{count_key} must be a numeric string, got {val!r}")
+
+          for section in ("currently_reading", "recently_read", "recent_five_star"):
+              items = data[section]
+              if not isinstance(items, list) or len(items) > 50:
+                  fail(f"{section} must be a list of <=50 items")
+              for idx, book in enumerate(items):
+                  if not isinstance(book, dict) or set(book.keys()) != {"title", "author", "url", "image"}:
+                      fail(f"{section}[{idx}] has invalid keys")
+                  if not all(isinstance(book[k], str) for k in ("title", "author", "url", "image")):
+                      fail(f"{section}[{idx}] values must be strings")
+                  if not book["title"].strip():
+                      fail(f"{section}[{idx}] has empty title")
+                  if not book["url"].startswith("https://app.thestorygraph.com/"):
+                      fail(f"{section}[{idx}] has non-StoryGraph URL {book['url']!r}")
+                  if book["image"] and not book["image"].startswith("https://"):
+                      fail(f"{section}[{idx}] has non-HTTPS image URL {book['image']!r}")
+
+          print(f"Verified _data/books.yml ({size} bytes) at commit {head_sha}.")
+          PY
+
+      - name: Squash-merge verified PR and trigger Pages build
+        env:
+          GH_TOKEN: ${{ secrets.AUTO_MERGE_PAT }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "AUTO_MERGE_PAT secret is not configured." >&2
+            exit 1
+          fi
+          # Retry briefly in case GitHub is still computing mergeability right after PR creation.
+          for attempt in 1 2 3 4 5; do
+            if gh pr merge "$PR_NUMBER" \
+              --repo "$REPO" \
+              --squash \
+              --match-head-commit "$HEAD_SHA"; then
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
