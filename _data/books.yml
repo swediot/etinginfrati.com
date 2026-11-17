@@ -1,15 +1,27 @@
-year_count: '177'
-to_read_count: '1423'
+year_count: '180'
+to_read_count: '1422'
 currently_reading:
-- title: How to Use 3,000 Yen
-  author: Hika Harada
-  url: https://app.thestorygraph.com/books/b60ca348-7d01-460b-b8ff-15d7b36f13ce
-  image: https://cdn.thestorygraph.com/8lajjserwplhhf3n0uifks7sfjle
+- title: Matryona's House and Other Stories
+  author: Aleksandr Solzhenitsyn
+  url: https://app.thestorygraph.com/books/5bca6f08-1d13-429b-944e-7a250683b9a4
+  image: https://cdn.thestorygraph.com/tgii7vzdcki2rhh6ikwwpgd693b3
+- title: 'First Person Singular: Stories'
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/7dbf41c5-3433-4f30-8f38-d0b70c16cfb8
+  image: https://cdn.thestorygraph.com/1aha7glsvoiny7z114mm2k3t1tpv
+recently_read:
+- title: Trans on Trans
+  author: Gigi Giampietro
+  url: https://app.thestorygraph.com/books/7e00d54c-71db-410e-bbf7-ed685fbaa8d8
+  image: https://cdn.thestorygraph.com/0irsuqju8rfqxr3azbd8xb2926dv
 - title: 'Motherland: A Feminist History of Modern Russia, from Revolution to Autocracy'
   author: Julia Ioffe
   url: https://app.thestorygraph.com/books/b9fe9440-3b41-4504-bfee-a5825abf3ad0
   image: https://cdn.thestorygraph.com/zuocyvlf9mllxa76l1tb00xj5i3u
-recently_read:
+- title: How to Use 3,000 Yen
+  author: Hika Harada
+  url: https://app.thestorygraph.com/books/b60ca348-7d01-460b-b8ff-15d7b36f13ce
+  image: https://cdn.thestorygraph.com/8lajjserwplhhf3n0uifks7sfjle
 - title: 'Democracy''s Data: The Hidden Stories in the U.S. Census and How to Read
     Them'
   author: Dan Bouk
@@ -19,36 +31,25 @@ recently_read:
   author: Olga Ravn
   url: https://app.thestorygraph.com/books/b9d670ad-56a4-4b68-96d9-6cd68630804c
   image: https://cdn.thestorygraph.com/c0w6qffxsvhr5hrmfrjtn8kux177
-- title: The Wilderness
-  author: Ayşegül Savaş
-  url: https://app.thestorygraph.com/books/ae79583d-c75f-40fc-a4a7-12e241479803
-  image: https://cdn.thestorygraph.com/5heu38rcuez3ud3rd1r6w13ylgtn
-- title: Helen of Nowhere
-  author: Makenna Goodman
-  url: https://app.thestorygraph.com/books/a89c39cc-6c18-4d43-82dc-5971df2778b4
-  image: https://cdn.thestorygraph.com/x2957w4w5rhgppk2t0qfo5k49n6v
-- title: An Indigenous Peoples' History of the United States
-  author: Roxanne Dunbar-Ortiz
-  url: https://app.thestorygraph.com/books/4608469c-8cd6-4860-9c25-00a4858eac5b
-  image: https://cdn.thestorygraph.com/m2r3qhszyyecn6xrf5sw3rbwp1x4
 recent_five_star:
-- title: True Biz
-  author: Sara Nović
-  url: https://app.thestorygraph.com/books/953ea368-8270-4af8-a6d1-82b6c6e02b08
-  image: https://cdn.thestorygraph.com/xhgtk3mms0k8zvv3qnnsypzravnc
-- title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
-  author: Lyse Doucet
-  url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
-  image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
 - title: How to Get Filthy Rich in Rising Asia
   author: Mohsin Hamid
   url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
   image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: Etna
-  author: Paul Yoon
-  url: https://app.thestorygraph.com/books/5cc05383-1382-47bd-9ced-76d42522b0cf
-  image: https://cdn.thestorygraph.com/789lnfn5vs2ldth1wfvcblov5zj4
+- title: Walk the Blue Fields
+  author: Claire Keegan
+  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
+  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
+- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
+    Global Manhunt'
+  author: Steven Johnson
+  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
+  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
+- title: Dubliners
+  author: James Joyce
+  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
+  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
+- title: The Pearl
+  author: John Steinbeck
+  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
+  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
