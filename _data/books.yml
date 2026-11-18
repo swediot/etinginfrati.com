@@ -32,23 +32,24 @@ recently_read:
   url: https://app.thestorygraph.com/books/b9d670ad-56a4-4b68-96d9-6cd68630804c
   image: https://cdn.thestorygraph.com/c0w6qffxsvhr5hrmfrjtn8kux177
 recent_five_star:
-- title: Pick a Colour
-  author: Souvankham Thammavongsa
-  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
-  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
+- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
+    Global Manhunt'
+  author: Steven Johnson
+  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
+  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
+- title: Light and Thread
+  author: Han Kang
+  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
+  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
 - title: Everything is Tuberculosis
   author: John Green
   url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
   image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-- title: Bolla
-  author: Pajtim Statovci
-  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
-  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
-- title: 'Blitzed: Drugs in Nazi Germany'
-  author: Norman Ohler
-  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
-  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
-- title: Five Little Indians
-  author: Michelle Good
-  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
-  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+- title: Etna
+  author: Paul Yoon
+  url: https://app.thestorygraph.com/books/5cc05383-1382-47bd-9ced-76d42522b0cf
+  image: https://cdn.thestorygraph.com/789lnfn5vs2ldth1wfvcblov5zj4
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
