@@ -32,24 +32,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/b9d670ad-56a4-4b68-96d9-6cd68630804c
   image: https://cdn.thestorygraph.com/c0w6qffxsvhr5hrmfrjtn8kux177
 recent_five_star:
-- title: How to Get Filthy Rich in Rising Asia
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
-- title: Walk the Blue Fields
-  author: Claire Keegan
-  url: https://app.thestorygraph.com/books/3f497a61-b49d-4b70-8294-2df5c11744c9
-  image: https://cdn.thestorygraph.com/he0xfraihiapau9ihn6hj2eimfbi
-- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
-    Global Manhunt'
-  author: Steven Johnson
-  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
-  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
-- title: Dubliners
-  author: James Joyce
-  url: https://app.thestorygraph.com/books/43e6f524-f46b-4ed0-b66e-081cfe05e201
-  image: https://cdn.thestorygraph.com/lh8uwo3gtmzp4hoqeihyfg69rqv3
-- title: The Pearl
-  author: John Steinbeck
-  url: https://app.thestorygraph.com/books/af47adf4-32ac-48db-a3ee-8cf50dd9afb4
-  image: https://cdn.thestorygraph.com/l9kcx1usx17vsynvc0txlc4qrpod
+- title: Pick a Colour
+  author: Souvankham Thammavongsa
+  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
+  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
+- title: Everything is Tuberculosis
+  author: John Green
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+- title: Bolla
+  author: Pajtim Statovci
+  url: https://app.thestorygraph.com/books/0a43187a-8aa9-4059-9779-0728dbae683a
+  image: https://cdn.thestorygraph.com/14ftstuntpnhklijtains31fibxc
+- title: 'Blitzed: Drugs in Nazi Germany'
+  author: Norman Ohler
+  url: https://app.thestorygraph.com/books/41abe324-acbe-45ba-afd2-e57e0cc67c99
+  image: https://cdn.thestorygraph.com/hb3abf8p39e1hqufn7blg5t9a2h8
+- title: Five Little Indians
+  author: Michelle Good
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
