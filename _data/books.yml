@@ -1,15 +1,19 @@
-year_count: '180'
-to_read_count: '1422'
+year_count: '181'
+to_read_count: '1426'
 currently_reading:
-- title: Matryona's House and Other Stories
-  author: Aleksandr Solzhenitsyn
-  url: https://app.thestorygraph.com/books/5bca6f08-1d13-429b-944e-7a250683b9a4
-  image: https://cdn.thestorygraph.com/tgii7vzdcki2rhh6ikwwpgd693b3
+- title: 'Ultimate Punishment: A Lawyer''s Reflections on Dealing with the Death Penalty'
+  author: Scott Turow
+  url: https://app.thestorygraph.com/books/2a03d527-d6ca-4c56-a01c-9624a50b2d8a
+  image: https://cdn.thestorygraph.com/xl85pfb5ss35wizt7t30nlri7pz4
 - title: 'First Person Singular: Stories'
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/7dbf41c5-3433-4f30-8f38-d0b70c16cfb8
   image: https://cdn.thestorygraph.com/1aha7glsvoiny7z114mm2k3t1tpv
 recently_read:
+- title: Matryona's House and Other Stories
+  author: Aleksandr Solzhenitsyn
+  url: https://app.thestorygraph.com/books/5bca6f08-1d13-429b-944e-7a250683b9a4
+  image: https://cdn.thestorygraph.com/tgii7vzdcki2rhh6ikwwpgd693b3
 - title: Trans on Trans
   author: Gigi Giampietro
   url: https://app.thestorygraph.com/books/7e00d54c-71db-410e-bbf7-ed685fbaa8d8
@@ -27,29 +31,24 @@ recently_read:
   author: Dan Bouk
   url: https://app.thestorygraph.com/books/0c22ef56-7f0b-4f02-9d87-0adc557518ce
   image: https://cdn.thestorygraph.com/05add9eu3v1f9qvgkqznm930hvy9
-- title: The Wax Child
-  author: Olga Ravn
-  url: https://app.thestorygraph.com/books/b9d670ad-56a4-4b68-96d9-6cd68630804c
-  image: https://cdn.thestorygraph.com/c0w6qffxsvhr5hrmfrjtn8kux177
 recent_five_star:
-- title: 'Enemy of All Mankind: A True Story of Piracy, Power, and History''s First
-    Global Manhunt'
-  author: Steven Johnson
-  url: https://app.thestorygraph.com/books/f750cd95-c9ac-4829-a5d7-93582d266e08
-  image: https://cdn.thestorygraph.com/kzsgb4hy8gpzwgvhj269qd2w9fay
-- title: Light and Thread
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/9854f297-f9b1-4020-becc-8d5721012ec3
-  image: https://cdn.thestorygraph.com/17vtnwtgxer4zwcqm7pridppwijy
-- title: Everything is Tuberculosis
-  author: John Green
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-- title: Etna
-  author: Paul Yoon
-  url: https://app.thestorygraph.com/books/5cc05383-1382-47bd-9ced-76d42522b0cf
-  image: https://cdn.thestorygraph.com/789lnfn5vs2ldth1wfvcblov5zj4
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: The Lost Daughter
+  author: Elena Ferrante
+  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
+  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
+- title: 'Servus: How Slavery Made the Roman Empire'
+  author: Emma Southon
+  url: https://app.thestorygraph.com/books/83538278-2c6f-4612-85d1-dde513e6fe2c
+  image: https://cdn.thestorygraph.com/pjjhi0r5qkkc8827a8bbxefqats0
+- title: Hunchback
+  author: Saou Ichikawa
+  url: https://app.thestorygraph.com/books/a850435e-ea74-4da2-823f-b0b01f93bb4f
+  image: https://cdn.thestorygraph.com/q6zlvpws7mdlbgcjpn0vjps0fm1h
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: Long Distance
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/dc450f7b-5499-488b-9b7f-232ce300756c
+  image: https://cdn.thestorygraph.com/x6h88yyiirqizumk9aanb7r55mq4
