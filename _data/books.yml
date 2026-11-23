@@ -31,23 +31,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/2a03d527-d6ca-4c56-a01c-9624a50b2d8a
   image: https://cdn.thestorygraph.com/xl85pfb5ss35wizt7t30nlri7pz4
 recent_five_star:
-- title: A Single Man
-  author: Christopher Isherwood
-  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
-  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
-- title: The Emperor of Gladness
-  author: Ocean Vuong
-  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
-  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
-  author: Edmund de Waal
-  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
-  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
-- title: The Road
-  author: Cormac McCarthy
-  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
-  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: Disgrace
+  author: J.M. Coetzee
+  url: https://app.thestorygraph.com/books/b129ab3b-8f70-4c50-b77d-358c8df3f719
+  image: https://cdn.thestorygraph.com/0hrxcx8on8y7mhxdes4omrthfk8o
+- title: Saint X
+  author: Alexis Schaitkin
+  url: https://app.thestorygraph.com/books/67fa69db-c02d-4304-9195-93848ea2a371
+  image: https://cdn.thestorygraph.com/ghvty0r5x52k39tnofh3dbcdys6w
+- title: Six Feet of the Country
+  author: Nadine Gordimer
+  url: https://app.thestorygraph.com/books/1e10f830-0082-40b3-8b03-853ce679d2b0
+  image: https://cdn.thestorygraph.com/xotc5bbrcxqm4t2zk31gfj51r80d
+- title: The Details
+  author: Ia Genberg
+  url: https://app.thestorygraph.com/books/5e4c31f5-42dc-44fd-a078-e7fedbe19ac4
+  image: https://cdn.thestorygraph.com/yrzms7q4y5wfpkgvca2m4ufnyy6f
+- title: Spent
+  author: Alison Bechdel
+  url: https://app.thestorygraph.com/books/22694bf4-0685-496a-9ad4-927e31ba5218
+  image: https://cdn.thestorygraph.com/bhnkhiwb4tlpfmvgr9l8x6xl7s00
