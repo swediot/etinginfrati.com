@@ -1,6 +1,15 @@
-year_count: '184'
-to_read_count: '1427'
+year_count: '186'
+to_read_count: '1426'
 currently_reading:
+- title: May We Feed the King
+  author: Rebecca Perry
+  url: https://app.thestorygraph.com/books/fc6e9a79-0763-49c2-abcd-464d191c29d7
+  image: https://cdn.thestorygraph.com/2xzbqai9ky5iud2f4dow39fiocgm
+- title: The Ethnic Cleansing of Palestine
+  author: Ilan Pappé
+  url: https://app.thestorygraph.com/books/5f89c282-c594-461d-a01b-44b1ff16230b
+  image: https://cdn.thestorygraph.com/kmwze6y36tdjun0b7b2iockymrje
+recently_read:
 - title: A World of Strangers
   author: Nadine Gordimer
   url: https://app.thestorygraph.com/books/4b23edad-bdff-49e2-b6d1-e07acb3a6b39
@@ -9,7 +18,6 @@ currently_reading:
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/7dbf41c5-3433-4f30-8f38-d0b70c16cfb8
   image: https://cdn.thestorygraph.com/1aha7glsvoiny7z114mm2k3t1tpv
-recently_read:
 - title: How Did It All Begin?
   author: Stephen Hawking
   url: https://app.thestorygraph.com/books/c37f2882-bb2d-4a6f-b087-f56c8155f840
@@ -22,32 +30,24 @@ recently_read:
   author: Scott Turow
   url: https://app.thestorygraph.com/books/2a03d527-d6ca-4c56-a01c-9624a50b2d8a
   image: https://cdn.thestorygraph.com/xl85pfb5ss35wizt7t30nlri7pz4
-- title: Matryona's House and Other Stories
-  author: Aleksandr Solzhenitsyn
-  url: https://app.thestorygraph.com/books/5bca6f08-1d13-429b-944e-7a250683b9a4
-  image: https://cdn.thestorygraph.com/tgii7vzdcki2rhh6ikwwpgd693b3
-- title: Trans on Trans
-  author: Gigi Giampietro
-  url: https://app.thestorygraph.com/books/7e00d54c-71db-410e-bbf7-ed685fbaa8d8
-  image: https://cdn.thestorygraph.com/0irsuqju8rfqxr3azbd8xb2926dv
 recent_five_star:
-- title: Fathers and Sons
-  author: Ivan Turgenev
-  url: https://app.thestorygraph.com/books/241cbd6d-9bb4-4e2c-a33f-474d9d21ac08
-  image: https://cdn.thestorygraph.com/vxy87r45qr89swfgw0l5ssdq0d4q
-- title: HHhH
-  author: Laurent Binet
-  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
-  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
-- title: I Deliver Parcels in Beijing
-  author: Hu Anyan
-  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
-  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
-- title: The Last White Man
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/f5416655-55da-45e8-b6c9-63ed2f8626ac
-  image: https://cdn.thestorygraph.com/rml0pm5vdxx9pwg11y8a3sd57js2
-- title: The Wren, The Wren
-  author: Anne Enright
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
+- title: A Single Man
+  author: Christopher Isherwood
+  url: https://app.thestorygraph.com/books/92907123-4f77-4084-b7fa-0e6f914a9ef3
+  image: https://cdn.thestorygraph.com/hngm56pwimx5jfv4klx5qwaeusjs
+- title: The Emperor of Gladness
+  author: Ocean Vuong
+  url: https://app.thestorygraph.com/books/1397b44d-21d3-418e-a325-db1730c08f4a
+  image: https://cdn.thestorygraph.com/yyhygythem9wk28ws6vsad9a3tck
+- title: Tomorrow, and Tomorrow, and Tomorrow
+  author: Gabrielle Zevin
+  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
+  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
+- title: 'The Hare with Amber Eyes: A Family''s Century of Art and Loss'
+  author: Edmund de Waal
+  url: https://app.thestorygraph.com/books/3a427943-f581-4fd6-9bb3-48ee0a38179c
+  image: https://cdn.thestorygraph.com/vbk7qsroxwh3swney3olgtxe3ptr
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
