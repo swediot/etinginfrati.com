@@ -1,15 +1,19 @@
-year_count: '187'
-to_read_count: '1433'
+year_count: '188'
+to_read_count: '1432'
 currently_reading:
+- title: Rejection
+  author: Tony Tulathimutte
+  url: https://app.thestorygraph.com/books/cfb2f1ce-46d9-424b-8f67-ef48e9fa42e5
+  image: https://cdn.thestorygraph.com/drm33l02nuhjdlmxi57y5rs9i60b
 - title: Austerlitz
   author: W.G. Sebald
   url: https://app.thestorygraph.com/books/80708b5f-bfb9-4145-b176-817ee5ce1f70
   image: https://cdn.thestorygraph.com/rjsqwvke0e9t233yqua3c9c21y79
+recently_read:
 - title: May We Feed the King
   author: Rebecca Perry
   url: https://app.thestorygraph.com/books/fc6e9a79-0763-49c2-abcd-464d191c29d7
   image: https://cdn.thestorygraph.com/2xzbqai9ky5iud2f4dow39fiocgm
-recently_read:
 - title: The Ethnic Cleansing of Palestine
   author: Ilan Pappé
   url: https://app.thestorygraph.com/books/5f89c282-c594-461d-a01b-44b1ff16230b
@@ -26,28 +30,24 @@ recently_read:
   author: Stephen Hawking
   url: https://app.thestorygraph.com/books/c37f2882-bb2d-4a6f-b087-f56c8155f840
   image: https://cdn.thestorygraph.com/6kblbaiej8wpe7t3k7rfwcrxrssj
-- title: So Long a Letter
-  author: Mariama Bâ
-  url: https://app.thestorygraph.com/books/07b02450-c5db-4bf2-b57f-7f69eca5fd65
-  image: https://cdn.thestorygraph.com/77aethja0668kjj1fhxu1nfmlhhv
 recent_five_star:
-- title: A Wild Sheep Chase
+- title: HHhH
+  author: Laurent Binet
+  url: https://app.thestorygraph.com/books/13fd1f92-685b-40bf-b8f8-a25a50fca73c
+  image: https://cdn.thestorygraph.com/22qialk4gjwrw4hkejc1w8pb2mjo
+- title: Five Little Indians
+  author: Michelle Good
+  url: https://app.thestorygraph.com/books/54bb11e6-6eca-49ff-9801-2b963583ece1
+  image: https://cdn.thestorygraph.com/ksiuo9w2epqr8ug449dn3mybu7g5
+- title: My Documents
+  author: Alejandro Zambra
+  url: https://app.thestorygraph.com/books/2bf71dbc-f096-4c6b-92cb-fbd31f7d86b5
+  image: https://cdn.thestorygraph.com/2gar85ac65ns3nxlrb2d4hr78ocb
+- title: Pick a Colour
+  author: Souvankham Thammavongsa
+  url: https://app.thestorygraph.com/books/c0c6e6dd-a32d-46d6-b3f9-b48e72672758
+  image: https://cdn.thestorygraph.com/ad1mh4iff5qota39d4ypwuh7b9xa
+- title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
   author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
-  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
-- title: A Short Stay in Hell
-  author: Steven L. Peck
-  url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
-  image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
-- title: Everything is Tuberculosis
-  author: John Green
-  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
-  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
-- title: Julia
-  author: Sandra Newman
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-- title: Walking on the Ceiling
-  author: Ayşegül Savaş
-  url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
-  image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
+  url: https://app.thestorygraph.com/books/5568d8e9-4ed2-4a1f-80a5-9d2bf811f607
+  image: https://cdn.thestorygraph.com/nr1x4gsii7o4t2kjy5q9izvq7gci
