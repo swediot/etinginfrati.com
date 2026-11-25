@@ -31,23 +31,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/07b02450-c5db-4bf2-b57f-7f69eca5fd65
   image: https://cdn.thestorygraph.com/77aethja0668kjj1fhxu1nfmlhhv
 recent_five_star:
-- title: Intermezzo
-  author: Sally Rooney
-  url: https://app.thestorygraph.com/books/1c8879fe-1017-41dd-830f-69eb33ca34b6
-  image: https://cdn.thestorygraph.com/duug9oajy2guswr98zdu5wt491a4
-- title: The Lost Daughter
-  author: Elena Ferrante
-  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
-  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
-- title: We Do Not Part
-  author: Han Kang
-  url: https://app.thestorygraph.com/books/76292380-2d13-4d98-8358-5a98d32c6c5d
-  image: https://cdn.thestorygraph.com/aw1rbymt4rlfm2e70tnt8d72qed1
-- title: The Wren, The Wren
-  author: Anne Enright
-  url: https://app.thestorygraph.com/books/7ed8bc02-2aeb-4836-b115-5e163af27295
-  image: https://cdn.thestorygraph.com/4emxy6g7qyejpyvvb0tusd467lr7
-- title: Live Fast
-  author: Brigitte Giraud
-  url: https://app.thestorygraph.com/books/c17e2c94-c230-4590-90ee-000a739ba7e4
-  image: https://cdn.thestorygraph.com/7ph49bv1au2hzz3y5pfkdn9v95ni
+- title: A Wild Sheep Chase
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
+  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
+- title: A Short Stay in Hell
+  author: Steven L. Peck
+  url: https://app.thestorygraph.com/books/ca25ebfd-538b-4daa-8a58-5e4874c9777d
+  image: https://cdn.thestorygraph.com/v4mvj37mzxtev5jj5c4p8zt0oc87
+- title: Everything is Tuberculosis
+  author: John Green
+  url: https://app.thestorygraph.com/books/b01e3a23-d80f-4cc5-818e-9820032b336c
+  image: https://cdn.thestorygraph.com/k5cy9m078j6h0qpmditgvuesxxy7
+- title: Julia
+  author: Sandra Newman
+  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
+  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
+- title: Walking on the Ceiling
+  author: Ayşegül Savaş
+  url: https://app.thestorygraph.com/books/e9128a0e-401a-407c-81f5-661c3b79ca5a
+  image: https://cdn.thestorygraph.com/wn6eoeh0n8uv18926dujvpm1kg8g
