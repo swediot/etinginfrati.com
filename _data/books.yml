@@ -1,15 +1,19 @@
-year_count: '188'
-to_read_count: '1432'
+year_count: '189'
+to_read_count: '1435'
 currently_reading:
+- title: The Cellist of Sarajevo
+  author: Steven Galloway
+  url: https://app.thestorygraph.com/books/7794abdb-89a1-4c91-bc09-f739341b91db
+  image: https://cdn.thestorygraph.com/erxsfjilgiu0z2uwippbc59tz49s
 - title: Rejection
   author: Tony Tulathimutte
   url: https://app.thestorygraph.com/books/cfb2f1ce-46d9-424b-8f67-ef48e9fa42e5
   image: https://cdn.thestorygraph.com/drm33l02nuhjdlmxi57y5rs9i60b
+recently_read:
 - title: Austerlitz
   author: W.G. Sebald
   url: https://app.thestorygraph.com/books/80708b5f-bfb9-4145-b176-817ee5ce1f70
   image: https://cdn.thestorygraph.com/rjsqwvke0e9t233yqua3c9c21y79
-recently_read:
 - title: May We Feed the King
   author: Rebecca Perry
   url: https://app.thestorygraph.com/books/fc6e9a79-0763-49c2-abcd-464d191c29d7
@@ -26,28 +30,24 @@ recently_read:
   author: Haruki Murakami
   url: https://app.thestorygraph.com/books/7dbf41c5-3433-4f30-8f38-d0b70c16cfb8
   image: https://cdn.thestorygraph.com/1aha7glsvoiny7z114mm2k3t1tpv
-- title: How Did It All Begin?
-  author: Stephen Hawking
-  url: https://app.thestorygraph.com/books/c37f2882-bb2d-4a6f-b087-f56c8155f840
-  image: https://cdn.thestorygraph.com/6kblbaiej8wpe7t3k7rfwcrxrssj
 recent_five_star:
-- title: The English Understand Wool
-  author: Helen DeWitt
-  url: https://app.thestorygraph.com/books/1c2aaa8c-98bf-4e0e-a022-80da11a2ea2e
-  image: https://cdn.thestorygraph.com/tc513ggp3m7ye3v36z1e7nwvfmnw
-- title: So Long a Letter
-  author: Mariama Bâ
-  url: https://app.thestorygraph.com/books/07b02450-c5db-4bf2-b57f-7f69eca5fd65
-  image: https://cdn.thestorygraph.com/77aethja0668kjj1fhxu1nfmlhhv
-- title: James
-  author: Percival Everett
-  url: https://app.thestorygraph.com/books/23b4494e-6fd7-41db-88e7-0dc8d6115462
-  image: https://cdn.thestorygraph.com/3qmwqx0owa2m6e707phtbx84zmsc
-- title: House of Day, House of Night
-  author: Olga Tokarczuk
-  url: https://app.thestorygraph.com/books/47ea3918-aee2-4739-bc4b-0d0789983aef
-  image: https://cdn.thestorygraph.com/oyc04i3dvtfvrffj0i1kiv05w6x2
-- title: How to Get Filthy Rich in Rising Asia
-  author: Mohsin Hamid
-  url: https://app.thestorygraph.com/books/cfc98d7e-21ff-4a10-8c9e-0f26e5f6858c
-  image: https://cdn.thestorygraph.com/emtxikoipdkr7rnxwxgg2gao7tde
+- title: The Lost Daughter
+  author: Elena Ferrante
+  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
+  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
+- title: True Biz
+  author: Sara Nović
+  url: https://app.thestorygraph.com/books/953ea368-8270-4af8-a6d1-82b6c6e02b08
+  image: https://cdn.thestorygraph.com/xhgtk3mms0k8zvv3qnnsypzravnc
+- title: The Buried Giant
+  author: Kazuo Ishiguro
+  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
+  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
+- title: Split Tooth
+  author: Tanya Tagaq
+  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
+  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
+- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
+  author: Robin Wall Kimmerer
+  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
+  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
