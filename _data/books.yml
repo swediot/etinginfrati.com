@@ -1,15 +1,15 @@
-year_count: '189'
-to_read_count: '1435'
+year_count: '190'
+to_read_count: '1436'
 currently_reading:
-- title: The Cellist of Sarajevo
-  author: Steven Galloway
-  url: https://app.thestorygraph.com/books/7794abdb-89a1-4c91-bc09-f739341b91db
-  image: https://cdn.thestorygraph.com/erxsfjilgiu0z2uwippbc59tz49s
 - title: Rejection
   author: Tony Tulathimutte
   url: https://app.thestorygraph.com/books/cfb2f1ce-46d9-424b-8f67-ef48e9fa42e5
   image: https://cdn.thestorygraph.com/drm33l02nuhjdlmxi57y5rs9i60b
 recently_read:
+- title: The Cellist of Sarajevo
+  author: Steven Galloway
+  url: https://app.thestorygraph.com/books/7794abdb-89a1-4c91-bc09-f739341b91db
+  image: https://cdn.thestorygraph.com/erxsfjilgiu0z2uwippbc59tz49s
 - title: Austerlitz
   author: W.G. Sebald
   url: https://app.thestorygraph.com/books/80708b5f-bfb9-4145-b176-817ee5ce1f70
@@ -26,28 +26,24 @@ recently_read:
   author: Nadine Gordimer
   url: https://app.thestorygraph.com/books/4b23edad-bdff-49e2-b6d1-e07acb3a6b39
   image: https://cdn.thestorygraph.com/zjyiqz3ypp7p8jzwa7sd9ejrvqtn
-- title: 'First Person Singular: Stories'
-  author: Haruki Murakami
-  url: https://app.thestorygraph.com/books/7dbf41c5-3433-4f30-8f38-d0b70c16cfb8
-  image: https://cdn.thestorygraph.com/1aha7glsvoiny7z114mm2k3t1tpv
 recent_five_star:
-- title: The Lost Daughter
-  author: Elena Ferrante
-  url: https://app.thestorygraph.com/books/fee0dc96-8057-49d4-871c-4649b9b8cdb4
-  image: https://cdn.thestorygraph.com/7q7t7eee7ufuo0xtr5y6h1ykp9gz
-- title: True Biz
-  author: Sara Nović
-  url: https://app.thestorygraph.com/books/953ea368-8270-4af8-a6d1-82b6c6e02b08
-  image: https://cdn.thestorygraph.com/xhgtk3mms0k8zvv3qnnsypzravnc
-- title: The Buried Giant
-  author: Kazuo Ishiguro
-  url: https://app.thestorygraph.com/books/ea8bacce-274e-4538-bf41-c5f580ba3e64
-  image: https://cdn.thestorygraph.com/k7p1d4qh4j7tbvfnhbuz5nea2cqc
-- title: Split Tooth
-  author: Tanya Tagaq
-  url: https://app.thestorygraph.com/books/7a53316b-9e33-4d4b-8209-5099ac7a4858
-  image: https://cdn.thestorygraph.com/q40p679gnvtykof08czhatk1t7pn
-- title: 'The Serviceberry: Abundance and Reciprocity in the Natural World'
-  author: Robin Wall Kimmerer
-  url: https://app.thestorygraph.com/books/db0aad7e-bbd2-4938-ac21-58a7bf9040b8
-  image: https://cdn.thestorygraph.com/dmwxg7qd97mkxqqj5kpn6mbvit27
+- title: Yesteryear
+  author: Caro Claire Burke
+  url: https://app.thestorygraph.com/books/708e17d5-0e39-425c-89be-dbec0ffba19e
+  image: https://cdn.thestorygraph.com/qexi8invtbh6qpzglv3y8im6tam2
+- title: Black Girl You Are Atlas
+  author: Renée Watson
+  url: https://app.thestorygraph.com/books/36f1d338-c693-4168-864e-f1da68a02674
+  image: https://cdn.thestorygraph.com/e7em1baii619so5uizxxzrnl9p5x
+- title: I Deliver Parcels in Beijing
+  author: Hu Anyan
+  url: https://app.thestorygraph.com/books/e7d3c766-b3c8-4606-9f79-2a0fa9ee883f
+  image: https://cdn.thestorygraph.com/9zgx7zfmajve8k8a7u6op60o828d
+- title: A Wild Sheep Chase
+  author: Haruki Murakami
+  url: https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf
+  image: https://cdn.thestorygraph.com/ijm5njgx9pslm2wkzwtyr8lqbeh1
+- title: Death Valley
+  author: Melissa Broder
+  url: https://app.thestorygraph.com/books/19687ad8-64ab-45ee-ad00-54ad8e3f3db4
+  image: https://cdn.thestorygraph.com/g9l3i20j968nsdf8ta4io0rtyeaf
