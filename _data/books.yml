@@ -27,23 +27,23 @@ recently_read:
   url: https://app.thestorygraph.com/books/4b23edad-bdff-49e2-b6d1-e07acb3a6b39
   image: https://cdn.thestorygraph.com/zjyiqz3ypp7p8jzwa7sd9ejrvqtn
 recent_five_star:
+- title: The Summer My Mother Had Green Eyes
+  author: Tatiana Țîbuleac
+  url: https://app.thestorygraph.com/books/062c9d8d-3ca8-4a64-b6f9-114810d4b06f
+  image: https://cdn.thestorygraph.com/s7biemu80don25crqfjp69tnhmq8
 - title: 'The Finest Hotel in Kabul: A People''s History of Afghanistan'
   author: Lyse Doucet
   url: https://app.thestorygraph.com/books/c1b96ed6-0496-4217-a7ff-1bdc83f975e4
   image: https://cdn.thestorygraph.com/y1mlkdilws1oaby4ie47m3ldw899
-- title: Julia
-  author: Sandra Newman
-  url: https://app.thestorygraph.com/books/735ac1ea-bf65-4122-99f4-4e1345690f41
-  image: https://cdn.thestorygraph.com/8sep16g3qz3pueb3jwwipfyeypkk
-- title: The Buddha in the Attic
-  author: Julie Otsuka
-  url: https://app.thestorygraph.com/books/79ec7d41-7b14-430d-9331-16c90c32a622
-  image: https://cdn.thestorygraph.com/2jsff281oyp02vl60ru3lfroierf
-- title: Tomorrow, and Tomorrow, and Tomorrow
-  author: Gabrielle Zevin
-  url: https://app.thestorygraph.com/books/167cc896-1a42-4383-8189-56630e602911
-  image: https://cdn.thestorygraph.com/aog3yjbw2slrhigvdsulwkkokz4r
-- title: 'The Abandoners: Of Mothers and Monsters'
-  author: Begoña Gómez Urzaiz
-  url: https://app.thestorygraph.com/books/0376fc83-2e53-445d-8314-c63402cc1425
-  image: https://cdn.thestorygraph.com/xnmebubd0q8mt2kfzqbv13ew91r5
+- title: The Road
+  author: Cormac McCarthy
+  url: https://app.thestorygraph.com/books/ace10445-0be3-4081-8ba9-69f46efb0760
+  image: https://cdn.thestorygraph.com/l9wxco13vf4c298n56lipwhyzzzx
+- title: The Book of Chameleons
+  author: José Eduardo Agualusa
+  url: https://app.thestorygraph.com/books/6df4c867-7190-4064-81c1-e2a75f58f5b1
+  image: https://cdn.thestorygraph.com/zlwrxpsca0cp7bi1jbck7oo3anuk
+- title: So Long a Letter
+  author: Mariama Bâ
+  url: https://app.thestorygraph.com/books/07b02450-c5db-4bf2-b57f-7f69eca5fd65
+  image: https://cdn.thestorygraph.com/77aethja0668kjj1fhxu1nfmlhhv
